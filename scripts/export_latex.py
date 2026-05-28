@@ -130,10 +130,11 @@ L.append(r"\caption{Sample Characteristics --- Insider Ownership Quintile Portfo
 L.append(r"\label{tab:sample}")
 L.append(r"")
 L.append(r"\textit{Panel A: Firm Distribution by Ownership Quintile and Region}\\[4pt]")
-L.append(r"\begin{tabularx}{\textwidth}{l l r r r r r r}")
+L.append(r"\begin{adjustbox}{max width=\textwidth}")
+L.append(r"\begin{tabular}{l l r r r r r r}")
 L.append(r"\toprule")
 L.append(r"\textbf{Portfolio} & \textbf{Ownership Range} & \textbf{N} & \textbf{Mean (\%)}"
-         r" & \textbf{Asia-Pac.} & \textbf{Europe} & \textbf{N.\ America} & \textbf{EM ex-Asia} \\")
+         r" & \textbf{Asia-Pac.} & \textbf{Europe} & \textbf{N.\ Am.} & \textbf{EM ex-Asia} \\")
 L.append(r"\midrule")
 
 for p in ["P1","P2","P3","P4","P5"]:
@@ -155,7 +156,8 @@ L.append(f"  \\textbf{{Total}} & & \\textbf{{{tot_n:,}}} & {tot_mo}"
          f" & {int((firms['Region']=='North America').sum())}"
          f" & {int((firms['Region']=='EM ex-Asia').sum())} \\\\")
 L.append(r"\bottomrule")
-L.append(r"\end{tabularx}")
+L.append(r"\end{tabular}")
+L.append(r"\end{adjustbox}")
 L.append(r"")
 L.append(r"\vspace{8pt}")
 L.append(r"\textit{Panel B: Portfolio Return Summary Statistics}\\[4pt]")
