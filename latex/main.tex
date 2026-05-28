@@ -1,0 +1,116 @@
+% ============================================================
+% main.tex  —  Master Thesis: Insider Ownership and Stock Returns
+% Jelle Vermeulen
+%
+% COMPILE:  pdflatex → bibtex → pdflatex → pdflatex
+%
+% Tables pulled from: ../output/table_XX.tex
+% Figures pulled from: ../figures/figure_XX.pdf
+% ============================================================
+
+\documentclass[12pt, a4paper]{article}
+
+% ── Packages ──────────────────────────────────────────────
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{mathptmx}
+\usepackage{microtype}
+
+% Layout
+\usepackage[top=2.5cm, bottom=2.5cm, left=3.0cm, right=2.5cm]{geometry}
+\usepackage{setspace}
+\usepackage{parskip}
+\usepackage{titlesec}
+
+% Tables
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{adjustbox}
+\usepackage{multirow}
+\usepackage{array}
+
+% Math
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{pifont}            % \ding{51} checkmark
+
+% Figures
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{subcaption}
+\graphicspath{{../figures/}}   % figures/ folder relative to latex/
+
+% Bibliography
+\usepackage{natbib}
+\bibliographystyle{apalike}
+
+% Hyperlinks — load last
+\usepackage[colorlinks=true, linkcolor=black,
+            citecolor=black, urlcolor=blue]{hyperref}
+
+% ── Custom command: \inputtable ───────────────────────────
+% Tables live in output/ one level above latex/
+% Usage: \inputtable{table_02_ff5_global}
+\newcommand{\inputtable}[1]{\input{../output/#1}}
+
+% ── Global settings ───────────────────────────────────────
+\setstretch{1.5}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
+
+% ── Title ─────────────────────────────────────────────────
+\title{%
+  \vspace{-1cm}
+  \Large\textbf{Insider Ownership and Stock Returns:}\\[4pt]
+  \large\textbf{A Global Fama-French Five-Factor Portfolio Analysis}\\[12pt]
+  \normalsize Master Thesis in Financial Economics
+}
+\author{Jelle Vermeulen}
+\date{%
+  Sample period: January 2015\,--\,December 2025 \quad
+  ($N = 1{,}285$ firms,\ 132 months)
+}
+
+% ══════════════════════════════════════════════════════════
+\begin{document}
+
+\maketitle\thispagestyle{empty}\newpage
+
+\begin{abstract}
+\noindent
+This thesis examines whether insider ownership predicts future stock returns
+in a global sample of 1{,}285 listed firms over January 2015 to December 2025.
+Using the Fama-French five-factor model applied to ownership-sorted quintile
+portfolios, I find that all portfolios earn positive and significant
+risk-adjusted returns. The high-ownership portfolio (P5) generates an alpha of
+$1.45\%$ per month ($17.5\%$ per year, $t = 4.93$). The high-minus-low (HML)
+spread earns $0.53\%$ per month ($t = 2.73$), robust to adding momentum
+(FF6: $0.528\%$, $t = 2.79$) and to value-weighting. Regional analysis shows
+the premium is concentrated in North America (HML $= {+}1.768\%$ pm, $t=1.68$),
+while Europe shows no significant spread ($-0.133\%$ pm, $t=-0.47$). Results
+survive split-sample and alternative-sort robustness checks.
+
+\vspace{6pt}
+\noindent\textbf{Keywords:} insider ownership, stock returns,
+Fama-French five-factor model, portfolio sorts, agency theory.\\
+\noindent\textbf{JEL:} G12, G30, G34.
+\end{abstract}
+
+\newpage
+\tableofcontents
+\newpage
+
+% ── Sections ──────────────────────────────────────────────
+\input{sections/01_introduction}
+\input{sections/02_literature}
+\input{sections/03_data}
+\input{sections/04_methodology}
+\input{sections/05_results}
+\input{sections/06_robustness}
+\input{sections/07_conclusion}
+
+\newpage
+\bibliography{references}
+
+\end{document}

@@ -1,0 +1,35 @@
+# ── Data (large files, never push raw data) ──────────────────────────────
+data/
+
+# ── Python ───────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv
+venv/
+*.egg-info/
+
+# ── Jupyter ──────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ── OS ───────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── LaTeX build artifacts (NOT the source .tex files) ────────────────────
+latex/*.aux
+latex/*.log
+latex/*.out
+latex/*.toc
+latex/*.bbl
+latex/*.blg
+latex/*.synctex.gz
+latex/*.fls
+latex/*.fdb_latexmk
+latex/sections/*.aux
+
+# ── NOTE: output/ and figures/ are intentionally tracked ─────────────────
+# These folders contain generated .tex tables and .pdf figures
+# that Overleaf needs to compile the paper.
+# Do NOT add output/ or figures/ to this file.
