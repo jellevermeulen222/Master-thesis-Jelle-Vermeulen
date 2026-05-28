@@ -28,7 +28,7 @@ from pathlib import Path
 
 # ── Paths ─────────────────────────────────────────────────────────────────
 HERE    = Path(__file__).parent          # scripts/
-OUT_TEX = HERE / ".." / "output"        # output/
+OUT_TEX = HERE / ".." / "tables"        # output/
 OUT_FIG = HERE / ".." / "figures"       # figures/
 OUT_TEX.mkdir(exist_ok=True)
 OUT_FIG.mkdir(exist_ok=True)
