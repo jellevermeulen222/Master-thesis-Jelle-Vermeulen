@@ -1,0 +1,1286 @@
+FirmID,Company,Country,Region,Ownership,Portfolio,Returns_ticker
+1.0,"American Financial Group, Inc.",United States and Canada,North America,37.7,P3,AFG-US
+2.0,Campbell Soup Company,United States and Canada,North America,33.71,P2,CPB-US
+3.0,"Franklin Resources, Inc.",United States and Canada,North America,44.57,P4,BEN-US
+5.0,Mercury General Corporation,United States and Canada,North America,52.05,P4,MCY-US
+6.0,Oracle Corporation,United States and Canada,North America,42.75,P3,ORCL-US
+7.0,"Tootsie Roll Industries, Inc.",United States and Canada,North America,74.35,P5,TR-US
+8.0,"Weis Markets, Inc.",United States and Canada,North America,39.39,P3,WMK-US
+9.0,"First Citizens BancShares, Inc.",United States and Canada,North America,21.82,P1,FCNCA-US
+10.0,"J.B. Hunt Transport Services, Inc.",United States and Canada,North America,20.7,P1,JBHT-US
+11.0,BOK Financial Corporation,United States and Canada,North America,57.11,P5,BOKF-US
+12.0,Erie Indemnity Company,United States and Canada,North America,41.03,P3,ERIE-US
+13.0,"Greif, Inc.",United States and Canada,North America,36.61,P3,GEF-US
+14.0,Canfor Corporation,United States and Canada,North America,21.68,P1,CFP-CA
+15.0,Ralph Lauren Corporation,United States and Canada,North America,29.29,P2,RL-US
+16.0,"Choice Hotels International, Inc.",United States and Canada,North America,21.59,P1,CHH-US
+17.0,"TTEC Holdings, Inc.",United States and Canada,North America,60.06,P5,TTEC-US
+18.0,Columbia Sportswear Company,United States and Canada,North America,42.7,P3,COLM-US
+19.0,"Amkor Technology, Inc.",United States and Canada,North America,23.34,P1,AMKR-US
+20.0,NewMarket Corporation,United States and Canada,North America,34.37,P3,NEU-US
+21.0,Silgan Holdings Inc.,United States and Canada,North America,24.28,P1,SLGN-US
+23.0,Boyd Gaming Corporation,United States and Canada,North America,24.96,P1,BYD-US
+24.0,"Guess?, Inc.",United States and Canada,North America,47.62,P4,GES-US
+25.0,"Urban Outfitters, Inc.",United States and Canada,North America,28.8,P2,URBN-US
+26.0,Jefferies Financial Group Inc.,United States and Canada,North America,20.68,P1,JEF-US
+27.0,Bruker Corporation,United States and Canada,North America,32.59,P2,BRKR-US
+28.0,Las Vegas Sands Corp.,United States and Canada,North America,27.43,P2,LVS-US
+29.0,"Morningstar, Inc.",United States and Canada,North America,40.36,P3,MORN-US
+30.0,"Nelnet, Inc.",United States and Canada,North America,46.89,P4,NNI-US
+31.0,"The Buckle, Inc.",United States and Canada,North America,41.0,P3,BKE-US
+32.0,"Cohen & Steers, Inc.",United States and Canada,North America,48.99,P4,CNS-US
+33.0,"DICK'S Sporting Goods, Inc.",United States and Canada,North America,31.98,P2,DKS-US
+34.0,"MasTec, Inc.",United States and Canada,North America,22.79,P1,MTZ-US
+35.0,"Nordstrom, Inc.",United States and Canada,North America,30.16,P2,JWN-US
+36.0,Pegasystems Inc.,United States and Canada,North America,49.47,P4,PEGA-US
+37.0,J&J Snack Foods Corp.,United States and Canada,North America,21.1,P1,JJSF-US
+38.0,Seaboard Corporation,United States and Canada,North America,37.74,P3,SEB-US
+39.0,"The Boston Beer Company, Inc.",United States and Canada,North America,22.3,P1,SAM-US
+40.0,"The Gap, Inc.",United States and Canada,North America,45.95,P4,GAP-US
+41.0,BancFirst Corporation,United States and Canada,North America,34.99,P3,BANF-US
+42.0,EchoStar Corporation,United States and Canada,North America,60.13,P5,SATS-US
+43.0,"USANA Health Sciences, Inc.",United States and Canada,North America,41.95,P3,USNA-US
+44.0,"Globus Medical, Inc.",United States and Canada,North America,23.37,P1,GMED-US
+45.0,Maple Leaf Foods Inc.,United States and Canada,North America,40.19,P3,MFI-CA
+46.0,Ubiquiti Inc.,United States and Canada,North America,93.15,P5,UI-US
+47.0,Vicor Corporation,United States and Canada,North America,49.17,P4,VICR-US
+48.0,"AAON, Inc.",United States and Canada,North America,20.71,P1,AAON-US
+49.0,First National Financial Corporation,United States and Canada,North America,38.38,P3,FN-CA
+50.0,Hilltop Holdings Inc.,United States and Canada,North America,28.76,P2,HTH-US
+51.0,"National Western Life Group, Inc.",United States and Canada,North America,38.18,P3,NWLI-US
+52.0,"Shutterstock, Inc.",United States and Canada,North America,33.13,P2,SSTK-US
+53.0,The E.W. Scripps Company,United States and Canada,North America,29.0,P2,SSP-US
+54.0,"Workday, Inc.",United States and Canada,North America,21.59,P1,WDAY-US
+55.0,"Arista Networks, Inc.",United States and Canada,North America,23.05,P1,ANET-US
+56.0,Canadian Solar Inc.,United States and Canada,North America,21.38,P1,CSIQ-US
+57.0,"Coca-Cola Consolidated, Inc.",United States and Canada,North America,23.81,P1,COKE-US
+58.0,"Inter Parfums, Inc.",United States and Canada,North America,43.75,P4,IPAR-US
+59.0,"MACOM Technology Solutions Holdings, Inc.",United States and Canada,North America,25.89,P1,MTSI-US
+60.0,"Marcus & Millichap, Inc.",United States and Canada,North America,36.34,P3,MMI-US
+61.0,Paylocity Holding Corporation,United States and Canada,North America,25.35,P1,PCTY-US
+62.0,W. R. Berkley Corporation,United States and Canada,North America,21.15,P1,WRB-US
+63.0,Spin Master Corp.,United States and Canada,North America,39.71,P3,TOY-CA
+64.0,Wayfair Inc.,United States and Canada,North America,27.49,P2,W-US
+65.0,"Worthington Industries, Inc.",United States and Canada,North America,37.75,P3,WOR-US
+66.0,1st Source Corporation,United States and Canada,North America,32.17,P2,SRCE-US
+67.0,"AppFolio, Inc.",United States and Canada,North America,38.74,P3,APPF-US
+68.0,Appian Corporation,United States and Canada,North America,42.17,P3,APPN-US
+69.0,Aritzia Inc.,United States and Canada,North America,20.34,P1,ATZ-CA
+70.0,FB Financial Corporation,United States and Canada,North America,24.72,P1,FBK-US
+71.0,"Ingles Markets, Incorporated",United States and Canada,North America,22.63,P1,IMKTA-US
+72.0,"Marten Transport, Ltd.",United States and Canada,North America,29.38,P2,MRTN-US
+73.0,"Medpace Holdings, Inc.",United States and Canada,North America,23.64,P1,MEDP-US
+74.0,Snap Inc.,United States and Canada,North America,22.45,P1,SNAP-US
+75.0,Westshore Terminals Investment Corporation,United States and Canada,North America,33.0,P2,WTE-CA
+76.0,Altair Engineering Inc.,United States and Canada,North America,29.68,P2,ALTR-US
+78.0,"Dropbox, Inc.",United States and Canada,North America,26.44,P1,DBX-US
+79.0,"Sonic Automotive, Inc.",United States and Canada,North America,20.25,P1,SAH-US
+80.0,"Zscaler, Inc.",United States and Canada,North America,40.29,P3,ZS-US
+81.0,"Alliance Resource Partners, L.P.",United States and Canada,North America,29.6,P2,ARLP-US
+82.0,"Curaleaf Holdings, Inc.",United States and Canada,North America,39.21,P3,CURA-CA
+83.0,Dell Technologies Inc.,United States and Canada,North America,52.78,P4,DELL-US
+84.0,Levi Strauss & Co.,United States and Canada,North America,56.23,P4,LEVI-US
+85.0,"Live Oak Bancshares, Inc.",United States and Canada,North America,25.34,P1,LOB-US
+86.0,"Zoom Video Communications, Inc.",United States and Canada,North America,24.67,P1,ZM-US
+87.0,"Ameresco, Inc.",United States and Canada,North America,38.83,P3,AMRC-US
+88.0,Arko Corp.,United States and Canada,North America,27.75,P2,ARKO-US
+89.0,"Asana, Inc.",United States and Canada,North America,64.3,P5,ASAN-US
+90.0,"Bentley Systems, Incorporated",United States and Canada,North America,23.4,P1,BSY-US
+91.0,"Celsius Holdings, Inc.",United States and Canada,North America,46.73,P4,CELH-US
+92.0,"Dillard's, Inc.",United States and Canada,North America,25.1,P1,DDS-US
+93.0,"eXp World Holdings, Inc.",United States and Canada,North America,51.43,P4,EXPI-US
+94.0,goeasy Ltd.,United States and Canada,North America,22.4,P1,GSY-CA
+95.0,"Inhibrx, Inc.",United States and Canada,North America,30.64,P2,INBX-US
+96.0,"Monarch Casino & Resort, Inc.",United States and Canada,North America,30.12,P2,MCRI-US
+97.0,New Fortress Energy Inc.,United States and Canada,North America,48.69,P4,NFE-US
+98.0,Pactiv Evergreen Inc.,United States and Canada,North America,78.0,P5,PTVE-US
+99.0,Prospect Capital Corporation,United States and Canada,North America,20.55,P1,PSEC-US
+100.0,Reynolds Consumer Products Inc.,United States and Canada,North America,74.21,P5,REYN-US
+101.0,The Carlyle Group Inc.,United States and Canada,North America,29.32,P2,CG-US
+102.0,"Vertex, Inc.",United States and Canada,North America,68.24,P5,VERX-US
+103.0,"XPEL, Inc.",United States and Canada,North America,27.93,P2,XPEL-US
+104.0,AbCellera Biologics Inc.,United States and Canada,North America,27.36,P2,ABCL-US
+105.0,"Airbnb, Inc.",United States and Canada,North America,30.02,P2,ABNB-US
+106.0,AppLovin Corporation,United States and Canada,North America,34.1,P3,APP-US
+107.0,"Coinbase Global, Inc.",United States and Canada,North America,22.43,P1,COIN-US
+108.0,"Confluent, Inc.",United States and Canada,North America,20.88,P1,CFLT-US
+109.0,"Doximity, Inc.",United States and Canada,North America,27.03,P2,DOCS-US
+110.0,Fisker Inc.,United States and Canada,North America,45.29,P4,0N26QV-E
+111.0,"Ginkgo Bioworks Holdings, Inc.",United States and Canada,North America,30.9,P2,DNA-US
+112.0,"ImmunityBio, Inc.",United States and Canada,North America,73.67,P5,IBRX-US
+113.0,"Joby Aviation, Inc.",United States and Canada,North America,26.97,P2,JOBY-US
+115.0,Magnet Forensics Inc.,United States and Canada,North America,74.74,P5,0FWJ02-E
+116.0,Merchants Bancorp,United States and Canada,North America,43.06,P3,MBIN-US
+117.0,"Montauk Renewables, Inc.",United States and Canada,North America,55.97,P4,MNTK-US
+118.0,"PC Connection, Inc.",United States and Canada,North America,29.96,P2,CNXN-US
+119.0,"Semrush Holdings, Inc.",United States and Canada,North America,55.55,P4,SEMR-US
+120.0,"Sprinklr, Inc.",United States and Canada,North America,24.12,P1,CXM-US
+121.0,"Squarespace, Inc.",United States and Canada,North America,35.32,P3,SQSP-US
+122.0,StepStone Group Inc.,United States and Canada,North America,21.54,P1,STEP-US
+123.0,"TaskUs, Inc.",United States and Canada,North America,23.93,P1,TASK-US
+124.0,"Toast, Inc.",United States and Canada,North America,25.37,P1,TOST-US
+125.0,"Treace Medical Concepts, Inc.",United States and Canada,North America,40.52,P3,TMCI-US
+126.0,UiPath Inc.,United States and Canada,North America,20.82,P1,PATH-US
+127.0,VIZIO Holding Corp.,United States and Canada,North America,43.74,P4,VZIO-US
+128.0,Zeta Global Holdings Corp.,United States and Canada,North America,22.12,P1,ZETA-US
+129.0,"ZipRecruiter, Inc.",United States and Canada,North America,26.02,P1,ZIP-US
+130.0,"Altus Power, Inc.",United States and Canada,North America,43.71,P3,AMPS-US
+131.0,"Apollo Global Management, Inc.",United States and Canada,North America,23.53,P1,APO-US
+132.0,"Arhaus, Inc.",United States and Canada,North America,34.16,P3,ARHS-US
+133.0,Athena Bitcoin Global,United States and Canada,North America,76.53,P5,ABIT-US
+134.0,"Aurora Innovation, Inc.",United States and Canada,North America,22.06,P1,AUR-US
+135.0,Credo Technology Group Holding Ltd,United States and Canada,North America,34.66,P3,CRDO-US
+136.0,"FIGS, Inc.",United States and Canada,North America,24.73,P1,FIGS-US
+137.0,GQG Partners Inc.,United States and Canada,North America,75.93,P5,GQG-AU
+138.0,KKR & Co. Inc.,United States and Canada,North America,24.89,P1,KKR-US
+139.0,"Napco Security Technologies, Inc.",United States and Canada,North America,20.75,P1,NSSC-US
+140.0,Nutex Health Inc.,United States and Canada,North America,43.22,P3,NUTX-US
+141.0,"P10, Inc.",United States and Canada,North America,31.12,P2,PX-US
+142.0,"Paragon 28, Inc.",United States and Canada,North America,29.07,P2,FNA-US
+144.0,Samsara Inc.,United States and Canada,North America,50.61,P4,IOT-US
+145.0,"Sinclair Broadcast Group, Inc.",United States and Canada,North America,38.43,P3,SBGI-US
+146.0,"VMware, Inc.",United States and Canada,North America,40.15,P3,VMW-US
+147.0,Fresh Del Monte Produce Inc.,Latin America and Caribbean,EM ex-Asia,21.95,P1,FDP-US
+148.0,"Grupo Televisa, S.A.B.",Latin America and Caribbean,EM ex-Asia,21.51,P1,TLEVISACPO-MX
+149.0,Banco Macro S.A.,Latin America and Caribbean,EM ex-Asia,34.96,P3,BMA-AR
+150.0,"Grupo Carso, S.A.B. de C.V.",Latin America and Caribbean,EM ex-Asia,78.19,P5,GCARSOA1-MX
+151.0,"Promotora y Operadora de Infraestructura, S. A. B. de C. V.",Latin America and Caribbean,EM ex-Asia,44.05,P4,PINFRA-MX
+152.0,"Grupo Aeroportuario del Sureste, S. A. B. de C. V.",Latin America and Caribbean,EM ex-Asia,27.06,P2,ASURB-MX
+153.0,"Industrias CH, S. A. B. de C. V.",Latin America and Caribbean,EM ex-Asia,73.14,P5,ICHB-MX
+154.0,Itaúsa S.A.,Latin America and Caribbean,EM ex-Asia,32.89,P2,ITSA4-BR
+155.0,"Alsea, S.A.B. de C.V.",Latin America and Caribbean,EM ex-Asia,39.13,P3,ALSEA-MX
+156.0,Arcos Dorados Holdings Inc.,Latin America and Caribbean,EM ex-Asia,37.99,P3,ARCO-US
+157.0,"Organización Soriana, S. A. B. de C. V.",Latin America and Caribbean,EM ex-Asia,63.71,P5,SORIANAB-MX
+159.0,"Grupo KUO, S.A.B. de C.V.",Latin America and Caribbean,EM ex-Asia,32.9,P2,KUOB-MX
+160.0,"Grupo Comercial Chedraui, S.A.B. de C.V.",Latin America and Caribbean,EM ex-Asia,76.19,P5,CHDRAUIB-MX
+161.0,"Becle, S.A.B. de C.V.",Latin America and Caribbean,EM ex-Asia,51.06,P4,CUERVO-MX
+162.0,Hypera S.A.,Latin America and Caribbean,EM ex-Asia,21.5,P1,HYPE3-BR
+163.0,"Banco del Bajío, S.A., Institución de Banca Múltiple",Latin America and Caribbean,EM ex-Asia,37.4,P3,BBAJIOO-MX
+164.0,Consultatio S.A.,Latin America and Caribbean,EM ex-Asia,72.0,P5,CTIO-AR
+165.0,Grendene S.A.,Latin America and Caribbean,EM ex-Asia,69.5,P5,GRND3-BR
+166.0,"La Comer, S.A.B. de C.V.",Latin America and Caribbean,EM ex-Asia,55.75,P4,LACOMERUBC-MX
+167.0,Afya Limited,Latin America and Caribbean,EM ex-Asia,27.8,P2,AFYA-US
+168.0,Aluar Aluminio Argentino S.A.I.C.,Latin America and Caribbean,EM ex-Asia,23.01,P1,ALUA-AR
+169.0,Central Puerto S.A.,Latin America and Caribbean,EM ex-Asia,27.9,P2,CEPU-AR
+170.0,Compañía Minera Poderosa S.A.,Latin America and Caribbean,EM ex-Asia,32.77,P2,PODERC1-PE
+171.0,Pampa Energía S.A.,Latin America and Caribbean,EM ex-Asia,25.54,P1,PAMP-AR
+172.0,"Value Grupo Financiero, S.A.B. de C.V.",Latin America and Caribbean,EM ex-Asia,40.58,P3,VALUEGFO-MX
+173.0,Grupo de Moda SOMA S.A.,Latin America and Caribbean,EM ex-Asia,36.98,P3,SOMA3-BR
+174.0,Natura &Co Holding S.A.,Latin America and Caribbean,EM ex-Asia,36.35,P3,NTCO3-AR
+175.0,Unipar Carbocloro S.A.,Latin America and Caribbean,EM ex-Asia,20.99,P1,UNIP6-BR
+176.0,Vivara Participações S.A.,Latin America and Caribbean,EM ex-Asia,58.01,P5,VIVA3-BR
+177.0,Cosan S.A.,Latin America and Caribbean,EM ex-Asia,30.11,P2,CSAN3-BR
+178.0,DLocal Limited,Latin America and Caribbean,EM ex-Asia,45.32,P4,DLO-US
+179.0,GPS Participações e Empreendimentos S.A.,Latin America and Caribbean,EM ex-Asia,27.7,P2,GGPS3-BR
+180.0,"Grupo Lamosa, S.A.B. de C.V.",Latin America and Caribbean,EM ex-Asia,53.26,P4,LAMOSA-MX
+181.0,Grupo Mateus S.A.,Latin America and Caribbean,EM ex-Asia,79.0,P5,GMAT3-BR
+182.0,Intelbras S.A. - Indústria de Telecomunicação Eletrônica Brasileira,Latin America and Caribbean,EM ex-Asia,69.43,P5,INTB3-BR
+183.0,Monteiro Aranha S.A.,Latin America and Caribbean,EM ex-Asia,85.97,P5,MOAR3-BR
+184.0,BAC Holding International Corp.,Latin America and Caribbean,EM ex-Asia,56.25,P4,BHI-CO
+185.0,Dexco S.A.,Latin America and Caribbean,EM ex-Asia,20.72,P1,DXCO3-BR
+186.0,FLEX LNG Ltd.,Latin America and Caribbean,EM ex-Asia,46.76,P4,FLNG-NO
+187.0,"Corporación Financiera Alba, S.A.",Europe,Europe,62.0,P5,ALB-ES
+188.0,L E Lundbergföretagen AB,Europe,Europe,70.66,P5,LUND.B-SE
+189.0,Straumann Holding AG,Europe,Europe,33.39,P2,STMN-CH
+190.0,Krones AG,Europe,Europe,37.03,P3,KRN-DE
+191.0,United Internet AG,Europe,Europe,52.22,P4,UTDI-DE
+192.0,Renishaw plc,Europe,Europe,52.86,P4,RSW-GB
+193.0,Bachem Holding AG,Europe,Europe,46.12,P4,BANB-CH
+194.0,Forbo Holding AG,Europe,Europe,30.46,P2,FORN-CH
+195.0,TX Group AG,Europe,Europe,55.5,P4,TXGN-CH
+196.0,Ypsomed Holding AG,Europe,Europe,68.42,P5,YPSN-CH
+197.0,CTS Eventim AG & Co. KGaA,Europe,Europe,38.83,P3,EVD-DE
+198.0,KWS SAAT SE & Co. KGaA,Europe,Europe,53.81,P4,KWS-DE
+199.0,L.D.C. S.A.,Europe,Europe,69.43,P5,LOUP-FR
+200.0,Ashmore Group PLC,Europe,Europe,33.8,P2,ASHM-GB
+202.0,Virbac SA,Europe,Europe,49.93,P4,VIRP-FR
+203.0,Dunelm Group plc,Europe,Europe,24.96,P1,DNLM-GB
+204.0,Frasers Group plc,Europe,Europe,71.74,P5,FRAS-GB
+205.0,Schindler Holding AG,Europe,Europe,43.35,P3,SCHN-CH
+206.0,Altarea SCA,Europe,Europe,21.0,P1,ALTA-FR
+207.0,Bayerische Motoren Werke Aktiengesellschaft,Europe,Europe,34.71,P3,BMW-DE
+208.0,Bechtle AG,Europe,Europe,28.82,P2,BC8-DE
+209.0,Coloplast A/S,Europe,Europe,24.98,P1,COLO.B-DK
+210.0,De'Longhi S.p.A.,Europe,Europe,69.75,P5,DLG-IT
+211.0,Randstad N.V.,Europe,Europe,35.74,P3,RAND-NL
+212.0,Reinet Investments S.C.A.,Europe,Europe,26.5,P2,REINI-LU
+213.0,Trigano S.A.,Europe,Europe,47.96,P4,TRI-FR
+214.0,Atea ASA,Europe,Europe,28.98,P2,ATEA-NO
+215.0,Atlas Corp.,Europe,Europe,24.88,P1,0M2NBB-E
+216.0,Ferrexpo plc,Europe,Europe,50.47,P4,FXPO-GB
+217.0,CompuGroup Medical SE & Co. KGaA,Europe,Europe,51.74,P4,COP-DE
+218.0,Strabag SE,Europe,Europe,27.85,P2,STR-AT
+219.0,Ströer SE & Co. KGaA,Europe,Europe,41.71,P3,SAX-DE
+220.0,LEM Holding SA,Europe,Europe,36.82,P3,LEHN-CH
+221.0,OCI N.V.,Europe,Europe,54.58,P4,OCI-NL
+222.0,Warehouses De Pauw NV/SA,Europe,Europe,23.82,P1,WDP-BE
+223.0,AB Sagax,Europe,Europe,35.12,P3,SAGA.A-SE
+224.0,Ambu A/S,Europe,Europe,27.58,P2,AMBU.B-DK
+225.0,SFS Group AG,Europe,Europe,53.01,P4,SFSN-CH
+226.0,Bucher Industries AG,Europe,Europe,35.97,P3,BUCN-CH
+227.0,Costamare Inc.,Europe,Europe,55.76,P4,CMRE-US
+228.0,CPI Property Group,Europe,Europe,89.44,P5,O5G-DE
+229.0,Jet2 plc,Europe,Europe,20.49,P1,JET2-GB
+230.0,Lifco AB,Europe,Europe,50.58,P4,LIFCO.B-SE
+231.0,Manchester United plc,Europe,Europe,67.03,P5,MANU-US
+232.0,Picanol nv,Europe,Europe,64.86,P5,05J3X7-E
+233.0,Unibel S.A.,Europe,Europe,88.68,P5,UNBL-FR
+234.0,CD Projekt S.A.,Europe,Europe,35.33,P3,CDR-PL
+235.0,RWS Holdings plc,Europe,Europe,23.23,P1,RWS-GB
+236.0,Deutsche EuroShop AG,Europe,Europe,20.41,P1,DEQ-DE
+237.0,Dino Polska S.A.,Europe,Europe,51.16,P4,DNP-PL
+238.0,Frontline plc,Europe,Europe,35.78,P3,FRO-US
+239.0,"GMP Property SOCIMI, S.A.",Europe,Europe,66.85,P5,YGMP-ES
+240.0,Idorsia Ltd,Europe,Europe,33.06,P2,IDIA-CH
+241.0,IWG plc,Europe,Europe,28.62,P2,IWG-GB
+242.0,Softcat plc,Europe,Europe,38.3,P3,SCT-GB
+243.0,Carel Industries S.p.A.,Europe,Europe,56.2,P4,CRL-IT
+244.0,Endava plc,Europe,Europe,28.99,P2,DAVA-US
+245.0,GlobalData Plc,Europe,Europe,70.17,P5,DATA-GB
+246.0,ID Logistics Group SA,Europe,Europe,24.42,P1,IDL-FR
+247.0,Investment AB Latour,Europe,Europe,59.74,P5,LATO.B-SE
+248.0,Maschinenfabrik Berthold Hermle AG,Europe,Europe,27.82,P2,MBH3-DE
+249.0,Nolato AB,Europe,Europe,20.69,P1,NOLA.B-SE
+250.0,PDD Holdings Inc.,Europe,Europe,35.31,P3,PDD-US
+251.0,Swissquote Group Holding Ltd,Europe,Europe,23.22,P1,SQN-CH
+252.0,Viohalco S.A.,Europe,Europe,42.54,P3,VIO-BE
+253.0,AJ Bell plc,Europe,Europe,27.43,P2,AJB-GB
+254.0,Argan SA,Europe,Europe,43.0,P3,ARG-FR
+255.0,Bilia AB,Europe,Europe,22.72,P1,BILI.A-SE
+256.0,BioArctic AB,Europe,Europe,60.79,P5,BIOA.B-SE
+257.0,Bure Equity AB,Europe,Europe,24.67,P1,BURE-SE
+258.0,Corem Property Group AB,Europe,Europe,36.61,P3,CORE.A-SE
+259.0,Dottikon Es Holding AG,Europe,Europe,23.72,P1,DESN-CH
+260.0,EQT AB,Europe,Europe,35.29,P3,EQT-SE
+261.0,Fortnox AB,Europe,Europe,22.86,P1,FNOX-SE
+262.0,Investis Holding SA,Europe,Europe,78.5,P5,IREN-CH
+263.0,Kainos Group plc,Europe,Europe,25.14,P1,KNOS-GB
+264.0,Learning Technologies Group plc,Europe,Europe,26.22,P1,LTG-GB
+265.0,Medacta Group SA,Europe,Europe,69.6,P5,MOVE-CH
+267.0,Stratec SE,Europe,Europe,31.09,P2,SBS-DE
+268.0,TERNA ENERGY Industrial Commercial Technical Societe Anonyme,Europe,Europe,20.91,P1,TENERGY-GR
+269.0,ATOSS Software AG,Europe,Europe,51.36,P4,AOF-DE
+270.0,Energiekontor AG,Europe,Europe,50.87,P4,EKT-DE
+271.0,Ipsen S.A.,Europe,Europe,26.66,P2,IPN-FR
+272.0,Sensirion Holding AG,Europe,Europe,20.97,P1,SENS-CH
+273.0,VERBIO Vereinigte BioEnergie AG,Europe,Europe,58.23,P5,VBK-DE
+274.0,Antin Infrastructure Partners S.A.,Europe,Europe,68.14,P5,ANTIN-FR
+275.0,AS LHV Group,Europe,Europe,23.56,P1,LHV1T-EE
+276.0,Berliner Effektengesellschaft AG,Europe,Europe,56.24,P4,BFV-DE
+277.0,Danaos Corporation,Europe,Europe,45.76,P4,DAC-US
+278.0,Darktrace plc,Europe,Europe,21.0,P1,DARK-GB
+279.0,EL.En. S.p.A.,Europe,Europe,36.0,P3,ELN-IT
+280.0,eQ Oyj,Europe,Europe,21.3,P1,EQV1V-FI
+281.0,"GEK TERNA Holdings, Real Estate, Construction S.A.",Europe,Europe,34.66,P3,GEKTERNA-GR
+282.0,Implantica AG,Europe,Europe,87.65,P5,IMP.A-SE
+283.0,Majorel Group Luxembourg S.A.,Europe,Europe,38.05,P3,MAJ-NL
+284.0,Medartis Holding AG,Europe,Europe,53.29,P4,MED-CH
+285.0,Neurones S.A.,Europe,Europe,65.83,P5,NRO-FR
+286.0,On Holding AG,Europe,Europe,28.62,P2,ONON-US
+287.0,Ratos AB,Europe,Europe,21.01,P1,RATO.B-SE
+288.0,Roivant Sciences Ltd.,Europe,Europe,26.82,P2,ROIV-US
+289.0,SKAN Group AG,Europe,Europe,47.26,P4,SKAN-CH
+290.0,Sportradar Group AG,Europe,Europe,32.49,P2,SRAD-US
+291.0,Wise plc,Europe,Europe,26.32,P1,WISE-GB
+292.0,Kape Technologies PLC,Europe,Europe,46.72,P4,KAPE-GB
+293.0,Nagarro SE,Europe,Europe,23.79,P1,NA9-DE
+294.0,Playtech plc,Europe,Europe,24.26,P1,PTEC-GB
+295.0,Unibail-Rodamco-Westfield SE,Europe,Europe,22.39,P1,URW-FR
+296.0,Universal Music Group N.V.,Europe,Europe,28.26,P2,UMG-NL
+297.0,Wacker Neuson SE,Europe,Europe,28.32,P2,WAC-DE
+298.0,Tsim Sha Tsui Properties Limited,Asia / Pacific,Asia-Pacific,66.41,P5,247-HK
+299.0,Johnson Electric Holdings Limited,Asia / Pacific,Asia-Pacific,68.88,P5,179-HK
+300.0,First Pacific Company Limited,Asia / Pacific,Asia-Pacific,29.11,P2,142-HK
+301.0,LG Corp.,Asia / Pacific,Asia-Pacific,37.24,P3,003550-KR
+302.0,CK Hutchison Holdings Limited,Asia / Pacific,Asia-Pacific,29.05,P2,1-HK
+303.0,Harvey Norman Holdings Limited,Asia / Pacific,Asia-Pacific,41.28,P3,HVN-AU
+304.0,SoftBank Group Corp.,Asia / Pacific,Asia-Pacific,32.17,P2,9984-JP
+305.0,"Square Enix Holdings Co., Ltd.",Asia / Pacific,Asia-Pacific,26.46,P1,9684-JP
+306.0,"Fast Retailing Co., Ltd.",Asia / Pacific,Asia-Pacific,46.58,P4,9983-JP
+307.0,SHINSEGAE Inc.,Asia / Pacific,Asia-Pacific,28.6,P2,004170-KR
+308.0,KCC Corporation,Asia / Pacific,Asia-Pacific,44.12,P4,002380-KR
+309.0,AMOREPACIFIC Group,Asia / Pacific,Asia-Pacific,56.22,P4,002790-KR
+310.0,BYD Company Limited,Asia / Pacific,Asia-Pacific,30.39,P2,1211-HK
+311.0,GS Engineering & Construction Corporation,Asia / Pacific,Asia-Pacific,22.42,P1,006360-KR
+312.0,Hyundai Department Store Co. Ltd.,Asia / Pacific,Asia-Pacific,21.12,P1,069960-KR
+313.0,"NetEase, Inc.",Asia / Pacific,Asia-Pacific,46.76,P4,NTES-US
+314.0,Vtech Holdings Limited,Asia / Pacific,Asia-Pacific,37.63,P3,303-HK
+315.0,Batu Kawan Berhad,Asia / Pacific,Asia-Pacific,54.61,P4,1899-MY
+316.0,GS Holdings Corp.,Asia / Pacific,Asia-Pacific,48.9,P4,078930-KR
+317.0,"Hankook & Company Co., Ltd.",Asia / Pacific,Asia-Pacific,72.43,P5,000240-KR
+318.0,Hanwha Corporation,Asia / Pacific,Asia-Pacific,38.34,P3,000880-KR
+319.0,Hengan International Group Company Limited,Asia / Pacific,Asia-Pacific,44.56,P4,1044-HK
+320.0,Kotak Mahindra Bank Limited,Asia / Pacific,Asia-Pacific,26.89,P2,500247-IN
+321.0,LS Corp.,Asia / Pacific,Asia-Pacific,41.25,P3,006260-KR
+322.0,Otsuka Corporation,Asia / Pacific,Asia-Pacific,41.91,P3,4768-JP
+323.0,"Baidu, Inc.",Asia / Pacific,Asia-Pacific,20.78,P1,BIDU-US
+324.0,Hopson Development Holdings Limited,Asia / Pacific,Asia-Pacific,73.9,P5,754-HK
+325.0,"Hyundai Marine & Fire Insurance Co., Ltd.",Asia / Pacific,Asia-Pacific,26.0,P1,001450-KR
+326.0,"Suning.com Co., Ltd.",Asia / Pacific,Asia-Pacific,20.31,P1,002024-CN
+327.0,Café de Coral Holdings Limited,Asia / Pacific,Asia-Pacific,45.02,P4,341-HK
+328.0,"DB Insurance Co., Ltd.",Asia / Pacific,Asia-Pacific,21.48,P1,005830-KR
+329.0,Divi's Laboratories Limited,Asia / Pacific,Asia-Pacific,49.3,P4,532488-IN
+330.0,Dong Suh Companies Inc.,Asia / Pacific,Asia-Pacific,67.62,P5,026960-KR
+331.0,Hyosung Corporation,Asia / Pacific,Asia-Pacific,57.31,P5,004800-KR
+332.0,"Kingfa Sci. & Tech. Co., Ltd.",Asia / Pacific,Asia-Pacific,35.79,P3,600143-CN
+333.0,"Saizeriya Co.,Ltd.",Asia / Pacific,Asia-Pacific,31.99,P2,7581-JP
+334.0,SM Investments Corporation,Asia / Pacific,Asia-Pacific,44.0,P4,SM-PH
+335.0,AAC Technologies Holdings Inc.,Asia / Pacific,Asia-Pacific,41.34,P3,2018-HK
+336.0,"Beijing SL Pharmaceutical Co., Ltd.",Asia / Pacific,Asia-Pacific,23.95,P1,002038-CN
+337.0,Doosan Corporation,Asia / Pacific,Asia-Pacific,38.82,P3,000150-KR
+338.0,Huabao International Holdings Limited,Asia / Pacific,Asia-Pacific,71.01,P5,336-HK
+339.0,"Hyundai Glovis Co., Ltd.",Asia / Pacific,Asia-Pacific,20.0,P1,086280-KR
+340.0,K. Wah International Holdings Limited,Asia / Pacific,Asia-Pacific,53.67,P4,173-HK
+341.0,Kowloon Development Company Limited,Asia / Pacific,Asia-Pacific,71.0,P5,34-HK
+342.0,Land and Houses Public Company Limited,Asia / Pacific,Asia-Pacific,29.6,P2,LH-TH
+343.0,Melco International Development Limited,Asia / Pacific,Asia-Pacific,53.97,P4,200-HK
+344.0,"Rakuten Group, Inc.",Asia / Pacific,Asia-Pacific,34.32,P3,4755-JP
+345.0,"Sieyuan Electric Co., Ltd.",Asia / Pacific,Asia-Pacific,34.88,P3,002028-CN
+346.0,Yanlord Land Group Limited,Asia / Pacific,Asia-Pacific,73.67,P5,Z25-SG
+347.0,Bangkok Dusit Medical Services Public Company Limited,Asia / Pacific,Asia-Pacific,20.68,P1,BDMS-TH
+348.0,CJ Corporation,Asia / Pacific,Asia-Pacific,47.74,P4,001040-KR
+349.0,Country Garden Holdings Company Limited,Asia / Pacific,Asia-Pacific,60.68,P5,2007-HK
+350.0,"Kumho Petrochemical Co., Ltd.",Asia / Pacific,Asia-Pacific,28.21,P2,011780-KR
+351.0,Lee & Man Paper Manufacturing Limited,Asia / Pacific,Asia-Pacific,73.15,P5,2314-HK
+352.0,Minth Group Limited,Asia / Pacific,Asia-Pacific,38.74,P3,425-HK
+353.0,Techtronic Industries Company Limited,Asia / Pacific,Asia-Pacific,24.96,P1,669-HK
+354.0,Xinyi Glass Holdings Limited,Asia / Pacific,Asia-Pacific,59.44,P5,868-HK
+355.0,"Zhejiang Huahai Pharmaceutical Co., Ltd.",Asia / Pacific,Asia-Pacific,41.7,P3,600521-CN
+356.0,"Zhejiang Longsheng Group Co.,Ltd",Asia / Pacific,Asia-Pacific,25.36,P1,600352-CN
+357.0,"ABC-Mart,Inc.",Asia / Pacific,Asia-Pacific,37.52,P3,2670-JP
+358.0,"Beijing Shiji Information Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,59.69,P5,002153-CN
+359.0,Biocon Limited,Asia / Pacific,Asia-Pacific,62.69,P5,532523-IN
+360.0,Cipla Limited,Asia / Pacific,Asia-Pacific,33.46,P2,500087-IN
+361.0,Dabur India Limited,Asia / Pacific,Asia-Pacific,67.56,P5,500096-IN
+362.0,"Daiichikosho Co., Ltd.",Asia / Pacific,Asia-Pacific,22.75,P1,7458-JP
+363.0,Golden Eagle Retail Group Limited,Asia / Pacific,Asia-Pacific,70.29,P5,3308-HK
+364.0,Great Eagle Holdings Limited,Asia / Pacific,Asia-Pacific,29.44,P2,41-HK
+365.0,"Guangdong Tapai Group Co., Ltd.",Asia / Pacific,Asia-Pacific,41.57,P3,002233-CN
+366.0,"International Container Terminal Services, Inc.",Asia / Pacific,Asia-Pacific,36.55,P3,ICT-PH
+367.0,"Keda Industrial Group Co., Ltd.",Asia / Pacific,Asia-Pacific,30.01,P2,600499-CN
+368.0,KOSÉ Corporation,Asia / Pacific,Asia-Pacific,42.54,P3,4922-JP
+369.0,"Lianhe Chemical Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,29.44,P2,002250-CN
+370.0,"Long Yuan Construction Group Co., Ltd.",Asia / Pacific,Asia-Pacific,46.85,P4,600491-CN
+371.0,LOTTE Corporation,Asia / Pacific,Asia-Pacific,24.39,P1,004990-KR
+372.0,Minor International Public Company Limited,Asia / Pacific,Asia-Pacific,43.4,P3,MINT-TH
+373.0,"Nitori Holdings Co., Ltd.",Asia / Pacific,Asia-Pacific,24.22,P1,9843-JP
+374.0,"OBIC Business Consultants Co., Ltd.",Asia / Pacific,Asia-Pacific,27.35,P2,4733-JP
+375.0,Pidilite Industries Limited,Asia / Pacific,Asia-Pacific,51.3,P4,500331-IN
+376.0,Rinnai Corporation,Asia / Pacific,Asia-Pacific,22.47,P1,5947-JP
+377.0,Shenzhou International Group Holdings Limited,Asia / Pacific,Asia-Pacific,42.36,P3,2313-HK
+378.0,Sino Biopharmaceutical Limited,Asia / Pacific,Asia-Pacific,36.39,P3,1177-HK
+379.0,Sun TV Network Limited,Asia / Pacific,Asia-Pacific,78.53,P5,532733-IN
+380.0,"Suning Universal Co.,Ltd",Asia / Pacific,Asia-Pacific,35.6,P3,000718-CN
+381.0,"Suzhou Gold Mantis Construction Decoration Co., Ltd.",Asia / Pacific,Asia-Pacific,25.18,P1,002081-CN
+382.0,Thai Union Group Public Company Limited,Asia / Pacific,Asia-Pacific,24.14,P1,TU-TH
+383.0,"The Hongkong and Shanghai Hotels, Limited",Asia / Pacific,Asia-Pacific,56.7,P4,45-HK
+384.0,Top Glove Corporation Bhd.,Asia / Pacific,Asia-Pacific,29.65,P2,7113-MY
+385.0,United Energy Group Limited,Asia / Pacific,Asia-Pacific,65.98,P5,467-HK
+386.0,Vingroup Joint Stock Company,Asia / Pacific,Asia-Pacific,34.3,P3,VIC-VN
+387.0,Want Want China Holdings Limited,Asia / Pacific,Asia-Pacific,58.74,P5,151-HK
+388.0,"Zhongshan Broad-Ocean Motor Co., Ltd.",Asia / Pacific,Asia-Pacific,37.87,P3,002249-CN
+389.0,Zydus Lifesciences Limited,Asia / Pacific,Asia-Pacific,75.08,P5,532321-IN
+390.0,"Beijing Dabeinong Technology Group Co.,Ltd.",Asia / Pacific,Asia-Pacific,28.41,P2,002385-CN
+391.0,"Beijing Originwater Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,20.32,P1,300070-CN
+392.0,Bic Camera Inc.,Asia / Pacific,Asia-Pacific,38.38,P3,3048-JP
+393.0,BTS Group Holdings Public Company Limited,Asia / Pacific,Asia-Pacific,37.6,P3,BTS-TH
+394.0,China Lesso Group Holdings Limited,Asia / Pacific,Asia-Pacific,68.7,P5,2128-HK
+395.0,China Medical System Holdings Limited,Asia / Pacific,Asia-Pacific,49.55,P4,867-HK
+396.0,Glodon Company Limited,Asia / Pacific,Asia-Pacific,33.3,P2,002410-CN
+397.0,"Guizhou Bailing Group Pharmaceutical Co., Ltd.",Asia / Pacific,Asia-Pacific,26.32,P1,002424-CN
+398.0,"H.I.S. Co., Ltd.",Asia / Pacific,Asia-Pacific,31.58,P2,9603-JP
+399.0,Huayi Brothers Media Corporation,Asia / Pacific,Asia-Pacific,22.31,P1,300027-CN
+400.0,Longfor Group Holdings Limited,Asia / Pacific,Asia-Pacific,52.79,P4,960-HK
+401.0,"Matsui Securities Co., Ltd.",Asia / Pacific,Asia-Pacific,57.69,P5,8628-JP
+402.0,PT Bayan Resources Tbk,Asia / Pacific,Asia-Pacific,67.46,P5,BYAN-ID
+403.0,"Samsung Life Insurance Co., Ltd.",Asia / Pacific,Asia-Pacific,21.27,P1,032830-KR
+404.0,"Sankyo Co., Ltd.",Asia / Pacific,Asia-Pacific,23.5,P1,6417-JP
+405.0,"Sichuan Kelun Pharmaceutical Co., Ltd.",Asia / Pacific,Asia-Pacific,35.16,P3,002422-CN
+406.0,SK Inc.,Asia / Pacific,Asia-Pacific,28.48,P2,034730-KR
+407.0,Super Retail Group Limited,Asia / Pacific,Asia-Pacific,31.13,P2,SUL-AU
+408.0,"Yantai Jereh Oilfield Services Group Co., Ltd.",Asia / Pacific,Asia-Pacific,44.6,P4,002353-CN
+409.0,"Zhejiang Dahua Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,44.28,P4,002236-CN
+410.0,"Beijing Oriental Yuhong Waterproof Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,26.74,P2,002271-CN
+411.0,Billion Industrial Holdings Limited,Asia / Pacific,Asia-Pacific,55.99,P4,2299-HK
+412.0,"BlueFocus Intelligent Communications Group Co., Ltd.",Asia / Pacific,Asia-Pacific,22.34,P1,300058-CN
+413.0,"Byhealth Co.,Ltd",Asia / Pacific,Asia-Pacific,45.55,P4,300146-CN
+414.0,"Camel Group Co., Ltd.",Asia / Pacific,Asia-Pacific,28.23,P2,601311-CN
+415.0,COSMOS Pharmaceutical Corporation,Asia / Pacific,Asia-Pacific,47.57,P4,3349-JP
+416.0,E-MART Inc.,Asia / Pacific,Asia-Pacific,29.72,P2,139480-KR
+417.0,Fufeng Group Limited,Asia / Pacific,Asia-Pacific,40.84,P3,546-HK
+418.0,"Guangdong Zhongsheng Pharmaceutical Co., Ltd.",Asia / Pacific,Asia-Pacific,31.88,P2,002317-CN
+419.0,"Jangho Group Co., Ltd.",Asia / Pacific,Asia-Pacific,26.01,P1,601886-CN
+420.0,Kingsoft Corporation Limited,Asia / Pacific,Asia-Pacific,20.17,P1,3888-HK
+421.0,MGM China Holdings Limited,Asia / Pacific,Asia-Pacific,27.49,P2,2282-HK
+422.0,"MIXI, Inc.",Asia / Pacific,Asia-Pacific,48.05,P4,2121-JP
+423.0,Oberoi Realty Limited,Asia / Pacific,Asia-Pacific,58.56,P5,533273-IN
+424.0,Pola Orbis Holdings Inc.,Asia / Pacific,Asia-Pacific,26.56,P2,4927-JP
+425.0,PT Elang Mahkota Teknologi Tbk,Asia / Pacific,Asia-Pacific,56.84,P4,EMTK-ID
+426.0,Sega Sammy Holdings Inc.,Asia / Pacific,Asia-Pacific,29.76,P2,6460-JP
+427.0,"Shenzhen Inovance Technology Co.,Ltd",Asia / Pacific,Asia-Pacific,25.02,P1,300124-CN
+428.0,"Shijiazhuang Yiling Pharmaceutical Co., Ltd.",Asia / Pacific,Asia-Pacific,25.85,P1,002603-CN
+429.0,"Zhejiang Huace Film & TV Co., Ltd.",Asia / Pacific,Asia-Pacific,22.45,P1,300133-CN
+430.0,AIA Engineering Limited,Asia / Pacific,Asia-Pacific,58.5,P5,532683-IN
+431.0,Central Plaza Hotel Public Company Limited,Asia / Pacific,Asia-Pacific,58.32,P5,CENTEL-TH
+432.0,"Cheng Shin Rubber Ind. Co., Ltd.",Asia / Pacific,Asia-Pacific,27.11,P2,2105-TW
+433.0,"East Money Information Co.,Ltd.",Asia / Pacific,Asia-Pacific,24.95,P1,300059-CN
+434.0,"GungHo Online Entertainment, Inc.",Asia / Pacific,Asia-Pacific,32.46,P2,3765-JP
+435.0,"Guomai Technologies, Inc.",Asia / Pacific,Asia-Pacific,49.41,P4,002093-CN
+436.0,"Haisco Pharmaceutical Group Co., Ltd.",Asia / Pacific,Asia-Pacific,85.57,P5,002653-CN
+437.0,Hartalega Holdings Berhad,Asia / Pacific,Asia-Pacific,46.29,P4,5168-MY
+438.0,Hytera Communications Corporation Limited,Asia / Pacific,Asia-Pacific,41.14,P3,002583-CN
+439.0,Info Edge,Asia / Pacific,Asia-Pacific,37.88,P3,532777-IN
+440.0,Magellan Financial Group Limited,Asia / Pacific,Asia-Pacific,24.92,P1,MFG-AU
+441.0,Man Wah Holdings Limited,Asia / Pacific,Asia-Pacific,61.32,P5,1999-HK
+442.0,"MeiHua Holdings Group Co.,Ltd",Asia / Pacific,Asia-Pacific,38.04,P3,600873-CN
+443.0,Muthoot Finance Limited,Asia / Pacific,Asia-Pacific,78.93,P5,533398-IN
+444.0,NagaCorp Ltd.,Asia / Pacific,Asia-Pacific,65.5,P5,3918-HK
+445.0,"Sanquan Food Co., Ltd.",Asia / Pacific,Asia-Pacific,37.78,P3,002216-CN
+446.0,Shanghai DZH Limited,Asia / Pacific,Asia-Pacific,41.46,P3,601519-CN
+447.0,Sinocare Inc.,Asia / Pacific,Asia-Pacific,48.15,P4,300298-CN
+448.0,Skyworth Group Limited,Asia / Pacific,Asia-Pacific,50.51,P4,751-HK
+449.0,Square Pharmaceuticals Ltd.,Asia / Pacific,Asia-Pacific,35.18,P3,SQURPHARMA-BD
+450.0,Sundaram Finance Limited,Asia / Pacific,Asia-Pacific,27.4,P2,590071-IN
+451.0,"Suofeiya Home Collection Co., Ltd.",Asia / Pacific,Asia-Pacific,40.34,P3,002572-CN
+452.0,Supalai Public Company Limited,Asia / Pacific,Asia-Pacific,34.71,P3,SPALI-TH
+453.0,"Zhefu Holding Group Co., Ltd.",Asia / Pacific,Asia-Pacific,26.68,P2,002266-CN
+454.0,"Beijing Jetsen Technology Co., Ltd",Asia / Pacific,Asia-Pacific,23.81,P1,300182-CN
+455.0,"Bros Eastern.,Ltd",Asia / Pacific,Asia-Pacific,31.6,P2,601339-CN
+456.0,China Yongda Automobiles Services Holdings Limited,Asia / Pacific,Asia-Pacific,33.54,P2,3669-HK
+457.0,"Eclat Textile Co., Ltd.",Asia / Pacific,Asia-Pacific,22.69,P1,1476-TW
+458.0,Energy Absolute Public Company Limited,Asia / Pacific,Asia-Pacific,42.65,P3,EA-TH
+459.0,"Feng Tay Enterprises Co., Ltd.",Asia / Pacific,Asia-Pacific,53.4,P4,9910-TW
+460.0,"GMO internet group, Inc.",Asia / Pacific,Asia-Pacific,42.17,P3,9449-JP
+461.0,"Hangzhou Shunwang Technology Co,Ltd",Asia / Pacific,Asia-Pacific,37.12,P3,300113-CN
+462.0,"Harbin Boshi Automation Co., Ltd.",Asia / Pacific,Asia-Pacific,36.34,P3,002698-CN
+463.0,Hefei Meyer Optoelectronic Technology Inc.,Asia / Pacific,Asia-Pacific,68.9,P5,002690-CN
+464.0,Himile Mechanical Science and Technology,Asia / Pacific,Asia-Pacific,57.89,P5,002595-CN
+465.0,Hoa Phat Group Joint Stock Company,Asia / Pacific,Asia-Pacific,43.58,P3,HPG-VN
+466.0,"Hunan Er-Kang Pharmaceutical Co., Ltd",Asia / Pacific,Asia-Pacific,47.5,P4,300267-CN
+467.0,"Inner Mongolia Junzheng Energy & Chemical Group Co.,Ltd.",Asia / Pacific,Asia-Pacific,41.86,P3,601216-CN
+469.0,"Merida Industry Co., Ltd.",Asia / Pacific,Asia-Pacific,24.66,P1,9914-TW
+470.0,"Noevir Holdings Co., Ltd.",Asia / Pacific,Asia-Pacific,50.16,P4,4928-JP
+471.0,Ottogi Corporation,Asia / Pacific,Asia-Pacific,43.27,P3,007310-KR
+472.0,Page Industries Limited,Asia / Pacific,Asia-Pacific,46.12,P4,532827-IN
+473.0,"Paramount Bed Holdings Co., Ltd.",Asia / Pacific,Asia-Pacific,32.94,P2,7817-JP
+474.0,PeptiDream Inc.,Asia / Pacific,Asia-Pacific,28.2,P2,4587-JP
+475.0,"SAN-A CO.,LTD.",Asia / Pacific,Asia-Pacific,35.39,P3,2659-JP
+476.0,"Shanghai Kaibao Pharmaceutical CO.,Ltd",Asia / Pacific,Asia-Pacific,33.2,P2,300039-CN
+477.0,"Shenzhen Fastprint Circuit Tech Co.,Ltd.",Asia / Pacific,Asia-Pacific,27.16,P2,002436-CN
+478.0,Sino Horizon Holdings Limited,Asia / Pacific,Asia-Pacific,97.47,P5,2923-TW
+479.0,"Sungrow Power Supply Co., Ltd.",Asia / Pacific,Asia-Pacific,32.05,P2,300274-CN
+480.0,"Sunwoda Electronic Co.,Ltd",Asia / Pacific,Asia-Pacific,31.07,P2,300207-CN
+481.0,"Suzhou Dongshan Precision Manufacturing Co., Ltd.",Asia / Pacific,Asia-Pacific,28.36,P2,002384-CN
+482.0,TAL Education Group,Asia / Pacific,Asia-Pacific,31.3,P2,TAL-US
+483.0,"Tofflon Science and Technology Group Co., Ltd.",Asia / Pacific,Asia-Pacific,61.99,P5,300171-CN
+484.0,"Wangsu Science & Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,20.2,P1,300017-CN
+485.0,"Winning Health Technology Group Co., Ltd.",Asia / Pacific,Asia-Pacific,22.86,P1,300253-CN
+486.0,"Wuhan Guide Infrared Co., Ltd.",Asia / Pacific,Asia-Pacific,27.25,P2,002414-CN
+487.0,"Yifan Pharmaceutical Co., Ltd.",Asia / Pacific,Asia-Pacific,41.61,P3,002019-CN
+488.0,"Yintai Gold Co., Ltd.",Asia / Pacific,Asia-Pacific,25.81,P1,000975-CN
+489.0,"Zhejiang Runtu Co., Ltd.",Asia / Pacific,Asia-Pacific,46.13,P4,002440-CN
+490.0,"37 Interactive Entertainment Network Technology Group Co., Ltd.",Asia / Pacific,Asia-Pacific,41.67,P3,002555-CN
+491.0,Ajanta Pharma Limited,Asia / Pacific,Asia-Pacific,58.11,P5,532331-IN
+492.0,"Beijing BDStar Navigation Co., Ltd.",Asia / Pacific,Asia-Pacific,36.6,P3,002151-CN
+493.0,Business-intelligence of Oriental Nations Corporation Ltd.,Asia / Pacific,Asia-Pacific,28.19,P2,300166-CN
+494.0,Centre Testing International Group Co. Ltd.,Asia / Pacific,Asia-Pacific,20.38,P1,300012-CN
+495.0,"Chongqing Zhifei Biological Products Co., Ltd.",Asia / Pacific,Asia-Pacific,58.97,P5,300122-CN
+496.0,"Dian Diagnostics Group Co.,Ltd.",Asia / Pacific,Asia-Pacific,27.98,P2,300244-CN
+497.0,"Ganfeng Lithium Group Co., Ltd.",Asia / Pacific,Asia-Pacific,27.63,P2,002460-CN
+498.0,"Hangzhou Tigermed Consulting Co., Ltd",Asia / Pacific,Asia-Pacific,28.29,P2,300347-CN
+499.0,"Hanmi Science Co., Ltd.",Asia / Pacific,Asia-Pacific,66.61,P5,008930-KR
+500.0,"Hithink RoyalFlush Information Network Co., Ltd.",Asia / Pacific,Asia-Pacific,56.52,P4,300033-CN
+501.0,"Hla Group Corp., Ltd.",Asia / Pacific,Asia-Pacific,26.02,P1,600398-CN
+502.0,"Hubei Dinglong CO.,Ltd.",Asia / Pacific,Asia-Pacific,29.94,P2,300054-CN
+503.0,"Iida Group Holdings Co., Ltd.",Asia / Pacific,Asia-Pacific,23.68,P1,3291-JP
+504.0,IIFL Finance Limited,Asia / Pacific,Asia-Pacific,27.81,P2,532636-IN
+505.0,King's Town Bank,Asia / Pacific,Asia-Pacific,21.01,P1,2809-TW
+506.0,Kingdee International Software Group Company Limited,Asia / Pacific,Asia-Pacific,20.28,P1,268-HK
+507.0,"LONGi Green Energy Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,22.6,P1,601012-CN
+508.0,Meritz Financial Group Inc.,Asia / Pacific,Asia-Pacific,79.03,P5,138040-KR
+509.0,MK Restaurant Group Public Company Limited,Asia / Pacific,Asia-Pacific,68.44,P5,M-TH
+510.0,"Muyuan Foods Co., Ltd.",Asia / Pacific,Asia-Pacific,41.83,P3,002714-CN
+511.0,NetDragon Websoft Holdings Limited,Asia / Pacific,Asia-Pacific,48.58,P4,777-HK
+512.0,"Ningbo Sanxing Medical Electric Co.,Ltd.",Asia / Pacific,Asia-Pacific,24.23,P1,601567-CN
+513.0,Rajesh Exports Limited,Asia / Pacific,Asia-Pacific,67.78,P5,531500-IN
+514.0,"Relo Group, Inc.",Asia / Pacific,Asia-Pacific,28.38,P2,8876-JP
+515.0,"Shenzhen Kingdom Sci-Tech Co., Ltd",Asia / Pacific,Asia-Pacific,32.42,P2,600446-CN
+516.0,Siam Global House Public Company Limited,Asia / Pacific,Asia-Pacific,35.51,P3,GLOBAL-TH
+517.0,"Stanley Agriculture Group Co.,Ltd.",Asia / Pacific,Asia-Pacific,58.21,P5,002588-CN
+518.0,"Suzhou Anjie Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,51.62,P4,002635-CN
+519.0,Venustech Group Inc.,Asia / Pacific,Asia-Pacific,28.8,P2,002439-CN
+520.0,"Visual China Group Co.,Ltd.",Asia / Pacific,Asia-Pacific,40.34,P3,000681-CN
+521.0,"Workman Co.,Ltd.",Asia / Pacific,Asia-Pacific,61.15,P5,7564-JP
+522.0,"Xiamen Meiya Pico Information Co.,LTD.",Asia / Pacific,Asia-Pacific,33.99,P2,300188-CN
+524.0,"Yixintang Pharmaceutical Group Co., Ltd.",Asia / Pacific,Asia-Pacific,45.74,P4,002727-CN
+525.0,"Zhejiang Yongtai Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,29.4,P2,002326-CN
+526.0,"Allwinnertech Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,41.05,P3,300458-CN
+527.0,Anhui Anke Biotechnology,Asia / Pacific,Asia-Pacific,40.22,P3,300009-CN
+528.0,"Anhui Kouzi Distillery Co., Ltd.",Asia / Pacific,Asia-Pacific,43.28,P3,603589-CN
+529.0,"Beijing Dahao Technology Corp.,Ltd",Asia / Pacific,Asia-Pacific,49.9,P4,603025-CN
+530.0,"Changzhou Xingyu Automotive Lighting Systems Co.,Ltd.",Asia / Pacific,Asia-Pacific,48.18,P4,601799-CN
+531.0,"Chengdu Hongqi Chain Co.,Ltd.",Asia / Pacific,Asia-Pacific,27.67,P2,002697-CN
+532.0,"Chengdu Kanghong Pharmaceutical Group Co., Ltd",Asia / Pacific,Asia-Pacific,38.59,P3,002773-CN
+533.0,"Create SD Holdings Co., Ltd.",Asia / Pacific,Asia-Pacific,56.54,P4,3148-JP
+534.0,DIP Corporation,Asia / Pacific,Asia-Pacific,36.84,P3,2379-JP
+535.0,"Fujian Torch Electron Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,44.65,P4,603678-CN
+536.0,"Global Top E-Commerce Co., Ltd.",Asia / Pacific,Asia-Pacific,21.79,P1,002640-CN
+537.0,"Guangzhou Tinci Materials Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,42.67,P3,002709-CN
+538.0,"Guangzhou Wondfo Biotech Co.,Ltd",Asia / Pacific,Asia-Pacific,33.59,P2,300482-CN
+539.0,Hello Group Inc.,Asia / Pacific,Asia-Pacific,22.31,P1,MOMO-US
+540.0,"Henan Mingtai Al.Industrial Co.,Ltd.",Asia / Pacific,Asia-Pacific,27.19,P2,601677-CN
+541.0,"Himax Technologies, Inc.",Asia / Pacific,Asia-Pacific,28.25,P2,HIMX-US
+542.0,"Hybio Pharmaceutical Co., Ltd.",Asia / Pacific,Asia-Pacific,36.08,P3,300199-CN
+543.0,"Jiangsu Shuangxing Color Plastic New Materials Co., Ltd.",Asia / Pacific,Asia-Pacific,30.97,P2,002585-CN
+544.0,JSTI Group,Asia / Pacific,Asia-Pacific,25.57,P1,300284-CN
+545.0,KCE Electronics Public Company Limited,Asia / Pacific,Asia-Pacific,32.65,P2,KCE-TH
+546.0,"Kingclean Electric Co.,Ltd",Asia / Pacific,Asia-Pacific,53.82,P4,603355-CN
+547.0,"Kunlun Tech Co., Ltd.",Asia / Pacific,Asia-Pacific,23.91,P1,300418-CN
+548.0,LBX Pharmacy Chain Joint Stock Company,Asia / Pacific,Asia-Pacific,29.45,P2,603883-CN
+549.0,"Leyard Optoelectronic Co., Ltd.",Asia / Pacific,Asia-Pacific,29.1,P2,300296-CN
+550.0,Maccura Biotechnology Co.Ltd,Asia / Pacific,Asia-Pacific,39.44,P3,300463-CN
+551.0,Manappuram Finance Limited,Asia / Pacific,Asia-Pacific,35.64,P3,531213-IN
+552.0,Muangthai Capital Public Company Limited,Asia / Pacific,Asia-Pacific,67.94,P5,MTC-TH
+553.0,NATCO Pharma Limited,Asia / Pacific,Asia-Pacific,30.51,P2,524816-IN
+554.0,"Nien Made Enterprise Co., LTD.",Asia / Pacific,Asia-Pacific,40.21,P3,8464-TW
+555.0,"Open House Group Co., Ltd.",Asia / Pacific,Asia-Pacific,40.02,P3,3288-JP
+556.0,PI Industries Limited,Asia / Pacific,Asia-Pacific,46.56,P4,523642-IN
+557.0,Porton Pharma Solutions Ltd.,Asia / Pacific,Asia-Pacific,26.97,P2,300363-CN
+558.0,Press Metal Aluminium Holdings Berhad,Asia / Pacific,Asia-Pacific,26.24,P1,8869-MY
+559.0,"Risen Energy Co.,Ltd.",Asia / Pacific,Asia-Pacific,29.79,P2,300118-CN
+560.0,"Rongan Property Co.,Ltd.",Asia / Pacific,Asia-Pacific,28.91,P2,000517-CN
+561.0,Samsung C&T Corporation,Asia / Pacific,Asia-Pacific,36.44,P3,028260-KR
+562.0,"Shanghai Pret Composites Co., Ltd.",Asia / Pacific,Asia-Pacific,49.55,P4,002324-CN
+563.0,Sheng Siong Group Ltd,Asia / Pacific,Asia-Pacific,36.95,P3,OV8-SG
+564.0,"Shenzhen Capchem Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,39.9,P3,300037-CN
+565.0,"Shenzhen Sunway Communication Co., Ltd.",Asia / Pacific,Asia-Pacific,21.25,P1,300136-CN
+566.0,Solar Industries India Limited,Asia / Pacific,Asia-Pacific,73.15,P5,532725-IN
+567.0,Srisawad Corporation Public Company Limited,Asia / Pacific,Asia-Pacific,34.05,P3,SAWAD-TH
+568.0,"Talkweb Information System Co.,Ltd.",Asia / Pacific,Asia-Pacific,23.22,P1,002261-CN
+569.0,"Tech-Bank Food Co., Ltd.",Asia / Pacific,Asia-Pacific,23.85,P1,002124-CN
+570.0,"Wellhope Foods Co., Ltd.",Asia / Pacific,Asia-Pacific,50.94,P4,603609-CN
+571.0,"YOOZOO Interactive Co., Ltd.",Asia / Pacific,Asia-Pacific,28.83,P2,002174-CN
+572.0,"Zhejiang Dingli Machinery Co.,Ltd",Asia / Pacific,Asia-Pacific,47.56,P4,603338-CN
+573.0,"Zhejiang Jingxin Pharmaceutical Co., Ltd.",Asia / Pacific,Asia-Pacific,27.09,P2,002020-CN
+574.0,"Zhejiang Semir Garment Co., Ltd.",Asia / Pacific,Asia-Pacific,62.23,P5,002563-CN
+575.0,"Zhejiang Weiming Environment Protection Co., Ltd.",Asia / Pacific,Asia-Pacific,24.58,P1,603568-CN
+576.0,Alibaba Health Information Technology Limited,Asia / Pacific,Asia-Pacific,28.75,P2,241-HK
+577.0,Alkem Laboratories Limited,Asia / Pacific,Asia-Pacific,45.37,P4,539523-IN
+578.0,Atlassian Corporation,Asia / Pacific,Asia-Pacific,42.68,P3,TEAM-US
+579.0,Bangkok Chain Hospital Public Company Limited,Asia / Pacific,Asia-Pacific,49.99,P4,BCH-TH
+580.0,"Beijing GeoEnviron Engineering & Technology, Inc.",Asia / Pacific,Asia-Pacific,30.88,P2,603588-CN
+581.0,"Beijing Strong Biotechnologies, Inc.",Asia / Pacific,Asia-Pacific,44.8,P4,300406-CN
+582.0,Carabao Group Public Company Limited,Asia / Pacific,Asia-Pacific,69.72,P5,CBG-TH
+583.0,"Changsha Jingjia Microelectronics Co., Ltd.",Asia / Pacific,Asia-Pacific,41.86,P3,300474-CN
+584.0,"Changzhou Qianhong Biopharma CO.,LTD",Asia / Pacific,Asia-Pacific,41.69,P3,002550-CN
+585.0,"Chengdu Wintrue Holding Co., Ltd.",Asia / Pacific,Asia-Pacific,45.72,P4,002539-CN
+586.0,"Chifeng Jilong Gold Mining Co.,Ltd.",Asia / Pacific,Asia-Pacific,28.56,P2,600988-CN
+587.0,China Water Affairs Group Limited,Asia / Pacific,Asia-Pacific,33.12,P2,855-HK
+588.0,Dr. Lal PathLabs Limited,Asia / Pacific,Asia-Pacific,57.31,P5,539524-IN
+589.0,"Focus Media Information Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,23.72,P1,002027-CN
+590.0,"Fukuda Denshi Co., Ltd.",Asia / Pacific,Asia-Pacific,34.25,P3,6960-JP
+591.0,"Guangdong Dowstone Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,31.41,P2,300409-CN
+592.0,"Guangzhou Great Power Energy and Technology Co., Ltd",Asia / Pacific,Asia-Pacific,38.51,P3,300438-CN
+593.0,"Hang Xiao Steel Structure Co.,Ltd",Asia / Pacific,Asia-Pacific,43.52,P3,600477-CN
+594.0,InterGlobe Aviation Limited,Asia / Pacific,Asia-Pacific,20.89,P1,539448-IN
+595.0,"Jafron Biomedical Co.,Ltd.",Asia / Pacific,Asia-Pacific,50.93,P4,300529-CN
+596.0,"Jiangsu Yoke Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,45.92,P4,002409-CN
+597.0,"Jiuzhitang Co., Ltd.",Asia / Pacific,Asia-Pacific,26.63,P2,000989-CN
+598.0,"Lancy Co., Ltd.",Asia / Pacific,Asia-Pacific,55.11,P4,002612-CN
+599.0,"LB Group Co., Ltd.",Asia / Pacific,Asia-Pacific,43.58,P3,002601-CN
+600.0,"MLS Co., Ltd",Asia / Pacific,Asia-Pacific,46.69,P4,002745-CN
+601.0,"NanJi E-Commerce Co., LTD",Asia / Pacific,Asia-Pacific,30.08,P2,002127-CN
+602.0,"Opple Lighting Co.,LTD",Asia / Pacific,Asia-Pacific,35.91,P3,603515-CN
+603.0,Qingdao East Steel Tower Stock Co.Ltd,Asia / Pacific,Asia-Pacific,59.04,P5,002545-CN
+604.0,"Qingdao Gon Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,49.77,P4,002768-CN
+605.0,Relaxo Footwears Limited,Asia / Pacific,Asia-Pacific,70.79,P5,530517-IN
+606.0,Sai MicroElectronics Inc.,Asia / Pacific,Asia-Pacific,28.6,P2,300456-CN
+607.0,"Seegene, Inc.",Asia / Pacific,Asia-Pacific,31.62,P2,096530-KR
+608.0,"Shandong Sinocera Functional Material Co., Ltd.",Asia / Pacific,Asia-Pacific,26.83,P2,300285-CN
+609.0,"Shandong Yisheng Livestock & Poultry Breeding Co., Ltd.",Asia / Pacific,Asia-Pacific,50.38,P4,002458-CN
+610.0,"Shanghai Bairun Investment Holding Group Co., Ltd.",Asia / Pacific,Asia-Pacific,52.73,P4,002568-CN
+611.0,"Shanghai Liangxin Electrical Co.,LTD.",Asia / Pacific,Asia-Pacific,32.17,P2,002706-CN
+612.0,"Shenzhen Sunline Tech Co., Ltd.",Asia / Pacific,Asia-Pacific,26.51,P2,300348-CN
+613.0,Tianneng Power International Limited,Asia / Pacific,Asia-Pacific,40.97,P3,819-HK
+614.0,"Toly Bread Co.,Ltd.",Asia / Pacific,Asia-Pacific,65.01,P5,603866-CN
+615.0,"Wens Foodstuff Group Co., Ltd.",Asia / Pacific,Asia-Pacific,35.42,P3,300498-CN
+616.0,WHA Corporation Public Company Limited,Asia / Pacific,Asia-Pacific,32.33,P2,WHA-TH
+617.0,"Yongxing Special Materials Technology Co.,Ltd",Asia / Pacific,Asia-Pacific,41.49,P3,002756-CN
+618.0,"Yunnan Energy New Material Co., Ltd.",Asia / Pacific,Asia-Pacific,33.19,P2,002812-CN
+619.0,"Zhejiang Meida Industrial Co., Ltd.",Asia / Pacific,Asia-Pacific,65.48,P5,002677-CN
+620.0,Aarti Industries Limited,Asia / Pacific,Asia-Pacific,28.61,P2,524208-IN
+621.0,"Asian Star Anchor Chain Co., Ltd. Jiangsu",Asia / Pacific,Asia-Pacific,39.42,P3,601890-CN
+622.0,Astral Limited,Asia / Pacific,Asia-Pacific,39.31,P3,532830-IN
+623.0,AU Small Finance Bank Limited,Asia / Pacific,Asia-Pacific,26.91,P2,540611-IN
+624.0,Autek China Inc.,Asia / Pacific,Asia-Pacific,33.46,P2,300595-CN
+625.0,Avenue Supermarts Limited,Asia / Pacific,Asia-Pacific,64.57,P5,540376-IN
+626.0,B.Grimm Power Public Company Limited,Asia / Pacific,Asia-Pacific,25.53,P1,BGRIM-TH
+627.0,Balkrishna Industries Limited,Asia / Pacific,Asia-Pacific,33.09,P2,502355-IN
+628.0,"BIEM.L.FDLKK Garment Co.,Ltd.",Asia / Pacific,Asia-Pacific,49.16,P4,002832-CN
+629.0,"Chengdu Fusen Noble-House Industrial Co.,Ltd.",Asia / Pacific,Asia-Pacific,80.18,P5,002818-CN
+630.0,CSPC Pharmaceutical Group Limited,Asia / Pacific,Asia-Pacific,23.52,P1,1093-HK
+631.0,"DaShenLin Pharmaceutical Group Co., Ltd.",Asia / Pacific,Asia-Pacific,64.66,P5,603233-CN
+632.0,"Digital China Group Co., Ltd.",Asia / Pacific,Asia-Pacific,28.76,P2,000034-CN
+633.0,Double Medical Technology Inc.,Asia / Pacific,Asia-Pacific,86.32,P5,002901-CN
+634.0,"Edifier Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,59.57,P5,002351-CN
+635.0,Endurance Technologies Limited,Asia / Pacific,Asia-Pacific,75.0,P5,540153-IN
+636.0,"Eoptolink Technology Inc., Ltd.",Asia / Pacific,Asia-Pacific,33.4,P2,300502-CN
+637.0,Eris Lifesciences Limited,Asia / Pacific,Asia-Pacific,71.19,P5,540596-IN
+638.0,"Fujian Kuncai Material Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,69.11,P5,603826-CN
+639.0,G-bits Network Technology,Asia / Pacific,Asia-Pacific,45.86,P4,603444-CN
+640.0,Grand Pharmaceutical Group Limited,Asia / Pacific,Asia-Pacific,48.75,P4,512-HK
+641.0,"Guanfu Holding Co., Ltd.",Asia / Pacific,Asia-Pacific,23.93,P1,002102-CN
+642.0,"Guangdong KinLong Hardware Products Co.,Ltd.",Asia / Pacific,Asia-Pacific,67.18,P5,002791-CN
+643.0,Guangzhou Shiyuan Electronic Technology Company Limited,Asia / Pacific,Asia-Pacific,54.72,P4,002841-CN
+644.0,"Hainan Poly Pharm. Co., Ltd",Asia / Pacific,Asia-Pacific,41.99,P3,300630-CN
+645.0,Hatsun Agro Product Limited,Asia / Pacific,Asia-Pacific,75.94,P5,531531-IN
+646.0,"HD Hyundai Co., Ltd.",Asia / Pacific,Asia-Pacific,35.71,P3,267250-KR
+647.0,"Hikari Tsushin, Inc.",Asia / Pacific,Asia-Pacific,21.5,P1,9435-JP
+648.0,Hotel Properties Limited,Asia / Pacific,Asia-Pacific,31.45,P2,H15-SG
+649.0,"JAPAN MATERIAL Co., Ltd.",Asia / Pacific,Asia-Pacific,34.04,P2,6055-JP
+650.0,"Jinneng Science&Technology Co.,Ltd",Asia / Pacific,Asia-Pacific,52.9,P4,603113-CN
+651.0,Jolywood,Asia / Pacific,Asia-Pacific,30.46,P2,300393-CN
+652.0,"Kingnet Network Co., Ltd.",Asia / Pacific,Asia-Pacific,31.51,P2,002517-CN
+653.0,"Konfoong Materials International Co., Ltd",Asia / Pacific,Asia-Pacific,26.83,P2,300666-CN
+654.0,"Kotobuki Spirits Co., Ltd.",Asia / Pacific,Asia-Pacific,30.5,P2,2222-JP
+655.0,"Kusuri No Aoki Holdings Co., Ltd.",Asia / Pacific,Asia-Pacific,30.02,P2,3549-JP
+656.0,Lotte Energy Materials Corporation,Asia / Pacific,Asia-Pacific,53.61,P4,020150-KR
+657.0,"Nanjing Hanrui Cobalt Co.,Ltd.",Asia / Pacific,Asia-Pacific,29.28,P2,300618-CN
+658.0,"Nanjing King-Friend Biochemical Pharmaceutical Co., Ltd",Asia / Pacific,Asia-Pacific,51.55,P4,603707-CN
+659.0,Netmarble Corporation,Asia / Pacific,Asia-Pacific,25.39,P1,251270-KR
+660.0,"Ningbo Xusheng Group Co., Ltd.",Asia / Pacific,Asia-Pacific,36.39,P3,603305-CN
+661.0,No Va Land Investment Group Corporation,Asia / Pacific,Asia-Pacific,22.41,P1,NVL-VN
+662.0,Nojima Corporation,Asia / Pacific,Asia-Pacific,26.93,P2,7419-JP
+663.0,Oppein Home Group Inc.,Asia / Pacific,Asia-Pacific,75.17,P5,603833-CN
+664.0,Pearl Abyss Corp.,Asia / Pacific,Asia-Pacific,53.54,P4,263750-KR
+665.0,PT Barito Pacific Tbk,Asia / Pacific,Asia-Pacific,71.28,P5,BRPT-ID
+666.0,PT Indoritel Makmur Internasional Tbk.,Asia / Pacific,Asia-Pacific,25.3,P1,DNET-ID
+667.0,PT Mayora Indah Tbk,Asia / Pacific,Asia-Pacific,25.25,P1,MYOR-ID
+668.0,"Pulike Biological Engineering, Inc.",Asia / Pacific,Asia-Pacific,43.84,P4,603566-CN
+669.0,"Qianhe Condiment and Food Co., Ltd.",Asia / Pacific,Asia-Pacific,48.24,P4,603027-CN
+670.0,"Qingdao Zhongzi Zhongcheng Group Co.,Ltd.",Asia / Pacific,Asia-Pacific,26.19,P1,300208-CN
+671.0,"Riyue Heavy Industry Co., Ltd.",Asia / Pacific,Asia-Pacific,47.7,P4,603218-CN
+672.0,Round One Corporation,Asia / Pacific,Asia-Pacific,33.17,P2,4680-JP
+673.0,"Shandong Buchang Pharmaceuticals Co., Ltd.",Asia / Pacific,Asia-Pacific,51.87,P4,603858-CN
+674.0,"Shandong Xiantan Co., Ltd.",Asia / Pacific,Asia-Pacific,44.71,P4,002746-CN
+675.0,"Shanghai Daimay Automotive Interior Co., Ltd",Asia / Pacific,Asia-Pacific,24.94,P1,603730-CN
+676.0,"Shantou Wanshun New Material Group Co., Ltd.",Asia / Pacific,Asia-Pacific,42.32,P3,300057-CN
+677.0,"Shenzhen Goodix Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,48.69,P4,603160-CN
+678.0,"Shenzhen Kangtai Biological Products Co., Ltd.",Asia / Pacific,Asia-Pacific,49.88,P4,300601-CN
+679.0,"Shenzhen Kinwong Electronic Co., Ltd.",Asia / Pacific,Asia-Pacific,69.43,P5,603228-CN
+680.0,"Shenzhen Megmeet Electrical Co., LTD",Asia / Pacific,Asia-Pacific,36.6,P3,002851-CN
+681.0,"Shenzhen Topband Co., Ltd.",Asia / Pacific,Asia-Pacific,22.69,P1,002139-CN
+682.0,"ShenZhen YUTO Packaging Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,59.36,P5,002831-CN
+683.0,"SKSHU Paint Co.,Ltd.",Asia / Pacific,Asia-Pacific,67.76,P5,603737-CN
+684.0,SonoScape Medical Corp.,Asia / Pacific,Asia-Pacific,56.0,P4,300633-CN
+685.0,"Suntak Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,66.74,P5,002815-CN
+686.0,The Great Eastern Shipping Company Limited,Asia / Pacific,Asia-Pacific,25.49,P1,500620-IN
+687.0,"Thunder Software Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,28.43,P2,300496-CN
+688.0,"Tianjin Ringpu Bio-Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,47.95,P4,300119-CN
+689.0,TORIDOLL Holdings Corporation,Asia / Pacific,Asia-Pacific,46.02,P4,3397-JP
+690.0,Uno Minda Limited,Asia / Pacific,Asia-Pacific,39.92,P3,532539-IN
+691.0,V-Guard Industries Limited,Asia / Pacific,Asia-Pacific,51.4,P4,532953-IN
+692.0,Varun Beverages Limited,Asia / Pacific,Asia-Pacific,36.9,P3,540180-IN
+693.0,"Will Semiconductor Co., Ltd.",Asia / Pacific,Asia-Pacific,31.09,P2,603501-CN
+694.0,"Wuhan Jingce Electronic Group Co.,Ltd",Asia / Pacific,Asia-Pacific,37.46,P3,300567-CN
+695.0,"Xinfengming Group Co., Ltd.",Asia / Pacific,Asia-Pacific,32.39,P2,603225-CN
+696.0,"Xinjiang Xintai Natural Gas Co., Ltd.",Asia / Pacific,Asia-Pacific,51.8,P4,603393-CN
+697.0,"Yantai Eddie Precision Machinery Co., Ltd.",Asia / Pacific,Asia-Pacific,64.89,P5,603638-CN
+698.0,"Yealink Network Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,61.11,P5,300628-CN
+699.0,Yihai International Holding Ltd.,Asia / Pacific,Asia-Pacific,46.61,P4,1579-HK
+700.0,"Zhejiang Hailide New Material Co.,Ltd",Asia / Pacific,Asia-Pacific,34.96,P3,002206-CN
+701.0,"Zhejiang Jiemei Electronic And Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,52.27,P4,002859-CN
+702.0,Zhongsheng Group Holdings Limited,Asia / Pacific,Asia-Pacific,44.36,P4,881-HK
+703.0,Zhongyu Energy Holdings Limited,Asia / Pacific,Asia-Pacific,35.88,P3,3633-HK
+704.0,Zhou Hei Ya International Holdings Company Limited,Asia / Pacific,Asia-Pacific,54.11,P4,1458-HK
+705.0,ZTO Express,Asia / Pacific,Asia-Pacific,40.17,P3,ZTO-US
+706.0,Anhui Honglu Steel Constructio,Asia / Pacific,Asia-Pacific,50.33,P4,002541-CN
+707.0,Asahi India Glass Limited,Asia / Pacific,Asia-Pacific,29.05,P2,515030-IN
+708.0,AZ-COM MARUWA Holdings Inc.,Asia / Pacific,Asia-Pacific,61.28,P5,9090-JP
+709.0,"Beijing eGOVA Co,. Ltd",Asia / Pacific,Asia-Pacific,30.05,P2,300075-CN
+710.0,"Bethel Automotive Safety Systems Co., Ltd",Asia / Pacific,Asia-Pacific,27.24,P2,603596-CN
+711.0,"BGF retail CO., LTD.",Asia / Pacific,Asia-Pacific,24.13,P1,282330-KR
+712.0,Bilibili Inc.,Asia / Pacific,Asia-Pacific,21.71,P1,BILI-US
+713.0,China Education Group Holdings Limited,Asia / Pacific,Asia-Pacific,63.0,P5,839-HK
+714.0,Chularat Hospital Public Company Limited,Asia / Pacific,Asia-Pacific,56.94,P5,CHG-TH
+715.0,"CNNC Hua Yuan Titanium Dioxide Co., Ltd",Asia / Pacific,Asia-Pacific,44.44,P4,002145-CN
+716.0,Country Garden Services Holdings Company Limited,Asia / Pacific,Asia-Pacific,43.53,P3,6098-HK
+717.0,"Dazzle Fashion Co., Ltd",Asia / Pacific,Asia-Pacific,76.21,P5,603587-CN
+718.0,"Ecovacs Robotics Co., Ltd.",Asia / Pacific,Asia-Pacific,28.57,P2,603486-CN
+719.0,"Electric Connector Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,45.59,P4,300679-CN
+720.0,Fujian Boss Software Corp.,Asia / Pacific,Asia-Pacific,29.39,P2,300525-CN
+721.0,Greattown Holdings Ltd.,Asia / Pacific,Asia-Pacific,25.19,P1,900940-CN
+722.0,"Guangdong Guanghua Sci-Tech Co., Ltd.",Asia / Pacific,Asia-Pacific,44.83,P4,002741-CN
+723.0,"Guizhou Xinbang Pharmaceutical Co., Ltd.",Asia / Pacific,Asia-Pacific,26.26,P1,002390-CN
+724.0,Gulf Energy Development Public Company Limited,Asia / Pacific,Asia-Pacific,70.59,P5,GULF-TH
+725.0,Haichang Ocean Park Holdings Ltd.,Asia / Pacific,Asia-Pacific,47.31,P4,2255-HK
+726.0,Haidilao International Holding Ltd.,Asia / Pacific,Asia-Pacific,40.67,P3,6862-HK
+727.0,"Hangzhou Sunrise Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,23.84,P1,300360-CN
+728.0,"Hebei Yangyuan ZhiHui Beverage Co., Ltd.",Asia / Pacific,Asia-Pacific,51.96,P4,603156-CN
+729.0,"Hengli Petrochemical Co.,Ltd.",Asia / Pacific,Asia-Pacific,22.4,P1,600346-CN
+730.0,"Huafon Chemical Co., Ltd.",Asia / Pacific,Asia-Pacific,21.97,P1,002064-CN
+731.0,"Jiangsu Pacific Quartz Co., Ltd",Asia / Pacific,Asia-Pacific,33.42,P2,603688-CN
+732.0,"Jinlei Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,43.06,P3,300443-CN
+733.0,Kajaria Ceramics Limited,Asia / Pacific,Asia-Pacific,47.56,P4,500233-IN
+734.0,"Kehua Data Co., Ltd.",Asia / Pacific,Asia-Pacific,21.74,P1,002335-CN
+735.0,KRBL Limited,Asia / Pacific,Asia-Pacific,66.15,P5,530813-IN
+736.0,"Kuangda Technology Group Co., Ltd.",Asia / Pacific,Asia-Pacific,52.25,P4,002516-CN
+737.0,"Lizhong Sitong Light Alloys Group Co., Ltd.",Asia / Pacific,Asia-Pacific,33.46,P2,300428-CN
+738.0,"M&A Capital Partners Co.,Ltd.",Asia / Pacific,Asia-Pacific,55.22,P4,6080-JP
+739.0,"Mercari, Inc.",Asia / Pacific,Asia-Pacific,34.46,P3,4385-JP
+740.0,Narayana Hrudayalaya Limited,Asia / Pacific,Asia-Pacific,65.25,P5,539551-IN
+741.0,Netwealth Group Limited,Asia / Pacific,Asia-Pacific,52.91,P4,NWL-AU
+742.0,"Olympic Circuit Technology Co., Ltd",Asia / Pacific,Asia-Pacific,59.31,P5,603920-CN
+743.0,Persistent Systems Limited,Asia / Pacific,Asia-Pacific,34.84,P3,533179-IN
+744.0,"Proya Cosmetics Co.,Ltd.",Asia / Pacific,Asia-Pacific,53.66,P4,603605-CN
+745.0,"Red Avenue New Materials Group Co., Ltd.",Asia / Pacific,Asia-Pacific,64.78,P5,603650-CN
+746.0,Sangfor Technologies Inc.,Asia / Pacific,Asia-Pacific,46.07,P4,300454-CN
+747.0,SCB X Public Company Limited,Asia / Pacific,Asia-Pacific,23.58,P1,SCB-TH
+748.0,SG Micro Corp,Asia / Pacific,Asia-Pacific,33.62,P2,300661-CN
+749.0,"Shanghai Fullhan Microelectronics Co., Ltd.",Asia / Pacific,Asia-Pacific,23.56,P1,300613-CN
+750.0,"Shanghai Haohai Biological Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,62.42,P5,6826-HK
+751.0,"Shanghai Putailai New Energy Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,39.5,P3,603659-CN
+752.0,"Shanghai Weaver Network Co., Ltd.",Asia / Pacific,Asia-Pacific,53.01,P4,603039-CN
+753.0,Sheela Foam Limited,Asia / Pacific,Asia-Pacific,59.47,P5,540203-IN
+754.0,"Shenzhen FRD Science & Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,65.45,P5,300602-CN
+755.0,"Shenzhen Kedali Industry Co., Ltd.",Asia / Pacific,Asia-Pacific,44.28,P4,002850-CN
+756.0,Shenzhen S.C New Energy Technology Corporation,Asia / Pacific,Asia-Pacific,36.87,P3,300724-CN
+757.0,"Sunresin New Materials Co.,Ltd",Asia / Pacific,Asia-Pacific,56.72,P4,300487-CN
+758.0,Systena Corporation,Asia / Pacific,Asia-Pacific,28.08,P2,2317-JP
+759.0,Thai President Foods Public Company Limited,Asia / Pacific,Asia-Pacific,30.84,P2,TFMAMA-TH
+760.0,The Siam Cement Public Company Limited,Asia / Pacific,Asia-Pacific,33.66,P2,SCC-TH
+761.0,Thomson Medical Group Limited,Asia / Pacific,Asia-Pacific,89.73,P5,A50-SG
+762.0,TOA Paint,Asia / Pacific,Asia-Pacific,45.0,P4,TOA-TH
+763.0,Vinati Organics Limited,Asia / Pacific,Asia-Pacific,27.79,P2,524200-IN
+764.0,"Wangneng Environment Co.,Ltd",Asia / Pacific,Asia-Pacific,20.63,P1,002034-CN
+765.0,Xiabuxiabu Catering Management,Asia / Pacific,Asia-Pacific,41.7,P3,520-HK
+766.0,Xiaomi Corporation,Asia / Pacific,Asia-Pacific,34.18,P3,1810-HK
+767.0,Yadea Group Holdings Ltd.,Asia / Pacific,Asia-Pacific,64.68,P5,1585-HK
+768.0,"Zhejiang Shuanghuan Driveline Co.,Ltd.",Asia / Pacific,Asia-Pacific,26.74,P2,002472-CN
+769.0,"Zhuzhou Hongda Electronics Corp.,Ltd.",Asia / Pacific,Asia-Pacific,69.78,P5,300726-CN
+770.0,360 One Wam Limited,Asia / Pacific,Asia-Pacific,20.32,P1,542772-IN
+771.0,AK Medical Holdings Limited,Asia / Pacific,Asia-Pacific,51.54,P4,1789-HK
+772.0,"Allmed Medical Products Co., Ltd",Asia / Pacific,Asia-Pacific,72.5,P5,002950-CN
+773.0,Appotronics Corporation Limited,Asia / Pacific,Asia-Pacific,24.87,P1,688007-CN
+774.0,"ASE Technology Holding Co., Ltd.",Asia / Pacific,Asia-Pacific,28.61,P2,3711-TW
+775.0,"Bear Electric Appliance Co.,Ltd.",Asia / Pacific,Asia-Pacific,67.92,P5,002959-CN
+776.0,"Beijing Tianyishangjia New Material Corp., Ltd.",Asia / Pacific,Asia-Pacific,32.28,P2,688033-CN
+777.0,"Beijing United Information Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,34.96,P3,603613-CN
+778.0,"Beijing Yuanliu Hongyuan Electronic Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,41.53,P3,603267-CN
+779.0,Boai NKY Medical Holdings Ltd.,Asia / Pacific,Asia-Pacific,26.9,P2,300109-CN
+780.0,CanSino Biologics Inc.,Asia / Pacific,Asia-Pacific,42.05,P3,6185-HK
+781.0,"Center International Group Co.,Ltd.",Asia / Pacific,Asia-Pacific,30.3,P2,603098-CN
+782.0,China East Education Holdings Limited,Asia / Pacific,Asia-Pacific,75.85,P5,667-HK
+783.0,China MeiDong Auto Holdings Limited,Asia / Pacific,Asia-Pacific,55.33,P4,1268-HK
+784.0,China Risun Group Limited,Asia / Pacific,Asia-Pacific,70.74,P5,1907-HK
+785.0,"Chongqing Pharscin Pharmaceutical Co., Ltd.",Asia / Pacific,Asia-Pacific,38.66,P3,002907-CN
+786.0,Com7 Public Company Limited,Asia / Pacific,Asia-Pacific,54.9,P4,COM7-TH
+787.0,"Edan Instruments, Inc.",Asia / Pacific,Asia-Pacific,55.5,P4,300206-CN
+788.0,Espressif Systems,Asia / Pacific,Asia-Pacific,43.39,P3,688018-CN
+789.0,Fibocom Wireless Inc.,Asia / Pacific,Asia-Pacific,45.55,P4,300638-CN
+790.0,"Flat Glass Group Co., Ltd.",Asia / Pacific,Asia-Pacific,60.43,P5,6865-HK
+791.0,Futu Holdings Limited,Asia / Pacific,Asia-Pacific,34.41,P3,FUTU-US
+792.0,Guangdong Create Century Intelligent Equipment Group Corporation Limited,Asia / Pacific,Asia-Pacific,22.86,P1,300083-CN
+793.0,Guangdong Golden Dragon Development Inc.,Asia / Pacific,Asia-Pacific,22.26,P1,000712-CN
+794.0,"Guangdong Marubi Biotechnology Co., Ltd.",Asia / Pacific,Asia-Pacific,80.73,P5,603983-CN
+795.0,"Guilin Sanjin Pharmaceutical Co., Ltd.",Asia / Pacific,Asia-Pacific,25.56,P1,002275-CN
+796.0,"Hangzhou Changchuan Technology Co.,Ltd",Asia / Pacific,Asia-Pacific,36.01,P3,300604-CN
+797.0,"Hangzhou DPtech Technologies Co.,Ltd.",Asia / Pacific,Asia-Pacific,53.79,P4,300768-CN
+798.0,"Huada Automotive Technology Corp.,Ltd",Asia / Pacific,Asia-Pacific,67.15,P5,603358-CN
+799.0,"Hubei Huitian New Materials Co., Ltd.",Asia / Pacific,Asia-Pacific,26.54,P2,300041-CN
+800.0,"Japan Elevator Service Holdings Co.,Ltd.",Asia / Pacific,Asia-Pacific,28.58,P2,6544-JP
+801.0,"Jiangsu Guomao Reducer Co., Ltd.",Asia / Pacific,Asia-Pacific,21.4,P1,603915-CN
+802.0,"Jiangsu Lihua Animal Husbandry Co., Ltd.",Asia / Pacific,Asia-Pacific,36.29,P3,300761-CN
+803.0,"Jiangsu Xinquan Automotive Trim Co.,Ltd.",Asia / Pacific,Asia-Pacific,40.46,P3,603179-CN
+804.0,"Jiangxi Fushine Pharmaceutical Co., Ltd.",Asia / Pacific,Asia-Pacific,25.6,P1,300497-CN
+805.0,Jingjin Equipment Inc.,Asia / Pacific,Asia-Pacific,21.3,P1,603279-CN
+806.0,"JinkoSolar Holding Co., Ltd.",Asia / Pacific,Asia-Pacific,20.22,P1,JKS-US
+807.0,Joinn Laboratorie,Asia / Pacific,Asia-Pacific,44.08,P4,603127-CN
+808.0,"Keshun Waterproof Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,47.17,P4,300737-CN
+809.0,Laurus Labs Limited,Asia / Pacific,Asia-Pacific,33.64,P2,540222-IN
+810.0,LEENO Industrial Inc.,Asia / Pacific,Asia-Pacific,33.44,P2,058470-KR
+811.0,Lovisa Holdings Limited,Asia / Pacific,Asia-Pacific,42.84,P3,LOV-AU
+812.0,Maoyan Entertainment,Asia / Pacific,Asia-Pacific,26.46,P1,1896-HK
+813.0,Maxscend Microelectronics Company Limited,Asia / Pacific,Asia-Pacific,28.29,P2,300782-CN
+814.0,Mega Lifesciences Public Company Limited,Asia / Pacific,Asia-Pacific,60.96,P5,MEGA-TH
+815.0,Midea Real Estate Holding Limited,Asia / Pacific,Asia-Pacific,80.88,P5,3990-HK
+816.0,"Monalisa Group CO.,Ltd",Asia / Pacific,Asia-Pacific,62.76,P5,002918-CN
+817.0,Motilal Oswal Financial Services Limited,Asia / Pacific,Asia-Pacific,76.73,P5,532892-IN
+818.0,"New Hope Dairy Co., Ltd.",Asia / Pacific,Asia-Pacific,82.94,P5,002946-CN
+819.0,"NEXTAGE Co., Ltd.",Asia / Pacific,Asia-Pacific,38.69,P3,3186-JP
+820.0,"Ningxia Baofeng Energy Group Co., Ltd.",Asia / Pacific,Asia-Pacific,35.15,P3,600989-CN
+821.0,"Offcn Education Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,76.59,P5,002607-CN
+822.0,Osotspa Public Company Limited,Asia / Pacific,Asia-Pacific,45.01,P4,OSP-TH
+823.0,PharmaBlock Sciences,Asia / Pacific,Asia-Pacific,26.16,P1,300725-CN
+824.0,"Piesat Information Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,21.71,P1,688066-CN
+825.0,"PNC Process Systems Co., Ltd.",Asia / Pacific,Asia-Pacific,34.73,P3,603690-CN
+826.0,Polycab India Limited,Asia / Pacific,Asia-Pacific,70.41,P5,542652-IN
+827.0,Pro Medicus Limited,Asia / Pacific,Asia-Pacific,55.46,P4,PME-AU
+828.0,"Qifu Technology, Inc.",Asia / Pacific,Asia-Pacific,20.31,P1,QFIN-US
+829.0,"Quectel Wireless Solutions Co., Ltd.",Asia / Pacific,Asia-Pacific,24.1,P1,603236-CN
+830.0,"Rakus Co., Ltd.",Asia / Pacific,Asia-Pacific,56.87,P5,3923-JP
+831.0,"Raytron Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,27.64,P2,688002-CN
+832.0,"S-Enjoy Service Group Co., Limited",Asia / Pacific,Asia-Pacific,69.36,P5,1755-HK
+833.0,"Sansan, Inc.",Asia / Pacific,Asia-Pacific,41.46,P3,4443-JP
+834.0,"Shanghai Aiko Solar Energy Co.,Ltd.",Asia / Pacific,Asia-Pacific,20.57,P1,600732-CN
+835.0,Shanghai Friendess Electronic Technology Corporation Limited,Asia / Pacific,Asia-Pacific,68.28,P5,688188-CN
+836.0,"Shanghai Junshi Biosciences Co., Ltd.",Asia / Pacific,Asia-Pacific,23.17,P1,1877-HK
+837.0,"Shenzhen Changhong Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,48.15,P4,300151-CN
+838.0,"Shenzhen Hopewind Electric Co., Ltd.",Asia / Pacific,Asia-Pacific,35.29,P3,603063-CN
+839.0,"Shenzhen Mindray Bio-Medical Electronics Co., Ltd.",Asia / Pacific,Asia-Pacific,56.02,P4,300760-CN
+840.0,SHIFT Inc.,Asia / Pacific,Asia-Pacific,32.76,P2,3697-JP
+841.0,"Sichuan Teway Food Group Co.,Ltd",Asia / Pacific,Asia-Pacific,73.24,P5,603317-CN
+842.0,"Sunstone Development Co., Ltd.",Asia / Pacific,Asia-Pacific,38.35,P3,603612-CN
+843.0,Suntec Real Estate Investment Trust,Asia / Pacific,Asia-Pacific,27.95,P2,T82U-SG
+844.0,"Suzhou Maxwell Technologies Co., Ltd.",Asia / Pacific,Asia-Pacific,42.71,P3,300751-CN
+845.0,Three Squirrels Inc.,Asia / Pacific,Asia-Pacific,42.04,P3,300783-CN
+846.0,Tiangong International Company Limited,Asia / Pacific,Asia-Pacific,52.62,P4,826-HK
+847.0,"UTour Group Co., Ltd.",Asia / Pacific,Asia-Pacific,30.99,P2,002707-CN
+848.0,Vibhavadi Medical Center Public Company Limited,Asia / Pacific,Asia-Pacific,27.18,P2,VIBHA-TH
+849.0,ViTrox Corporation Berhad,Asia / Pacific,Asia-Pacific,68.13,P5,0097-MY
+850.0,"Wuhan DR Laser Technology Corp.,Ltd",Asia / Pacific,Asia-Pacific,53.89,P4,300776-CN
+851.0,Xinyi Energy Holdings Limited,Asia / Pacific,Asia-Pacific,20.06,P1,3868-HK
+852.0,"Yusys Technologies Co., Ltd.",Asia / Pacific,Asia-Pacific,28.15,P2,300674-CN
+853.0,"Zbom Home Collection Co.,Ltd",Asia / Pacific,Asia-Pacific,53.87,P4,603801-CN
+854.0,"Zhe Jiang Dali Technology Co.,Ltd",Asia / Pacific,Asia-Pacific,29.17,P2,002214-CN
+855.0,Zhejiang HangKe Technology Incorporated Company,Asia / Pacific,Asia-Pacific,50.92,P4,688006-CN
+856.0,"Zhejiang Jiecang Linear Motion Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,50.73,P4,603583-CN
+857.0,"Zhejiang Sanmei Chemical Industry Co., Ltd.",Asia / Pacific,Asia-Pacific,61.32,P5,603379-CN
+858.0,"Zhejiang Tianyu Pharmaceutical Co., Ltd.",Asia / Pacific,Asia-Pacific,56.13,P4,300702-CN
+859.0,"Zhejiang Wansheng Co., Ltd.",Asia / Pacific,Asia-Pacific,21.85,P1,603010-CN
+860.0,"Akeso, Inc.",Asia / Pacific,Asia-Pacific,21.72,P1,9926-HK
+861.0,Alkyl Amines Chemicals Limited,Asia / Pacific,Asia-Pacific,63.18,P5,506767-IN
+862.0,Alphamab Oncology,Asia / Pacific,Asia-Pacific,52.18,P4,9966-HK
+863.0,ALTEOGEN Inc.,Asia / Pacific,Asia-Pacific,31.16,P2,196170-KR
+864.0,"Amvis Holdings, Inc.",Asia / Pacific,Asia-Pacific,73.16,P5,7071-JP
+865.0,Anker Innovations Limited,Asia / Pacific,Asia-Pacific,68.62,P5,300866-CN
+866.0,AP,Asia / Pacific,Asia-Pacific,24.17,P1,AP-TH
+867.0,ArcSoft Corporation Limited,Asia / Pacific,Asia-Pacific,35.86,P3,688088-CN
+868.0,"Arctech Solar Holding Co., Ltd.",Asia / Pacific,Asia-Pacific,38.37,P3,688408-CN
+869.0,"Aurisco Pharmaceutical Co.,Ltd.",Asia / Pacific,Asia-Pacific,76.6,P5,605116-CN
+870.0,"Autel Intelligent Technology Corp., Ltd.",Asia / Pacific,Asia-Pacific,43.59,P3,688208-CN
+871.0,Bafang Electric,Asia / Pacific,Asia-Pacific,65.36,P5,603489-CN
+872.0,Bajaj Electricals Limited,Asia / Pacific,Asia-Pacific,20.69,P1,500031-IN
+873.0,"Beijing Balance Medical Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,68.17,P5,688198-CN
+874.0,"Beijing Beimo High-tech Frictional Material Co.,Ltd",Asia / Pacific,Asia-Pacific,49.6,P4,002985-CN
+875.0,"Beijing Chunlizhengda Medical Instruments Co., Ltd.",Asia / Pacific,Asia-Pacific,59.84,P5,1858-HK
+876.0,"Beijing Roborock Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,35.43,P3,688169-CN
+877.0,"Beijing SinoHytec Co., Ltd.",Asia / Pacific,Asia-Pacific,26.36,P1,688339-CN
+878.0,"Beijing Wantai Biological Pharmacy Enterprise Co., Ltd.",Asia / Pacific,Asia-Pacific,24.2,P1,603392-CN
+879.0,"Beijing Zuojiang Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,60.69,P5,300799-CN
+880.0,"BrightGene Bio-Medical Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,37.25,P3,688166-CN
+881.0,Cambricon Technologies Corporation Limited,Asia / Pacific,Asia-Pacific,29.89,P2,688256-CN
+882.0,"Canmax Technologies Co., Ltd.",Asia / Pacific,Asia-Pacific,37.11,P3,300390-CN
+883.0,Century Plyboards,Asia / Pacific,Asia-Pacific,55.38,P4,532548-IN
+884.0,"CHANGE Holdings,Inc.",Asia / Pacific,Asia-Pacific,25.45,P1,3962-JP
+885.0,Chengdu ALD Aviation Manufacturing Corporation,Asia / Pacific,Asia-Pacific,48.68,P4,300696-CN
+886.0,"Chengdu Kanghua Biological Products Co., Ltd.",Asia / Pacific,Asia-Pacific,23.44,P1,300841-CN
+887.0,"ChenGuang Biotech Group Co., Ltd.",Asia / Pacific,Asia-Pacific,28.37,P2,300138-CN
+888.0,China Feihe Limited,Asia / Pacific,Asia-Pacific,48.06,P4,6186-HK
+889.0,"Chunbo Co., Ltd.",Asia / Pacific,Asia-Pacific,54.82,P4,278280-KR
+890.0,"CoCreation Grass Co., Ltd",Asia / Pacific,Asia-Pacific,72.7,P5,605099-CN
+891.0,"Contec Medical Systems Co.,Ltd",Asia / Pacific,Asia-Pacific,63.09,P5,300869-CN
+892.0,CS Wind Corporation,Asia / Pacific,Asia-Pacific,43.11,P3,112610-KR
+893.0,Daqo New Energy Corp.,Asia / Pacific,Asia-Pacific,25.68,P1,DQ-US
+894.0,Dicker Data Limited,Asia / Pacific,Asia-Pacific,64.22,P5,DDR-AU
+895.0,Dixon Technologies,Asia / Pacific,Asia-Pacific,47.19,P4,540699-IN
+896.0,Dohome Public Company Limited,Asia / Pacific,Asia-Pacific,33.35,P2,DOHOME-TH
+897.0,"Dongguan Aohai Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,21.65,P1,002993-CN
+898.0,Eyebright Medical Technology,Asia / Pacific,Asia-Pacific,22.31,P1,688050-CN
+899.0,Fine Organic Industries Limited,Asia / Pacific,Asia-Pacific,90.53,P5,541557-IN
+900.0,FinVolution Group,Asia / Pacific,Asia-Pacific,42.24,P3,FINV-US
+901.0,Freedom Holding Corp.,Asia / Pacific,Asia-Pacific,71.58,P5,FRHC-US
+902.0,freee K.K.,Asia / Pacific,Asia-Pacific,28.32,P2,4478-JP
+903.0,"Fujian Apex Software Co.,LTD",Asia / Pacific,Asia-Pacific,33.07,P2,603383-CN
+904.0,"Funshine Culture Group Co., Ltd.",Asia / Pacific,Asia-Pacific,54.85,P4,300860-CN
+905.0,Galaxy Surfactants Limited,Asia / Pacific,Asia-Pacific,38.46,P3,540935-IN
+906.0,Gan & Lee Pharmaceuticals.,Asia / Pacific,Asia-Pacific,32.65,P2,603087-CN
+907.0,"Ganyuan Foods Co., Ltd.",Asia / Pacific,Asia-Pacific,63.35,P5,002991-CN
+908.0,"Ginlong Technologies Co., Ltd.",Asia / Pacific,Asia-Pacific,43.48,P3,300763-CN
+909.0,Godrej Industries Limited,Asia / Pacific,Asia-Pacific,25.88,P1,500164-IN
+910.0,Gold Circuit Electronics Ltd.,Asia / Pacific,Asia-Pacific,41.4,P3,2368-TW
+911.0,"Gongniu Group Co., Ltd.",Asia / Pacific,Asia-Pacific,32.24,P2,603195-CN
+912.0,"GoodWe Technologies Co., Ltd.",Asia / Pacific,Asia-Pacific,44.71,P4,688390-CN
+913.0,"Guangdong Huate Gas Co., Ltd",Asia / Pacific,Asia-Pacific,23.64,P1,688268-CN
+914.0,"Hangzhou Haoyue Personal Care Co., Ltd",Asia / Pacific,Asia-Pacific,62.7,P5,605009-CN
+915.0,"Hangzhou Youngsun Intelligent Equipment Co., Ltd.",Asia / Pacific,Asia-Pacific,45.58,P4,603901-CN
+916.0,"Hoyuan Green Energy Co., Ltd.",Asia / Pacific,Asia-Pacific,55.45,P4,603185-CN
+917.0,"Hubei Biocause Pharmaceutical Co., Ltd.",Asia / Pacific,Asia-Pacific,23.14,P1,301211-CN
+918.0,"Hunan Jiudian Pharmaceutical Co., Ltd.",Asia / Pacific,Asia-Pacific,52.68,P4,300705-CN
+919.0,"Hunan Sokan New Materials Co., Ltd.",Asia / Pacific,Asia-Pacific,56.41,P4,688157-CN
+920.0,"Hygeia Healthcare Holdings Co., Limited",Asia / Pacific,Asia-Pacific,45.57,P4,6078-HK
+921.0,"Imeik Technology Development Co.,Ltd.",Asia / Pacific,Asia-Pacific,42.62,P3,300896-CN
+922.0,IndiaMART InterMESH Limited,Asia / Pacific,Asia-Pacific,54.18,P4,542726-IN
+923.0,InnoCare Pharma Limited,Asia / Pacific,Asia-Pacific,24.27,P1,9969-HK
+924.0,"Intco Medical Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,35.27,P3,300677-CN
+925.0,"Jenkem Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,50.36,P4,688356-CN
+926.0,"Jiangshan Oupai Door Industry Co., Ltd",Asia / Pacific,Asia-Pacific,65.04,P5,603208-CN
+927.0,"Jiangsu Lopal Tech. Co., Ltd.",Asia / Pacific,Asia-Pacific,41.97,P3,603906-CN
+928.0,"Jiangsu Sidike New Materials Science & Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,40.9,P3,300806-CN
+929.0,"Jiangsu ToLand Alloy Co.,Ltd",Asia / Pacific,Asia-Pacific,49.15,P4,300855-CN
+930.0,"Jiangyin Hengrun Heavy Industries Co., Ltd",Asia / Pacific,Asia-Pacific,30.81,P2,603985-CN
+931.0,"Jinhong Gas Co.,Ltd.",Asia / Pacific,Asia-Pacific,47.68,P4,688106-CN
+932.0,Jiumaojiu International Holdings Limited,Asia / Pacific,Asia-Pacific,40.65,P3,9922-HK
+933.0,JS Global Lifestyle Company Limited,Asia / Pacific,Asia-Pacific,57.23,P5,1691-HK
+934.0,JTOWER Inc.,Asia / Pacific,Asia-Pacific,32.87,P2,4485-JP
+935.0,K.P.R. Mill Limited,Asia / Pacific,Asia-Pacific,72.3,P5,532889-IN
+936.0,Kangji Medical Holdings Limited,Asia / Pacific,Asia-Pacific,51.4,P4,9997-HK
+937.0,"Kunshan Huguang Auto Harness Co.,Ltd.",Asia / Pacific,Asia-Pacific,76.39,P5,605333-CN
+938.0,"Leader Harmonious Drive Systems Co., Ltd.",Asia / Pacific,Asia-Pacific,47.71,P4,688017-CN
+939.0,Li Auto Inc.,Asia / Pacific,Asia-Pacific,32.11,P2,LI-US
+940.0,"Linewell Software Co., Ltd.",Asia / Pacific,Asia-Pacific,44.09,P4,603636-CN
+941.0,"Longyan Zhuoyue New Energy Co., Ltd.",Asia / Pacific,Asia-Pacific,75.0,P5,688196-CN
+942.0,"Luoyang Xinqianglian Slewing Bearing Co., Ltd.",Asia / Pacific,Asia-Pacific,39.71,P3,300850-CN
+943.0,Max Healthcare Institute Limited,Asia / Pacific,Asia-Pacific,24.12,P1,543220-IN
+944.0,Maxvision Technology Corp.,Asia / Pacific,Asia-Pacific,63.17,P5,002990-CN
+945.0,"Milkyway Chemical Supply Chain Service Co.,Ltd",Asia / Pacific,Asia-Pacific,38.86,P3,603713-CN
+946.0,Ming Yuan Cloud Group Holdings Limited,Asia / Pacific,Asia-Pacific,50.1,P4,909-HK
+947.0,"Mubang High-Tech Co.,Ltd.",Asia / Pacific,Asia-Pacific,23.26,P1,603398-CN
+948.0,"Nanjing COSMOS Chemical Co., Ltd.",Asia / Pacific,Asia-Pacific,62.37,P5,300856-CN
+949.0,Ningbo Jintian Coppe,Asia / Pacific,Asia-Pacific,33.67,P2,601609-CN
+950.0,"Nongfu Spring Co., Ltd.",Asia / Pacific,Asia-Pacific,84.25,P5,9633-HK
+951.0,"Osstem Implant Co., Ltd.",Asia / Pacific,Asia-Pacific,21.74,P1,048260-KR
+952.0,Pinnacle Investment Management Group Limited,Asia / Pacific,Asia-Pacific,41.1,P3,PNI-AU
+953.0,"Pony Testing Co., Ltd.",Asia / Pacific,Asia-Pacific,56.46,P4,300887-CN
+954.0,PT Saratoga Investama Sedaya Tbk,Asia / Pacific,Asia-Pacific,54.97,P4,SRTG-ID
+955.0,Qi An Xin Technology Group Inc.,Asia / Pacific,Asia-Pacific,22.02,P1,688561-CN
+956.0,"Qingdao Hiron Commercial Cold Chain Co., Ltd.",Asia / Pacific,Asia-Pacific,37.75,P3,603187-CN
+957.0,"Qingdao Sentury Tire Co., Ltd.",Asia / Pacific,Asia-Pacific,48.68,P4,002984-CN
+958.0,Ratnamani Metals & Tubes Limited,Asia / Pacific,Asia-Pacific,65.24,P5,520111-IN
+959.0,"RENOVA, Inc.",Asia / Pacific,Asia-Pacific,37.18,P3,9519-JP
+960.0,"Rockchip Electronics Co., Ltd.",Asia / Pacific,Asia-Pacific,54.24,P4,603893-CN
+961.0,"Runjian Co., Ltd.",Asia / Pacific,Asia-Pacific,41.35,P3,002929-CN
+962.0,Sansure Biotech Inc.,Asia / Pacific,Asia-Pacific,46.56,P4,688289-CN
+963.0,"Sanwei Holding Group Co.,Ltd",Asia / Pacific,Asia-Pacific,67.1,P5,603033-CN
+964.0,"Shandong Head Group Co.,Ltd.",Asia / Pacific,Asia-Pacific,45.64,P4,002810-CN
+965.0,Shanghai Baolong Automotive Corporation,Asia / Pacific,Asia-Pacific,33.12,P2,603197-CN
+966.0,"Shanghai Bright Power Semiconductor Co., Ltd.",Asia / Pacific,Asia-Pacific,50.66,P4,688368-CN
+967.0,"Shanghai Fengyuzhu Culture Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,53.21,P4,603466-CN
+968.0,Shanghai Huace Navigation Technology Ltd,Asia / Pacific,Asia-Pacific,24.51,P1,300627-CN
+969.0,Shanghai Medicilon Inc.,Asia / Pacific,Asia-Pacific,55.71,P4,688202-CN
+970.0,"Shanghai QiFan Cable Co., Ltd",Asia / Pacific,Asia-Pacific,68.2,P5,605222-CN
+971.0,"Shenyang Xingqi Pharmaceutical Co.,Ltd",Asia / Pacific,Asia-Pacific,30.87,P2,300573-CN
+972.0,"Shenzhen Dynanonic Co., Ltd",Asia / Pacific,Asia-Pacific,31.78,P2,300769-CN
+973.0,"Shenzhen Fine Made Electronics Group Co., Ltd.",Asia / Pacific,Asia-Pacific,32.08,P2,300671-CN
+974.0,"Shenzhen Fortune Trend technology Co., Ltd.",Asia / Pacific,Asia-Pacific,70.84,P5,688318-CN
+975.0,"Shenzhen Lifotronic Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,41.7,P3,688389-CN
+976.0,"Shenzhen New Industries Biomedical Engineering Co., Ltd.",Asia / Pacific,Asia-Pacific,20.26,P1,300832-CN
+977.0,"Sichuan Anning Iron and Titanium Co.,Ltd.",Asia / Pacific,Asia-Pacific,40.39,P3,002978-CN
+978.0,"Sineng Electric Co.,Ltd.",Asia / Pacific,Asia-Pacific,41.47,P3,300827-CN
+979.0,Sinocelltech Group Limited,Asia / Pacific,Asia-Pacific,70.23,P5,688520-CN
+980.0,Smoore International Holdings Limited,Asia / Pacific,Asia-Pacific,39.23,P3,6969-HK
+981.0,"Suzhou Zelgen Biopharmaceuticals Co., Ltd.",Asia / Pacific,Asia-Pacific,32.95,P2,688266-CN
+982.0,"Tangshan Sunfar Silicon Industries Co.,Ltd.",Asia / Pacific,Asia-Pacific,67.93,P5,603938-CN
+983.0,Tanla Platforms Limited,Asia / Pacific,Asia-Pacific,47.39,P4,532790-IN
+984.0,"Tianshan Aluminum Group Co.,Ltd",Asia / Pacific,Asia-Pacific,26.03,P1,002532-CN
+985.0,"Trina Solar Co., Ltd",Asia / Pacific,Asia-Pacific,32.48,P2,688599-CN
+986.0,Unisem,Asia / Pacific,Asia-Pacific,26.48,P2,5005-MY
+987.0,Walton Hi-Tech Industries PLC,Asia / Pacific,Asia-Pacific,99.03,P5,WALTONHIL-BD
+988.0,"Wencan Group Co.,Ltd.",Asia / Pacific,Asia-Pacific,46.53,P4,603348-CN
+989.0,West Holdings Corporation,Asia / Pacific,Asia-Pacific,43.44,P3,1407-JP
+990.0,"Winner Medical Co., Ltd.",Asia / Pacific,Asia-Pacific,69.21,P5,300888-CN
+991.0,"Wuhan Keqian Biology Co.,Ltd",Asia / Pacific,Asia-Pacific,58.47,P5,688526-CN
+992.0,"Wuxi Autowell Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,48.63,P4,688516-CN
+993.0,Wuxi Chipown Micro-electronics limited,Asia / Pacific,Asia-Pacific,39.34,P3,688508-CN
+994.0,"Wuxi NCE Power Co.,Ltd.",Asia / Pacific,Asia-Pacific,24.36,P1,605111-CN
+995.0,"Wuxi Paike New Materials Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,68.56,P5,605123-CN
+996.0,XD Inc.,Asia / Pacific,Asia-Pacific,48.62,P4,2400-HK
+997.0,"Xi'an Bright Laser Technologies Co.,Ltd.",Asia / Pacific,Asia-Pacific,32.66,P2,688333-CN
+998.0,"Xiamen Amoytop Biotech Co., Ltd.",Asia / Pacific,Asia-Pacific,53.93,P4,688278-CN
+999.0,XPeng Inc.,Asia / Pacific,Asia-Pacific,27.23,P2,XPEV-US
+1000.0,Yangling Metron New Material Inc.,Asia / Pacific,Asia-Pacific,69.47,P5,300861-CN
+1001.0,"YanKer shop Food Co.,Ltd",Asia / Pacific,Asia-Pacific,69.28,P5,002847-CN
+1002.0,"Yantai Zhenghai Biotechnology Co., Ltd.",Asia / Pacific,Asia-Pacific,43.11,P3,300653-CN
+1003.0,"Yindu Kitchen Equipment Co., Ltd",Asia / Pacific,Asia-Pacific,72.74,P5,603277-CN
+1004.0,"Zhejiang Ausun Pharmaceutical Co., Ltd.",Asia / Pacific,Asia-Pacific,59.22,P5,603229-CN
+1005.0,"Zhejiang Huangma Technology Co.,Ltd",Asia / Pacific,Asia-Pacific,29.01,P2,603181-CN
+1006.0,"Zhejiang Jolly Pharmaceutical Co.,LTD",Asia / Pacific,Asia-Pacific,27.66,P2,300181-CN
+1007.0,"Zhejiang Sunoren Solar Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,25.2,P1,603105-CN
+1008.0,"Zhejiang Taihua New Material Co.,Ltd",Asia / Pacific,Asia-Pacific,76.76,P5,603055-CN
+1009.0,"Zhejiang Tony Electronic Co., Ltd",Asia / Pacific,Asia-Pacific,55.2,P4,603595-CN
+1010.0,"Zhejiang Yongjin Metal Technology Co., Ltd",Asia / Pacific,Asia-Pacific,54.23,P4,603995-CN
+1011.0,"Zhenjiang Dongfang Electric Heating Technology Co.,Ltd",Asia / Pacific,Asia-Pacific,35.06,P3,300217-CN
+1012.0,"AIMA Technology Group CO., LTD",Asia / Pacific,Asia-Pacific,70.68,P5,603529-CN
+1013.0,Allcargo Logistics Limited,Asia / Pacific,Asia-Pacific,72.91,P5,532749-IN
+1014.0,Angel One Limited,Asia / Pacific,Asia-Pacific,51.97,P4,543235-IN
+1015.0,"Anhui Estone Materials Technology Co.,Ltd",Asia / Pacific,Asia-Pacific,35.29,P3,688733-CN
+1016.0,"Anhui Huaheng Biotechnology Co., Ltd.",Asia / Pacific,Asia-Pacific,31.46,P2,688639-CN
+1017.0,"Aoshikang Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,23.07,P1,002913-CN
+1018.0,APT Medical Inc.,Asia / Pacific,Asia-Pacific,37.05,P3,688617-CN
+1019.0,Aptus Value Housing Finance India Limited,Asia / Pacific,Asia-Pacific,26.4,P1,543335-IN
+1020.0,Balaji Amines Limited,Asia / Pacific,Asia-Pacific,55.51,P4,530999-IN
+1021.0,"Beijing Relpow Technology Co., Ltd",Asia / Pacific,Asia-Pacific,35.63,P3,300593-CN
+1022.0,"Beijing Sun-Novo Pharmaceutical Research Co., Ltd.",Asia / Pacific,Asia-Pacific,39.72,P3,688621-CN
+1023.0,Bestechnic,Asia / Pacific,Asia-Pacific,25.56,P1,688608-CN
+1024.0,Blue Moon Group Holdings Limited,Asia / Pacific,Asia-Pacific,75.91,P5,6993-HK
+1025.0,"BOZHON Precision Industry Technology Co.,Ltd",Asia / Pacific,Asia-Pacific,32.1,P2,688097-CN
+1026.0,Brigade Enterprises Limited,Asia / Pacific,Asia-Pacific,50.37,P4,532929-IN
+1027.0,Changchun BCHT Biotechnology Co.,Asia / Pacific,Asia-Pacific,33.28,P2,688276-CN
+1028.0,"Chengdu RML Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,28.56,P2,301050-CN
+1029.0,"Chengdu Xgimi Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,31.64,P2,688696-CN
+1030.0,China Ruyi Holdings Limited,Asia / Pacific,Asia-Pacific,27.59,P2,136-HK
+1031.0,"Circuit Fabology Microelectronics Equipment Co.,Ltd.",Asia / Pacific,Asia-Pacific,32.38,P2,688630-CN
+1032.0,Clean Science and Technology Limited,Asia / Pacific,Asia-Pacific,78.9,P5,543318-IN
+1033.0,D & O Green Technologies Berhad,Asia / Pacific,Asia-Pacific,23.36,P1,7204-MY
+1034.0,"DeNA Co., Ltd.",Asia / Pacific,Asia-Pacific,20.3,P1,2432-JP
+1035.0,Differ Group Auto Limited,Asia / Pacific,Asia-Pacific,58.01,P5,6878-HK
+1036.0,"Dongguan Yiheda Automation Co., Ltd.",Asia / Pacific,Asia-Pacific,41.38,P3,301029-CN
+1037.0,Eastroc Beverage,Asia / Pacific,Asia-Pacific,68.5,P5,605499-CN
+1038.0,EC Healthcare,Asia / Pacific,Asia-Pacific,61.56,P5,2138-HK
+1039.0,"F&F Co., Ltd",Asia / Pacific,Asia-Pacific,28.93,P2,383220-KR
+1040.0,G R Infraprojects Limited,Asia / Pacific,Asia-Pacific,43.89,P4,543317-IN
+1041.0,GalaxyCore Inc.,Asia / Pacific,Asia-Pacific,57.64,P5,688728-CN
+1042.0,Golden Solar New Energy Technology Holdings Limited,Asia / Pacific,Asia-Pacific,47.47,P4,1121-HK
+1043.0,"Guangdong Fangyuan New Materials Group Co., Ltd.",Asia / Pacific,Asia-Pacific,22.56,P1,688148-CN
+1044.0,"Guangdong Shenling Environmental Systems Co., Ltd.",Asia / Pacific,Asia-Pacific,43.0,P3,301018-CN
+1045.0,"Guangzhou Haoyang Electronic Co.,Ltd.",Asia / Pacific,Asia-Pacific,72.66,P5,300833-CN
+1046.0,"Guangzhou Sie Consulting Co., Ltd.",Asia / Pacific,Asia-Pacific,34.11,P3,300687-CN
+1047.0,Guilin Layn Natural Ingredients Corp.,Asia / Pacific,Asia-Pacific,48.07,P4,002166-CN
+1048.0,"Guoguang Electric Co.,Ltd.Chengdu",Asia / Pacific,Asia-Pacific,52.93,P4,688776-CN
+1049.0,H World Group Limited,Asia / Pacific,Asia-Pacific,32.91,P2,HTHT-US
+1050.0,"Hailir Pesticides and Chemicals Group Co.,Ltd.",Asia / Pacific,Asia-Pacific,59.45,P5,603639-CN
+1051.0,Happiest Minds Technologies Limited,Asia / Pacific,Asia-Pacific,43.55,P3,543227-IN
+1052.0,Helens International Holdings Company Limited,Asia / Pacific,Asia-Pacific,70.33,P5,9869-HK
+1053.0,"Henan Liliang Diamond Co., Ltd.",Asia / Pacific,Asia-Pacific,47.0,P4,301071-CN
+1054.0,"Hengtong Logistics Co., Ltd.",Asia / Pacific,Asia-Pacific,25.24,P1,603223-CN
+1055.0,"Hoshine Silicon Industry Co., Ltd.",Asia / Pacific,Asia-Pacific,25.55,P1,603260-CN
+1056.0,"HYBE Co., Ltd.",Asia / Pacific,Asia-Pacific,32.0,P2,352820-KR
+1057.0,Hyosung Advanced Materials Corporation,Asia / Pacific,Asia-Pacific,23.49,P1,298050-KR
+1058.0,Hyosung TNC Corporation,Asia / Pacific,Asia-Pacific,24.33,P1,298020-KR
+1059.0,iFAST Corporation Ltd.,Asia / Pacific,Asia-Pacific,29.41,P2,AIY-SG
+1060.0,"Inner Mongolia Dazhong Mining Co., Ltd.",Asia / Pacific,Asia-Pacific,24.53,P1,001203-CN
+1061.0,Jaymart Group Holdings Public Company Limited,Asia / Pacific,Asia-Pacific,35.29,P3,JMART-TH
+1062.0,"Jiahe Foods Industry Co., Ltd.",Asia / Pacific,Asia-Pacific,80.4,P5,605300-CN
+1063.0,"Jiangsu Changshu Automotive Trim Group Co., Ltd.",Asia / Pacific,Asia-Pacific,34.75,P3,603035-CN
+1064.0,"Jiangsu Chuanzhiboke Education Technology Co., LTD.",Asia / Pacific,Asia-Pacific,45.41,P4,003032-CN
+1065.0,Jiangxi Chenguang New Materials Company Limited,Asia / Pacific,Asia-Pacific,39.29,P3,605399-CN
+1066.0,"Jiangxi Jovo Energy Co., Ltd",Asia / Pacific,Asia-Pacific,23.42,P1,605090-CN
+1067.0,"Jiayou International Logistics Co.,Ltd",Asia / Pacific,Asia-Pacific,22.47,P1,603871-CN
+1068.0,"Jinan Shengquan Group Share Holding Co., Ltd.",Asia / Pacific,Asia-Pacific,24.58,P1,605589-CN
+1069.0,Kalyan Jewellers India Limited,Asia / Pacific,Asia-Pacific,60.54,P5,543278-IN
+1070.0,Kaspi.kz Joint Stock Company,Asia / Pacific,Asia-Pacific,47.49,P4,KSPI-GB
+1071.0,"KEDE Numerical Control Co., Ltd.",Asia / Pacific,Asia-Pacific,20.36,P1,688305-CN
+1072.0,KEI Industries Limited,Asia / Pacific,Asia-Pacific,20.01,P1,517569-IN
+1073.0,Kiatnakin Phatra Bank Public Company Limited,Asia / Pacific,Asia-Pacific,31.4,P2,KKP-TH
+1074.0,"KRAFTON, Inc.",Asia / Pacific,Asia-Pacific,20.93,P1,259960-KR
+1075.0,Krishna Institute of Medical Sciences Limited,Asia / Pacific,Asia-Pacific,34.06,P3,543308-IN
+1076.0,Kuaishou Technology,Asia / Pacific,Asia-Pacific,20.47,P1,1024-HK
+1077.0,"Kunshan Dongwei Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,55.37,P4,688700-CN
+1078.0,"Kunshan Kinglai Hygienic Materials Co.,Ltd.",Asia / Pacific,Asia-Pacific,58.81,P5,300260-CN
+1079.0,L.K. Technology Holdings Limited,Asia / Pacific,Asia-Pacific,62.31,P5,558-HK
+1080.0,Leedarson IoT Technology Inc.,Asia / Pacific,Asia-Pacific,85.13,P5,605365-CN
+1081.0,Ligao Foods Co.Ltd,Asia / Pacific,Asia-Pacific,60.95,P5,300973-CN
+1082.0,"Macmic Science&Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,24.58,P1,688711-CN
+1083.0,Macrotech Developers Limited,Asia / Pacific,Asia-Pacific,26.81,P2,543287-IN
+1084.0,"Malion New Materials Co., Ltd.",Asia / Pacific,Asia-Pacific,55.41,P4,300586-CN
+1085.0,"Marssenger Kitchenware Co., Ltd.",Asia / Pacific,Asia-Pacific,39.8,P3,300894-CN
+1086.0,MINISO Group Holding Limited,Asia / Pacific,Asia-Pacific,71.12,P5,MNSO-US
+1087.0,Monde Nissin Corporation,Asia / Pacific,Asia-Pacific,69.62,P5,MONDE-PH
+1088.0,"Ningbo Deye Technology Group Co., Ltd.",Asia / Pacific,Asia-Pacific,24.75,P1,605117-CN
+1089.0,"Ningbo Exciton Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,27.69,P2,300566-CN
+1090.0,"Ningbo Zhenyu Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,45.68,P4,300953-CN
+1091.0,"Novogene Co., Ltd.",Asia / Pacific,Asia-Pacific,53.68,P4,688315-CN
+1092.0,"OKE Precision Cutting Tools Co., Ltd.",Asia / Pacific,Asia-Pacific,28.31,P2,688308-CN
+1093.0,Open Up Group Inc.,Asia / Pacific,Asia-Pacific,30.21,P2,2154-JP
+1094.0,"OPT Machine Vision Tech Co., Ltd.",Asia / Pacific,Asia-Pacific,66.72,P5,688686-CN
+1095.0,Phu Nhuan Jewelry Joint Stock Company,Asia / Pacific,Asia-Pacific,21.95,P1,PNJ-VN
+1096.0,"POCO Holding Co., Ltd.",Asia / Pacific,Asia-Pacific,30.25,P2,300811-CN
+1097.0,Poly Medicure Limited,Asia / Pacific,Asia-Pacific,43.94,P4,531768-IN
+1098.0,Pop Mart International Group Limited,Asia / Pacific,Asia-Pacific,41.56,P3,9992-HK
+1099.0,PSC Insurance Group Limited,Asia / Pacific,Asia-Pacific,44.78,P4,PSI-AU
+1101.0,PT DCI Indonesia Tbk,Asia / Pacific,Asia-Pacific,77.64,P5,DCII-ID
+1102.0,PT Garudafood Putra Putri Jaya Tbk,Asia / Pacific,Asia-Pacific,47.34,P4,GOOD-ID
+1103.0,PT Medikaloka Hermina Tbk,Asia / Pacific,Asia-Pacific,59.58,P5,HEAL-ID
+1104.0,Puya Semiconductor,Asia / Pacific,Asia-Pacific,23.75,P1,688766-CN
+1105.0,"Qingdao Gaoce Technology Co., Ltd",Asia / Pacific,Asia-Pacific,30.36,P2,688556-CN
+1106.0,"QuakeSafe Technologies Co., Ltd.",Asia / Pacific,Asia-Pacific,20.64,P1,300767-CN
+1107.0,"Quick Intelligent Equipment Co., Ltd.",Asia / Pacific,Asia-Pacific,35.26,P3,603203-CN
+1108.0,Radiance Holdings,Asia / Pacific,Asia-Pacific,84.05,P5,9993-HK
+1109.0,RLX Technology Inc.,Asia / Pacific,Asia-Pacific,46.83,P4,RLX-US
+1110.0,"Samchully Co.,Ltd",Asia / Pacific,Asia-Pacific,46.43,P4,004690-KR
+1111.0,"Sanhe Tongfei Refrigeration Co., Ltd.",Asia / Pacific,Asia-Pacific,72.69,P5,300990-CN
+1112.0,"SD Biosensor, Inc",Asia / Pacific,Asia-Pacific,38.04,P3,137310-KR
+1113.0,"Servyou Software Group Co., Ltd.",Asia / Pacific,Asia-Pacific,22.85,P1,603171-CN
+1114.0,"Shanghai Awinic Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,61.35,P5,688798-CN
+1115.0,"Shanghai HIUV New Materials Co.,Ltd",Asia / Pacific,Asia-Pacific,42.26,P3,688680-CN
+1116.0,"Shanghai Titan Scientific Co., Ltd.",Asia / Pacific,Asia-Pacific,28.14,P2,688133-CN
+1117.0,"Shenzhen Envicool Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,22.07,P1,002837-CN
+1118.0,"Shenzhen Sinexcel Electric Co.,Ltd.",Asia / Pacific,Asia-Pacific,34.56,P3,300693-CN
+1119.0,"Shenzhen Xinyichang Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,67.03,P5,688383-CN
+1120.0,"Shenzhen YHLO Biotech Co., Ltd.",Asia / Pacific,Asia-Pacific,48.82,P4,688575-CN
+1121.0,"ShuYu Civilian Pharmacy Corp., Ltd.",Asia / Pacific,Asia-Pacific,53.29,P4,301017-CN
+1122.0,"Sichuan Injet Electric Co., Ltd.",Asia / Pacific,Asia-Pacific,68.6,P5,300820-CN
+1123.0,"Sino Biological,Inc.",Asia / Pacific,Asia-Pacific,52.54,P4,301047-CN
+1124.0,"Suwen Electric Energy Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,54.88,P4,300982-CN
+1125.0,"Suzhou Nanomicro Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,26.75,P2,688690-CN
+1126.0,"Suzhou Recodeal Interconnect System Co.,Ltd",Asia / Pacific,Asia-Pacific,36.56,P3,688800-CN
+1127.0,"Suzhou Weizhixiang Food Co., Ltd.",Asia / Pacific,Asia-Pacific,66.0,P5,605089-CN
+1128.0,"Synergy Grid & Development Phils., Inc.",Asia / Pacific,Asia-Pacific,77.88,P5,SGP-PH
+1129.0,Thonburi Healthcare Group Public Company Limited,Asia / Pacific,Asia-Pacific,32.05,P2,THG-TH
+1130.0,"Tianjin You Fa Steel Pipe Group Stock Co., Ltd.",Asia / Pacific,Asia-Pacific,53.84,P4,601686-CN
+1131.0,Tianqi Lithium Corporation,Asia / Pacific,Asia-Pacific,37.12,P3,002466-CN
+1132.0,"Tibet Weixinkang Medicine Co., Ltd.",Asia / Pacific,Asia-Pacific,23.09,P1,603676-CN
+1133.0,Tuya Inc.,Asia / Pacific,Asia-Pacific,36.43,P3,TUYA-US
+1134.0,"Visional, Inc.",Asia / Pacific,Asia-Pacific,47.69,P4,4194-JP
+1135.0,Warom Technology Incorporated Company,Asia / Pacific,Asia-Pacific,57.07,P5,603855-CN
+1136.0,"Wisdom Marine Lines Co., Limited",Asia / Pacific,Asia-Pacific,28.58,P2,2637-TW
+1137.0,"Wuhan Easy Diagnosis Biomedicine Co.,Ltd.",Asia / Pacific,Asia-Pacific,47.68,P4,002932-CN
+1138.0,"Wuzhou Special Paper Group Co., Ltd.",Asia / Pacific,Asia-Pacific,77.82,P5,605007-CN
+1139.0,"Xi'an Sinofuse Electric Co., Ltd.",Asia / Pacific,Asia-Pacific,36.71,P3,301031-CN
+1140.0,"Xinxiang Richful Lube Additive Co., Ltd",Asia / Pacific,Asia-Pacific,40.17,P3,300910-CN
+1141.0,"Yingkou Jinchen Machinery Co., Ltd.",Asia / Pacific,Asia-Pacific,45.69,P4,603396-CN
+1142.0,"Yunnan Shennong Agricultural Industry Group Co.,LTD.",Asia / Pacific,Asia-Pacific,77.3,P5,605296-CN
+1143.0,"Zhe Jiang Li Zi Yuan Food Co.,Ltd.",Asia / Pacific,Asia-Pacific,30.15,P2,605337-CN
+1144.0,"Zhejiang Gongdong Medical Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,67.19,P5,605369-CN
+1145.0,"Zhejiang Huakang Pharmaceutical Co., Ltd.",Asia / Pacific,Asia-Pacific,39.16,P3,605077-CN
+1146.0,"Zhejiang Supcon Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,20.67,P1,688777-CN
+1147.0,"Zhejiang Tiantie Industry Co., Ltd.",Asia / Pacific,Asia-Pacific,29.45,P2,300587-CN
+1148.0,"Zhejiang Yonghe Refrigerant Co., Ltd.",Asia / Pacific,Asia-Pacific,49.02,P4,605020-CN
+1149.0,"Zhongyin Babi Food Co., Ltd.",Asia / Pacific,Asia-Pacific,52.26,P4,605338-CN
+1150.0,"Zwsoft Co.,Ltd.",Asia / Pacific,Asia-Pacific,41.42,P3,688083-CN
+1151.0,"Acrobiosystems Co.,Ltd.",Asia / Pacific,Asia-Pacific,37.34,P3,301080-CN
+1152.0,Aether Industries Limited,Asia / Pacific,Asia-Pacific,33.15,P2,543534-IN
+1153.0,"Aier Eye Hospital Group Co., Ltd.",Asia / Pacific,Asia-Pacific,21.0,P1,300015-CN
+1154.0,Alliance International Education Leasing Holdings Limited,Asia / Pacific,Asia-Pacific,51.8,P4,1563-HK
+1155.0,ANYCOLOR Inc.,Asia / Pacific,Asia-Pacific,51.41,P4,5032-JP
+1156.0,APM Human Services International Limited,Asia / Pacific,Asia-Pacific,27.01,P2,APM-AU
+1157.0,Assure Tech,Asia / Pacific,Asia-Pacific,38.75,P3,688075-CN
+1158.0,"Beijing Infosec Technologies Co.,Ltd.",Asia / Pacific,Asia-Pacific,43.81,P4,688201-CN
+1159.0,"Beijing Jingwei Hirain Technologies Co., Inc.",Asia / Pacific,Asia-Pacific,52.19,P4,688326-CN
+1160.0,Beyond Securities Public Company Limited,Asia / Pacific,Asia-Pacific,26.53,P2,BYD-TH
+1161.0,"Bona Film Group Co., Ltd.",Asia / Pacific,Asia-Pacific,20.53,P1,001330-CN
+1162.0,Campus Activewear Limited,Asia / Pacific,Asia-Pacific,70.38,P5,543524-IN
+1163.0,"Caregen Co., Ltd.",Asia / Pacific,Asia-Pacific,70.13,P5,214370-KR
+1164.0,Central Holding Group Co. Ltd.,Asia / Pacific,Asia-Pacific,68.45,P5,1735-HK
+1165.0,"Chengdu Bright Eye Hospital Co., Ltd.",Asia / Pacific,Asia-Pacific,44.75,P4,301239-CN
+1166.0,"Chengdu Easton Biopharmaceuticals Co., Ltd.",Asia / Pacific,Asia-Pacific,48.63,P4,688513-CN
+1167.0,Chervon Holdings Limited,Asia / Pacific,Asia-Pacific,78.53,P5,2285-HK
+1168.0,Chin Hin Group Berhad,Asia / Pacific,Asia-Pacific,27.67,P2,5273-MY
+1169.0,"Chongqing Hongjiu Fruit Co., Limited",Asia / Pacific,Asia-Pacific,45.63,P4,6689-HK
+1170.0,Chongqing Wangbian Electric,Asia / Pacific,Asia-Pacific,40.91,P3,603191-CN
+1172.0,Confidence Intelligence Holdings Limited,Asia / Pacific,Asia-Pacific,63.47,P5,1967-HK
+1173.0,"Crown Advanced Material Co.,Ltd.",Asia / Pacific,Asia-Pacific,31.08,P2,688560-CN
+1174.0,"Daesung Holdings Co., Ltd.",Asia / Pacific,Asia-Pacific,39.9,P3,016710-KR
+1175.0,"Darbond Technology Co., Ltd",Asia / Pacific,Asia-Pacific,28.14,P2,688035-CN
+1176.0,"De Rucci Healthy Sleep Co., Ltd.",Asia / Pacific,Asia-Pacific,37.5,P3,001323-CN
+1177.0,"Dioo Microcircuits Co., Ltd. Jiangsu",Asia / Pacific,Asia-Pacific,21.84,P1,688381-CN
+1178.0,"Easy Click Worldwide Network Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,32.76,P2,301171-CN
+1179.0,Easy Trip Planners Limited,Asia / Pacific,Asia-Pacific,76.08,P5,543272-IN
+1180.0,"Ecopro Co., Ltd.",Asia / Pacific,Asia-Pacific,21.65,P1,086520-KR
+1181.0,"EOS, Inc.",Asia / Pacific,Asia-Pacific,81.64,P5,EOSS-US
+1182.0,Focuslight Technologies Inc,Asia / Pacific,Asia-Pacific,25.26,P1,688167-CN
+1183.0,FSN E-Commerce Ventures Limited,Asia / Pacific,Asia-Pacific,61.92,P5,543384-IN
+1184.0,Fujian Start Group Co.Ltd,Asia / Pacific,Asia-Pacific,32.7,P2,600734-CN
+1185.0,"Fujian Tianma Science and Technology Group Co., Ltd",Asia / Pacific,Asia-Pacific,41.01,P3,603668-CN
+1186.0,"Ganzhou Tengyuan Cobalt New Material Co., Ltd.",Asia / Pacific,Asia-Pacific,41.91,P3,301219-CN
+1187.0,"Great Microwave Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,21.04,P1,688270-CN
+1188.0,"Guangdong Taienkang Pharmaceutical Co., Ltd",Asia / Pacific,Asia-Pacific,36.33,P3,301263-CN
+1189.0,"Guo Tai Epoint Software Co.,Ltd.",Asia / Pacific,Asia-Pacific,28.62,P2,688232-CN
+1190.0,"Halo Microelectronics Co., Ltd.",Asia / Pacific,Asia-Pacific,43.55,P3,688173-CN
+1191.0,"Hangzhou Bio-Sincerity Pharma-Tech Co.,Ltd.",Asia / Pacific,Asia-Pacific,36.89,P3,301096-CN
+1192.0,"Hangzhou Huawang New Material Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,24.95,P1,605377-CN
+1193.0,HomeCo Daily Needs REIT,Asia / Pacific,Asia-Pacific,23.5,P1,HDN-AU
+1194.0,"Hubei Wanrun New Energy Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,31.88,P2,688275-CN
+1195.0,"Huitongda Network Co., Ltd.",Asia / Pacific,Asia-Pacific,45.72,P4,9878-HK
+1196.0,iSoftStone Information Technology,Asia / Pacific,Asia-Pacific,23.75,P1,301236-CN
+1197.0,"Jiangsu Haili Wind Power Equipment Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,60.53,P5,301155-CN
+1198.0,"Jiangsu Longda Superalloy Co., Ltd.",Asia / Pacific,Asia-Pacific,40.77,P3,688231-CN
+1199.0,"Jiangsu Tongli Risheng Machinery Co., Ltd.",Asia / Pacific,Asia-Pacific,64.65,P5,605286-CN
+1200.0,"Jiangsu TongLin Electric Co.,Ltd.",Asia / Pacific,Asia-Pacific,29.55,P2,301168-CN
+1201.0,"Jiangsu Transimage Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,51.05,P4,002866-CN
+1202.0,"JiangXi Tianxin Pharmaceutical Co., Ltd.",Asia / Pacific,Asia-Pacific,83.6,P5,603235-CN
+1203.0,"Jianzhijia Pharmaceutical Chain Group Co., Ltd.",Asia / Pacific,Asia-Pacific,34.04,P2,605266-CN
+1204.0,"Jiayuan Science and Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,54.74,P4,301117-CN
+1205.0,Jindal Worldwide Limited,Asia / Pacific,Asia-Pacific,83.74,P5,531543-IN
+1206.0,Johns Lyng Group Limited,Asia / Pacific,Asia-Pacific,29.82,P2,JLG-AU
+1207.0,"Kidswant Children Products Co.,Ltd.",Asia / Pacific,Asia-Pacific,43.76,P4,301078-CN
+1208.0,"Kumyang Co., Ltd.",Asia / Pacific,Asia-Pacific,42.18,P3,001570-KR
+1209.0,"Lepu Biopharma Co., Ltd.",Asia / Pacific,Asia-Pacific,38.42,P3,2157-HK
+1210.0,"Liaoning Xinde New Material Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,52.05,P4,301349-CN
+1211.0,"Lifecome Biochemistry Co.,Ltd.",Asia / Pacific,Asia-Pacific,60.16,P5,002868-CN
+1212.0,Linklogis Inc.,Asia / Pacific,Asia-Pacific,24.85,P1,9959-HK
+1213.0,"Lucky Harvest Co., Ltd.",Asia / Pacific,Asia-Pacific,45.15,P4,002965-CN
+1214.0,"LUSTER LightTech Co., LTD.",Asia / Pacific,Asia-Pacific,53.8,P4,688400-CN
+1215.0,"MGI Tech Co., Ltd.",Asia / Pacific,Asia-Pacific,47.07,P4,688114-CN
+1216.0,"Nanjing Develop Advanced Manufacturing Co., Ltd.",Asia / Pacific,Asia-Pacific,46.74,P4,688377-CN
+1217.0,Neway CNC Equipment,Asia / Pacific,Asia-Pacific,60.7,P5,688697-CN
+1218.0,Neway Valve,Asia / Pacific,Asia-Pacific,64.98,P5,603699-CN
+1219.0,OCI Company Ltd.,Asia / Pacific,Asia-Pacific,35.33,P3,010060-KR
+1220.0,Orbbec Inc.,Asia / Pacific,Asia-Pacific,36.37,P3,688322-CN
+1221.0,OUE Commercial Real Estate Investment Trust,Asia / Pacific,Asia-Pacific,23.96,P1,TS0U-SG
+1222.0,PMB Technology Berhad,Asia / Pacific,Asia-Pacific,64.23,P5,7172-MY
+1223.0,PT Cisarua Mountain Dairy Tbk,Asia / Pacific,Asia-Pacific,80.76,P5,CMRY-ID
+1224.0,PT MD Pictures Tbk,Asia / Pacific,Asia-Pacific,72.93,P5,FILM-ID
+1225.0,QC Solar,Asia / Pacific,Asia-Pacific,63.38,P5,301278-CN
+1226.0,"Qingdao Yunlu Advanced Materials Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,41.6,P3,688190-CN
+1227.0,"Renrenle Commercial Group Co.,Ltd.",Asia / Pacific,Asia-Pacific,26.44,P1,002336-CN
+1228.0,"Rigol Technologies Co., Ltd.",Asia / Pacific,Asia-Pacific,23.74,P1,688337-CN
+1229.0,"Sany Heavy Energy Co., Ltd.",Asia / Pacific,Asia-Pacific,79.38,P5,688349-CN
+1230.0,"SBT Ultrasonic Technology Co.,Ltd.",Asia / Pacific,Asia-Pacific,42.15,P3,688392-CN
+1231.0,Semitronix Corporation,Asia / Pacific,Asia-Pacific,33.8,P2,301095-CN
+1232.0,SenseTime Group Inc.,Asia / Pacific,Asia-Pacific,22.5,P1,20-HK
+1233.0,"Shaanxi Huaqin Technology Industry Co.,Ltd.",Asia / Pacific,Asia-Pacific,56.63,P4,688281-CN
+1234.0,"Shaanxi Lighte Optoelectronics Material Co.,Ltd",Asia / Pacific,Asia-Pacific,49.36,P4,688150-CN
+1235.0,"Shandong Fengyuan Chemical Co., Ltd.",Asia / Pacific,Asia-Pacific,34.12,P3,002805-CN
+1236.0,"Shandong Sanyuan Biotechnology Co.,Ltd.",Asia / Pacific,Asia-Pacific,55.98,P4,301206-CN
+1237.0,"Shanghai AoHua Photoelectricity Endoscope Co., Ltd.",Asia / Pacific,Asia-Pacific,32.89,P2,688212-CN
+1238.0,"Shanghai Bolex Food Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,20.7,P1,603170-CN
+1239.0,"Shanghai OPM Biosciences Co., Ltd.",Asia / Pacific,Asia-Pacific,24.41,P1,688293-CN
+1240.0,"Shanghai Yizhong Pharmaceutical Co., Ltd.",Asia / Pacific,Asia-Pacific,32.39,P2,688091-CN
+1241.0,"Shanghai Ziyan Foods Co., Ltd.",Asia / Pacific,Asia-Pacific,39.29,P3,603057-CN
+1242.0,"Shenzhen China Micro Semicon Co., Ltd.",Asia / Pacific,Asia-Pacific,65.86,P5,688380-CN
+1243.0,"Shenzhen Hello Tech Energy Co., Ltd.",Asia / Pacific,Asia-Pacific,24.12,P1,301327-CN
+1244.0,"Shenzhen KTC Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,67.43,P5,001308-CN
+1245.0,"Shenzhen Longsys Electronics Co., Ltd.",Asia / Pacific,Asia-Pacific,48.39,P4,301308-CN
+1246.0,"Shenzhen Minglida Precision Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,50.99,P4,301268-CN
+1247.0,"SICC Co., Ltd.",Asia / Pacific,Asia-Pacific,30.09,P2,688234-CN
+1248.0,"Sichuan Qiaoyuan Gas Co.,Ltd.",Asia / Pacific,Asia-Pacific,88.98,P5,301286-CN
+1249.0,"Siglent Technologies CO., Ltd.",Asia / Pacific,Asia-Pacific,61.4,P5,688112-CN
+1250.0,Smartsens Technology,Asia / Pacific,Asia-Pacific,23.8,P1,688213-CN
+1251.0,"SSAW Hotels & Resorts Group Co.,Ltd.",Asia / Pacific,Asia-Pacific,68.28,P5,301073-CN
+1252.0,"Suzhou Novosense Microelectronics Co., Ltd.",Asia / Pacific,Asia-Pacific,24.97,P1,688052-CN
+1253.0,Suzhou Oriental Semiconductor Company Limited,Asia / Pacific,Asia-Pacific,25.57,P1,688261-CN
+1254.0,TDCX Inc.,Asia / Pacific,Asia-Pacific,84.98,P5,TDCX-US
+1255.0,"Tongqinglou Catering Co., Ltd.",Asia / Pacific,Asia-Pacific,24.37,P1,605108-CN
+1256.0,Triveni Turbine Limited,Asia / Pacific,Asia-Pacific,29.05,P2,533655-IN
+1257.0,Waterdrop Inc.,Asia / Pacific,Asia-Pacific,24.39,P1,WDH-US
+1258.0,"Willfar Information Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,20.8,P1,688100-CN
+1259.0,"Xingtong Shipping Co., Ltd.",Asia / Pacific,Asia-Pacific,50.76,P4,603209-CN
+1260.0,"Xinxiang Tuoxin Pharmaceutical Co.,Ltd.",Asia / Pacific,Asia-Pacific,61.63,P5,301089-CN
+1261.0,"Yuneng Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,43.49,P3,688348-CN
+1262.0,Yunkang Group Limited,Asia / Pacific,Asia-Pacific,40.26,P3,2325-HK
+1263.0,"Zhejiang Hechuan Technology Co., Ltd.",Asia / Pacific,Asia-Pacific,25.09,P1,688320-CN
+1264.0,Haci Ömer Sabanci Holding A.S.,Africa / Middle East,EM ex-Asia,21.1,P1,SAHOL.E-TR
+1265.0,Delek Group Ltd.,Africa / Middle East,EM ex-Asia,50.41,P4,DLEKG-IL
+1266.0,Kingdom Holding Company,Africa / Middle East,EM ex-Asia,78.42,P5,4280-SA
+1267.0,Bank Dhofar SAOG,Africa / Middle East,EM ex-Asia,23.45,P1,BKDB-OM
+1268.0,El Sewedy Electric Company,Africa / Middle East,EM ex-Asia,71.17,P5,SWDY-EG
+1269.0,Mouwasat Medical Services Company,Africa / Middle East,EM ex-Asia,52.52,P4,4002-SA
+1270.0,Aamal Company Q.P.S.C.,Africa / Middle East,EM ex-Asia,26.81,P2,AHCS-QA
+1271.0,Al Hammadi Holding Company,Africa / Middle East,EM ex-Asia,41.9,P3,4007-SA
+1272.0,BIG Shopping Centers Ltd,Africa / Middle East,EM ex-Asia,27.91,P2,BIG-IL
+1273.0,F.I.B.I. Holdings Ltd,Africa / Middle East,EM ex-Asia,28.85,P2,FIBIH-IL
+1274.0,Shapir Engineering and Industry Ltd,Africa / Middle East,EM ex-Asia,60.29,P5,SPEN-IL
+1275.0,Delek Automotive Systems Ltd,Africa / Middle East,EM ex-Asia,45.65,P4,DLEA-IL
+1276.0,Fattal Holdings,Africa / Middle East,EM ex-Asia,62.41,P5,FTAL-IL
+1277.0,Arabian Centres Company,Africa / Middle East,EM ex-Asia,25.03,P1,4321-SA
+1278.0,Hilan Ltd.,Africa / Middle East,EM ex-Asia,33.83,P2,HLAN-IL
+1279.0,Humansoft Holding Company K.S.C.P.,Africa / Middle East,EM ex-Asia,20.07,P1,HUMANSOFT-KW
+1280.0,Leejam Sports Company,Africa / Middle East,EM ex-Asia,51.85,P4,1830-SA
+1281.0,Alrov Properties and Lodgings Ltd.,Africa / Middle East,EM ex-Asia,78.76,P5,ALRPR-IL
+1282.0,Dr. Sulaiman Al Habib Medical Services Group Company,Africa / Middle East,EM ex-Asia,42.12,P3,4013-SA
+1283.0,Fox-Wizel Ltd.,Africa / Middle East,EM ex-Asia,23.69,P1,FOX-IL
+1284.0,Mega Or Holdings Ltd,Africa / Middle East,EM ex-Asia,39.35,P3,MGOR-IL
+1285.0,Riyadh Cement Company,Africa / Middle East,EM ex-Asia,21.46,P1,3092-SA
+1286.0,Torunlar Gayrimenkul Yatirim Ortakligi A.S.,Africa / Middle East,EM ex-Asia,75.26,P5,TRGYO.E-TR
+1287.0,Penta Teknoloji Urunleri Dagitim Ticaret A.S.,Africa / Middle East,EM ex-Asia,31.49,P2,PENTA.E-TR
+1288.0,Playtika Holding Corp.,Africa / Middle East,EM ex-Asia,23.4,P1,PLTK-US
+1289.0,Y.H. Dimri Construction & Development Ltd,Africa / Middle East,EM ex-Asia,63.54,P5,DIMRI-IL
+1290.0,Al Masane Al Kobra Mining Company,Africa / Middle East,EM ex-Asia,28.2,P2,1322-SA
+1291.0,Al-Dawaa Medical Services Company,Africa / Middle East,EM ex-Asia,35.64,P3,4163-SA
+1292.0,Alarko Holding A.S.,Africa / Middle East,EM ex-Asia,67.29,P5,ALARK.E-TR
+1293.0,BUA Foods PLC,Africa / Middle East,EM ex-Asia,99.81,P5,BUAFOODS-NG
+1294.0,Girisim Elektrik Sanayi Taahhüt ve Ticaret A.S.,Africa / Middle East,EM ex-Asia,77.17,P5,GESAN.E-TR
+1295.0,Kontrolmatik Teknoloji Enerji Ve Muhendislik Anonim Sirketi,Africa / Middle East,EM ex-Asia,66.21,P5,KONTR.E-TR
+1296.0,Lapidoth Capital Ltd,Africa / Middle East,EM ex-Asia,77.33,P5,LAPD-IL
+1297.0,QUA Granite Hayal Yapi ve Ürünleri Sanayi Ticaret A.S.,Africa / Middle East,EM ex-Asia,55.89,P4,QUAGR.E-TR
