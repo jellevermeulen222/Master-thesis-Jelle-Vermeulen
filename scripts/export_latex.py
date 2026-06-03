@@ -26,23 +26,23 @@ def stars(pv):
     return r"$^{***}$" if pv < 0.01 else r"$^{**}$" if pv < 0.05 else r"$^{*}$" if pv < 0.10 else ""
 
 def f4(v):
-    return "---" if pd.isna(v) else f"{v:.4f}"
+    return ":" if pd.isna(v) else f"{v:.4f}"
 
 def f3(v):
-    return "---" if pd.isna(v) else f"{v:.3f}"
+    return ":" if pd.isna(v) else f"{v:.3f}"
 
 def f2(v):
-    return "---" if pd.isna(v) else f"{v:.2f}"
+    return ":" if pd.isna(v) else f"{v:.2f}"
 
 def alpha_cell(row):
     a  = row["Alpha (% pm)"]
     pv = row["p-value"]
-    if pd.isna(a): return "---"
+    if pd.isna(a): return ":"
     return r"\textbf{" + f"{a:.4f}" + r"}" + stars(pv)
 
 def tstat_cell(row):
     t = row["t-stat (NW)"]
-    return "---" if pd.isna(t) else f"({t:.3f})"
+    return ":" if pd.isna(t) else f"({t:.3f})"
 
 def write(name, lines):
     path = OUT_TEX / f"{name}.tex"
@@ -126,7 +126,7 @@ L = []  # lines
 L.append(r"% TABLE 1 — Sample Characteristics  [auto-generated]")
 L.append(r"\begin{table}[htbp]")
 L.append(r"\centering\small")
-L.append(r"\caption{Sample Characteristics --- Insider Ownership Quintile Portfolios}")
+L.append(r"\caption{Sample Characteristics : Insider Ownership Quintile Portfolios}")
 L.append(r"\label{tab:sample}")
 L.append(r"")
 L.append(r"\textit{Panel A: Firm Distribution by Ownership Quintile and Region}\\[4pt]")
@@ -186,9 +186,9 @@ L.append(r"")
 L.append(r"\vspace{4pt}")
 L.append(r"\begin{minipage}{\textwidth}")
 L.append(r"\footnotesize\textit{Notes:} 1,285 firms sorted into equal-size quintiles by"
-         r" insider ownership as of 2025 (Wood, 2025). Returns equal-weighted, USD,"
+         r" insider ownership as of 2025 (Wood, 2025). Returns equal weighted, USD,"
          r" winsorised at the 1st/99th percentile. Sharpe ratio annualised"
-         r" $= \bar{r}/\sigma \times \sqrt{12}$. Sample: January 2015--December 2025 (132 months).")
+         r" $= \bar{r}/\sigma \times \sqrt{12}$. Sample: January 2015 to December 2025 (132 months).")
 L.append(r"\end{minipage}")
 L.append(r"\end{table}")
 write("table_01_sample", L)
@@ -214,32 +214,32 @@ def reg_table(name, caption, label, data, note):
     L.append(r"\midrule")
 
     # Alpha row
-    alpha_vals = " & ".join(alpha_cell(data.loc[p]) if p in data.index else "---" for p in PORTS)
+    alpha_vals = " & ".join(alpha_cell(data.loc[p]) if p in data.index else ":" for p in PORTS)
     L.append(r"\textbf{$\alpha$ (\% per month)} & " + alpha_vals + r" \\")
-    tstat_vals = " & ".join(tstat_cell(data.loc[p]) if p in data.index else "---" for p in PORTS)
+    tstat_vals = " & ".join(tstat_cell(data.loc[p]) if p in data.index else ":" for p in PORTS)
     L.append(r"\quad[$t$-statistic] & " + tstat_vals + r" \\")
-    ann_vals = " & ".join(f3(data.loc[p,"Alpha (% pa)"]) if p in data.index else "---" for p in PORTS)
+    ann_vals = " & ".join(f3(data.loc[p,"Alpha (% pa)"]) if p in data.index else ":" for p in PORTS)
     L.append(r"$\alpha$ (\% per year) & " + ann_vals + r" \\[4pt]")
 
     # Factor loadings
     for bc in beta_cols:
-        vals = " & ".join(f4(data.loc[p, bc]) if (p in data.index and bc in data.columns) else "---"
+        vals = " & ".join(f4(data.loc[p, bc]) if (p in data.index and bc in data.columns) else ":"
                           for p in PORTS)
         L.append(beta_label(bc) + " & " + vals + r" \\")
 
     L.append(r"\\[-2pt]")
 
     # Summary stats
-    rsq_vals  = " & ".join(f4(data.loc[p,"Adj R\u00b2"]) if p in data.index else "---" for p in PORTS)
-    nobs_vals = " & ".join(str(int(data.loc[p,"N months"])) if p in data.index else "---" for p in PORTS)
+    rsq_vals  = " & ".join(f4(data.loc[p,"Adj R\u00b2"]) if p in data.index else ":" for p in PORTS)
+    nobs_vals = " & ".join(str(int(data.loc[p,"N months"])) if p in data.index else ":" for p in PORTS)
 
     # Try alternative column names
     rsq_col = "Adj R²" if "Adj R²" in data.columns else "Adj R2" if "Adj R2" in data.columns else None
     if rsq_col:
-        rsq_vals = " & ".join(f4(data.loc[p, rsq_col]) if p in data.index else "---" for p in PORTS)
+        rsq_vals = " & ".join(f4(data.loc[p, rsq_col]) if p in data.index else ":" for p in PORTS)
     nobs_col = "N months" if "N months" in data.columns else None
     if nobs_col:
-        nobs_vals = " & ".join(str(int(data.loc[p, nobs_col])) if p in data.index else "---" for p in PORTS)
+        nobs_vals = " & ".join(str(int(data.loc[p, nobs_col])) if p in data.index else ":" for p in PORTS)
 
     L.append(r"Adj.\ $R^{2}$ & " + rsq_vals + r" \\")
     L.append(r"Observations (months) & " + nobs_vals + r" \\")
@@ -259,24 +259,24 @@ print("  FF5 columns:", list(ff5.columns))
 
 write("table_02_ff5_global", reg_table(
     "TABLE 2",
-    "Fama-French Five-Factor Alpha by Insider Ownership Quintile --- Global Equal-Weighted Portfolios",
+    "Fama French Five Factor Alpha by Insider Ownership Quintile: Global Equal Weighted Portfolios",
     "tab:ff5_global",
     ff5,
     r"FF5 time-series regressions for ownership-sorted portfolios (Fahlenbrach, 2009)."
     r" P1 = 20.00--26.46\%; P5 = 56.87--99.81\%. HML is long P5, short P1."
     r" Equal-weighted returns winsorised at 1st/99th percentile."
-    r" Newey-West $t$-statistics (6 lags). January 2015--December 2025 (132 months)."
+    r" Newey-West $t$-statistics (6 lags). January 2015 to December 2025 (132 months)."
     r" $^{***}p{<}0.01$, $^{**}p{<}0.05$, $^{*}p{<}0.10$."
 ))
 
 print("Building Table 3...")
 write("table_03_ff6_robustness", reg_table(
     "TABLE 3",
-    "Fama-French Six-Factor Alpha by Insider Ownership Quintile --- Robustness Including Momentum",
+    "Fama French Six Factor Alpha by Insider Ownership Quintile: Robustness Including Momentum",
     "tab:ff6",
     ff6,
     r"Extends Table~\ref{tab:ff5_global} with the momentum factor (UMD/WML) (Carhart, 1997)."
-    r" HML alpha: $0.528\%$ pm (FF6) vs $0.530\%$ (FF5) --- momentum does not absorb the alpha (H3)."
+    r" HML alpha: $0.528\%$ pm (FF6) vs $0.530\%$ (FF5) : momentum does not absorb the alpha (H3)."
     r" $^{***}p{<}0.01$, $^{**}p{<}0.05$, $^{*}p{<}0.10$."
 ))
 
@@ -296,12 +296,12 @@ def panel_block(region, panel_label, data):
              r" & \textbf{P4} & \textbf{P5 (High)} & \textbf{HML (P5$-$P1)} \\")
     L.append(r"\midrule")
 
-    alpha_r = " & ".join(alpha_cell(data.loc[p]) if p in data.index else "---" for p in PORTS)
-    tstat_r = " & ".join(tstat_cell(data.loc[p]) if p in data.index else "---" for p in PORTS)
-    ann_r   = " & ".join(f3(data.loc[p,"Alpha (% pa)"]) if p in data.index else "---" for p in PORTS)
+    alpha_r = " & ".join(alpha_cell(data.loc[p]) if p in data.index else ":" for p in PORTS)
+    tstat_r = " & ".join(tstat_cell(data.loc[p]) if p in data.index else ":" for p in PORTS)
+    ann_r   = " & ".join(f3(data.loc[p,"Alpha (% pa)"]) if p in data.index else ":" for p in PORTS)
 
     rsq_col = "Adj R²" if "Adj R²" in data.columns else "Adj R2" if "Adj R2" in data.columns else None
-    rsq_r = " & ".join(f4(data.loc[p, rsq_col]) if (p in data.index and rsq_col) else "---" for p in PORTS)
+    rsq_r = " & ".join(f4(data.loc[p, rsq_col]) if (p in data.index and rsq_col) else ":" for p in PORTS)
 
     L.append(r"\textbf{$\alpha$ (\% per month)} & " + alpha_r + r" \\")
     L.append(r"\quad[$t$-statistic] & " + tstat_r + r" \\")
@@ -317,7 +317,7 @@ L = []
 L.append(r"% TABLE 4 — Regional Results  [auto-generated]")
 L.append(r"\begin{table}[htbp]")
 L.append(r"\centering\small")
-L.append(r"\caption{Regional Fama-French Five-Factor Alpha by Insider Ownership Quintile (H4 and H5)}")
+L.append(r"\caption{Regional Fama French Five Factor Alpha by Insider Ownership Quintile (H4 and H5)}")
 L.append(r"\label{tab:regional}")
 L.append(r"")
 for region, panel in [("North America","Panel A"),("Europe","Panel B"),
@@ -384,30 +384,30 @@ L.append(r"\vspace{4pt}")
 L.append(r"\begin{minipage}{\textwidth}")
 L.append(r"\footnotesize\textit{Notes:} \ding{51} = supported; $\sim$ = partially supported."
          r" $^{***}p{<}0.01$, $^{**}p{<}0.05$, $^{*}p{<}0.10$. Newey-West (6 lags)."
-         r" 1,285 firms, January 2015--December 2025 (132 months).")
+         r" 1,285 firms, January 2015 to December 2025 (132 months).")
 L.append(r"\end{minipage}")
 L.append(r"\end{table}")
 write("table_05_hypotheses", L)
 
 
 # ══════════════════════════════════════════════════════════════════════════
-# TABLE R1 — Split-Sample
+# TABLE R1 — Split Sample
 # ══════════════════════════════════════════════════════════════════════════
 print("Building Table R1...")
 
 def ss_panel(panel_label, period, nobs, data):
     L = []
-    L.append(f"\\textit{{{panel_label} --- {period} ({nobs} months)}}\\\\[3pt]")
+    L.append(f"\\textit{{{panel_label} : {period} ({nobs} months)}}\\\\[3pt]")
     L.append(r"\begin{tabularx}{\textwidth}{" + TABCOLS + "}")
     L.append(r"\toprule")
     L.append(r" & \textbf{P1 (Low)} & \textbf{P2} & \textbf{P3}"
              r" & \textbf{P4} & \textbf{P5 (High)} & \textbf{HML} \\")
     L.append(r"\midrule")
-    alpha_r = " & ".join(alpha_cell(data.loc[p]) if p in data.index else "---" for p in PORTS)
-    tstat_r = " & ".join(tstat_cell(data.loc[p]) if p in data.index else "---" for p in PORTS)
-    ann_r   = " & ".join(f3(data.loc[p,"Alpha (% pa)"]) if p in data.index else "---" for p in PORTS)
+    alpha_r = " & ".join(alpha_cell(data.loc[p]) if p in data.index else ":" for p in PORTS)
+    tstat_r = " & ".join(tstat_cell(data.loc[p]) if p in data.index else ":" for p in PORTS)
+    ann_r   = " & ".join(f3(data.loc[p,"Alpha (% pa)"]) if p in data.index else ":" for p in PORTS)
     rsq_col = "Adj R²" if "Adj R²" in data.columns else "Adj R2" if "Adj R2" in data.columns else None
-    rsq_r   = " & ".join(f4(data.loc[p, rsq_col]) if (p in data.index and rsq_col) else "---" for p in PORTS)
+    rsq_r   = " & ".join(f4(data.loc[p, rsq_col]) if (p in data.index and rsq_col) else ":" for p in PORTS)
     L.append(r"\textbf{$\alpha$ (\% per month)} & " + alpha_r + r" \\")
     L.append(r"\quad[$t$-statistic] & " + tstat_r + r" \\")
     L.append(r"$\alpha$ (\% per year) & " + ann_r + r" \\")
@@ -420,14 +420,14 @@ def ss_panel(panel_label, period, nobs, data):
     return L
 
 L = []
-L.append(r"% TABLE R1 — Split-Sample  [auto-generated]")
+L.append(r"% TABLE R1 — Split Sample  [auto-generated]")
 L.append(r"\begin{table}[htbp]")
 L.append(r"\centering\small")
-L.append(r"\caption{Split-Sample Robustness --- FF5 Alpha by Ownership Quintile}")
+L.append(r"\caption{Split Sample Robustness: FF5 Alpha by Ownership Quintile}")
 L.append(r"\label{tab:splitsample}")
 L.append(r"")
-L.extend(ss_panel("Panel A: Pre-COVID",  "January 2015--December 2019", 60,  res_pre))
-L.extend(ss_panel("Panel B: Post-COVID", "January 2020--December 2025", 72, res_post))
+L.extend(ss_panel("Panel A: Pre-COVID",  "January 2015 to December 2019", 60,  res_pre))
+L.extend(ss_panel("Panel B: Post-COVID", "January 2020 to December 2025", 72, res_post))
 L.append(r"\begin{minipage}{\textwidth}")
 L.append(r"\footnotesize\textit{Notes:} Quintile assignments identical across panels (2025 snapshot)."
          r" Tests whether alpha is spuriously driven by end-of-sample ownership concentration."
@@ -450,18 +450,18 @@ cnt_t3 = {
     "T3": int((own >= t2_break).sum())
 }
 
-def ta(p, d): return alpha_cell(d.loc[p]) if p in d.index else "---"
-def tt(p, d): return tstat_cell(d.loc[p]) if p in d.index else "---"
-def tan(p, d): return f3(d.loc[p,"Alpha (% pa)"]) if p in d.index else "---"
+def ta(p, d): return alpha_cell(d.loc[p]) if p in d.index else ":"
+def tt(p, d): return tstat_cell(d.loc[p]) if p in d.index else ":"
+def tan(p, d): return f3(d.loc[p,"Alpha (% pa)"]) if p in d.index else ":"
 def trsq(p, d):
     c = "Adj R²" if "Adj R²" in d.columns else "Adj R2" if "Adj R2" in d.columns else None
-    return f4(d.loc[p, c]) if (p in d.index and c) else "---"
+    return f4(d.loc[p, c]) if (p in d.index and c) else ":"
 
 L = []
 L.append(r"% TABLE R2 — Alternative Sorts  [auto-generated]")
 L.append(r"\begin{table}[htbp]")
 L.append(r"\centering\small")
-L.append(r"\caption{Alternative Portfolio Sort Specifications --- FF5 Alpha Robustness}")
+L.append(r"\caption{Alternative Portfolio Sort Specifications : FF5 Alpha Robustness}")
 L.append(r"\label{tab:alt_sorts}")
 L.append(r"")
 L.append(f"\\textit{{Panel A: Tercile Sort (cut-offs: {t1_break:.2f}\\% and {t2_break:.2f}\\%)}}\\\\[3pt]")
@@ -532,17 +532,17 @@ write("table_R2_alt_sorts", L)
 
 
 # ══════════════════════════════════════════════════════════════════════════
-# TABLE R3 — Value-Weighted
+# TABLE R3 — Value Weighted
 # ══════════════════════════════════════════════════════════════════════════
 print("Building Table R3...")
 write("table_R3_vw", reg_table(
     "TABLE R3",
-    "Fama-French Five-Factor Alpha --- Value-Weighted Portfolios (Robustness)",
+    "Fama French Five Factor Alpha: Value Weighted Portfolios (Robustness)",
     "tab:vw",
     vw,
-    r"Replicates Table~\ref{tab:ff5_global} with value-weighted returns."
+    r"Replicates Table~\ref{tab:ff5_global} with value weighted returns."
     r" Weights: lagged market capitalisation (FactSet)."
-    r" Tests whether equal-weighted alpha is driven by smaller firms."
+    r" Tests whether equal weighted alpha is driven by smaller firms."
     r" $^{***}p{<}0.01$, $^{**}p{<}0.05$, $^{*}p{<}0.10$."
 ))
 
