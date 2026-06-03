@@ -180,7 +180,7 @@ def build_table1(wb):
     ws.cell(r,1,"Table 1").font = FONT_TITLE
     ws.cell(r,1).alignment = ALIGN_L
     r += 1
-    ws.cell(r,1,"Sample Characteristics — Insider Ownership Quintile Portfolios").font = FONT_TITLE
+    ws.cell(r,1,"Sample Characteristics: Insider Ownership Quintile Portfolios").font = FONT_TITLE
     ws.cell(r,1).alignment = ALIGN_L
     r += 2
 
@@ -287,8 +287,8 @@ def build_table1(wb):
         "portfolios and the high-minus-low (HML) spread portfolio. Panel A shows the "
         "distribution of 1,285 firms from Wood (2025) across ownership quintiles and "
         "regions. Ownership ranges are determined by equal-size quintile sorts on "
-        "insider ownership as of 2025. Sample period: January 2015 – December 2025 "
-        "(132 months). Returns are equal-weighted, in USD, and winsorised at the "
+        "insider ownership as of 2025. Sample period: January 2015 to December 2025 "
+        "(132 months). Returns are equal weighted, in USD, and winsorised at the "
         "1st and 99th percentile. Sharpe ratio is annualised: (mean monthly return / "
         "monthly std dev) × √12."
     )
@@ -516,20 +516,20 @@ def build_table5(wb):
          "All 5 quintiles: α > 0, t > 2.73 (p < 0.01). "
          "P5: α = 1.45% pm (17.5% pa, t = 4.93***). "
          "HML spread: α = 0.53% pm (t = 2.73***).",
-         "✓ Supported"),
+         "Supported"),
 
         ("H2", "Monotonicity hypothesis",
          "FF5 alpha increases monotonically across ownership quintiles",
          "P1=0.924%, P2=1.135%, P3=1.378%, P4=1.090%, P5=1.454%. "
-         "P4 dips below P3 — not fully monotonic. "
+         "P4 dips below P3: not fully monotonic. "
          "However, P5 > P1 significantly (HML t = 2.73***).",
-         "~ Partially"),
+         "Partially"),
 
         ("H3", "Specification robustness",
          "Ownership alpha robust to FF6 (+ momentum) and value-weighting",
          "FF6 HML: α = 0.528% pm (t = 2.79***), vs FF5: 0.530%. "
          "Momentum factor (UMD) does not absorb the alpha.",
-         "✓ Supported"),
+         "Supported"),
 
         ("H4", "Regional robustness",
          "Positive alpha holds in each regional subsample",
@@ -537,14 +537,14 @@ def build_table5(wb):
          "HML significant in North America (t = 1.68*). "
          "Asia-Pac HML positive but not significant (t = 1.63). "
          "EM HML positive but not significant (t = 0.94).",
-         "~ Partially"),
+         "Partially"),
 
         ("H5", "US-Europe contrast",
          "North America ownership alpha exceeds European alpha",
          "NA HML: +1.768% pm (21.2% pa, t = 1.68*). "
          "EU HML: −0.133% pm (−1.6% pa, t = −0.47). "
          "Difference is large and directionally consistent.",
-         "✓ Supported"),
+         "Supported"),
     ]
 
     for hyp, hyp_name, hypothesis, result, support in rows:
@@ -556,10 +556,10 @@ def build_table5(wb):
         ws.cell(r,3).alignment = Alignment(horizontal="left", wrap_text=True)
         ws.cell(r,4,result).font = FONT_BODY
         ws.cell(r,4).alignment = Alignment(horizontal="left", wrap_text=True)
-        col = "✓" in support and "4CAF50" or ("~" in support and "FF9800" or "F44336")
+        col = support == "Supported" and "4CAF50" or (support == "Partially" and "FF9800" or "F44336")
         c = ws.cell(r,5,support)
         c.font = Font(name="Times New Roman", size=10, bold=True,
-                      color=("1B5E20" if "✓" in support else "E65100"))
+                      color=("1B5E20" if support == "Supported" else "E65100"))
         c.alignment = ALIGN_C
         ws.row_dimensions[r].height = 60
         r += 1
@@ -567,12 +567,12 @@ def build_table5(wb):
     style_row(ws, r-1, 1, 5, border=Border(bottom=THICK))
 
     r += 1
-    note = ("Notes: ✓ = hypothesis supported; ~ = partially supported. "
+    note = ("Notes: Supported = hypothesis fully supported; Partially = partially supported. "
             "***p<0.01, **p<0.05, *p<0.10. All regressions use Newey-West (1987) "
             "heteroskedasticity- and autocorrelation-consistent standard errors with 6 lags. "
-            "Sample: January 2015 – December 2025 (132 months), 1,285 globally listed firms "
+            "Sample: January 2015 to December 2025 (132 months), 1,285 globally listed firms "
             "with insider ownership > 20% and market capitalisation > $1 billion (Wood, 2025). "
-            "Global regressions use Fama-French Developed Markets five-factor model. "
+            "Global regressions use Fama French Developed Markets five factor model. "
             "Regional regressions use regional factors from Fama and French (2012, 2015).")
     ws.cell(r,1,note).font = FONT_NOTE
     ws.cell(r,1).alignment = Alignment(horizontal="left", wrap_text=True)
@@ -584,7 +584,7 @@ def build_table5(wb):
 # ══════════════════════════════════════════════════════════════════════
 
 def build_r1(wb):
-    ws = wb.create_sheet("Table R1 Split-Sample")
+    ws = wb.create_sheet("Table R1 Split Sample")
     ws.sheet_view.showGridLines = False
     ws.column_dimensions["A"].width = 28
     for c in ["B","C","D","E","F","G"]:
@@ -593,17 +593,17 @@ def build_r1(wb):
     r = 1
     wc(ws,r,1,"Table R1", FONT_TITLE, ALIGN_L)
     r += 1
-    wc(ws,r,1,"Split-Sample Robustness — FF5 Alpha by Ownership Quintile", FONT_TITLE, ALIGN_L)
+    wc(ws,r,1,"Split Sample Robustness: FF5 Alpha by Ownership Quintile", FONT_TITLE, ALIGN_L)
     r += 2
 
     col_labels = ["P1\n(Low)","P2","P3","P4","P5\n(High)","HML\n(P5−P1)"]
     PORTS = ["P1","P2","P3","P4","P5","HML"]
 
     for panel_label, period_label, data, n_months in [
-        ("Panel A: Pre-COVID", "January 2015 – December 2019 (60 months)", res_pre,  60),
-        ("Panel B: Post-COVID","January 2020 – December 2025 (72 months)", res_post, 72),
+        ("Panel A: Pre-COVID", "January 2015 to December 2019 (60 months)", res_pre,  60),
+        ("Panel B: Post-COVID","January 2020 to December 2025 (72 months)", res_post, 72),
     ]:
-        wc(ws,r,1,f"{panel_label} — {period_label}", FONT_PANEL, ALIGN_L)
+        wc(ws,r,1,f"{panel_label}: {period_label}", FONT_PANEL, ALIGN_L)
         r += 1
 
         # Column header row
@@ -660,14 +660,14 @@ def build_r1(wb):
 
     # Note
     note = (
-        "Notes: This table reports split-sample Fama-French five-factor regression results "
+        "Notes: This table reports split sample Fama French five factor regression results "
         "to address the concern that static ownership sorting (2025 snapshot) may introduce "
         "look-ahead bias. If the ownership-alpha relationship is spuriously driven by "
         "end-of-sample ownership concentration, we would expect the alpha pattern to be "
         "substantially weaker or absent in the pre-2020 sub-period. "
         "The ownership quintile assignments are identical in both panels "
         "(sorted once using 2025 snapshot ownership). "
-        "Global Fama-French Developed Markets factors from French (2025) data library. "
+        "Global Fama French Developed Markets factors from French (2025) data library. "
         "Newey-West t-statistics with 6 lags. ***p<0.01, **p<0.05, *p<0.10."
     )
     ws.cell(r,1,note).font = FONT_NOTE
@@ -687,7 +687,7 @@ def build_r2(wb):
     r = 1
     wc(ws,r,1,"Table R2", FONT_TITLE, ALIGN_L)
     r += 1
-    wc(ws,r,1,"Alternative Portfolio Sort Specifications — FF5 Alpha Robustness", FONT_TITLE, ALIGN_L)
+    wc(ws,r,1,"Alternative Portfolio Sort Specifications: FF5 Alpha Robustness", FONT_TITLE, ALIGN_L)
     r += 2
 
     # ── Panel A: Tercile sort ──────────────────────────────────────
@@ -725,7 +725,7 @@ def build_r2(wb):
     r += 2
 
     # ── Panel B: Decile sort ──────────────────────────────────────
-    wc(ws,r,1,"Panel B: Decile Sort — Granular Ownership-Alpha Pattern  (~128 firms per decile)", FONT_PANEL, ALIGN_L)
+    wc(ws,r,1,"Panel B: Decile Sort: Granular Ownership Alpha Pattern  (~128 firms per decile)", FONT_PANEL, ALIGN_L)
     r += 1
 
     DECILES   = [f"D{i}" for i in range(1,11)]
@@ -773,9 +773,9 @@ def build_r2(wb):
         "(D10: 68–100%) reflecting the right-skewed ownership distribution. "
         "The decile progression shows whether the ownership-alpha relationship is smooth "
         "and continuous or concentrated in specific ownership ranges. "
-        "HML is long D10 and short D1. All specifications use global Fama-French "
-        "Developed Markets five-factor model with Newey-West t-statistics (6 lags), "
-        "equal-weighted returns, January 2015 – December 2025. "
+        "HML is long D10 and short D1. All specifications use global Fama French "
+        "Developed Markets five factor model with Newey-West t-statistics (6 lags), "
+        "equal weighted returns, January 2015 to December 2025. "
         "***p<0.01, **p<0.05, *p<0.10."
     )
     ws.cell(r,1,note).font = FONT_NOTE
@@ -796,22 +796,22 @@ build_regression_table(
     wb,
     sheet_name = "Table 2 FF5 Global",
     title      = "Table 2",
-    subtitle   = ("Fama-French Five-Factor Alpha by Insider Ownership Quintile — "
-                  "Global Equal-Weighted Portfolios"),
+    subtitle   = ("Fama French Five Factor Alpha by Insider Ownership Quintile: "
+                  "Global Equal Weighted Portfolios"),
     data       = ff5,
     factor_cols= ["β Mkt-RF","β SMB","β HML","β RMW","β CMA"],
     note_text  = (
-        "Notes: This table reports Fama-French five-factor time-series regression results "
+        "Notes: This table reports Fama French five factor time-series regression results "
         "for ownership-sorted portfolios following Fahlenbrach (2009, Table 6). "
         "Firms are sorted once into quintiles based on aggregate insider ownership as of 2025. "
         "P1 (Low) contains firms with 20.00–26.46% ownership; P5 (High) contains firms with "
         "56.87–99.81% ownership. The HML portfolio is long P5 and short P1. "
-        "Returns are equal-weighted and winsorised at the 1st and 99th percentile. "
+        "Returns are equal weighted and winsorised at the 1st and 99th percentile. "
         "Regression specification: R_p,t − RF_t = α_p + β₁MKT_t + β₂SMB_t + β₃HML_t "
         "+ β₄RMW_t + β₅CMA_t + ε_p,t. "
-        "Global Fama-French Developed Markets factors from French (2025) data library. "
+        "Global Fama French Developed Markets factors from French (2025) data library. "
         "t-statistics in brackets are Newey-West (1987) corrected with 6 lags. "
-        "Sample: January 2015 – December 2025 (132 months). "
+        "Sample: January 2015 to December 2025 (132 months). "
         "***p<0.01, **p<0.05, *p<0.10."
     )
 )
@@ -821,14 +821,14 @@ build_regression_table(
     wb,
     sheet_name = "Table 3 FF6 Robustness",
     title      = "Table 3",
-    subtitle   = ("Fama-French Six-Factor Alpha by Insider Ownership Quintile — "
+    subtitle   = ("Fama French Six Factor Alpha by Insider Ownership Quintile: "
                   "Robustness Check Including Momentum Factor"),
     data       = ff6,
     factor_cols= ["β Mkt-RF","β SMB","β HML","β RMW","β CMA","β UMD"],
     note_text  = (
         "Notes: This table extends Table 2 by adding the Developed Momentum Factor (WML/UMD) "
-        "to the five-factor specification, following Carhart (1997). "
-        "The six-factor model tests whether the ownership alpha in Table 2 is subsumed by "
+        "to the five factor specification, following Carhart (1997). "
+        "The six factor model tests whether the ownership alpha in Table 2 is subsumed by "
         "momentum exposures. Comparing alphas across Tables 2 and 3 shows that the inclusion "
         "of UMD leaves all portfolio alphas virtually unchanged: the global HML alpha is "
         "0.528% per month in the FF6 model versus 0.530% in the FF5 model, confirming "
@@ -842,13 +842,13 @@ build_table4(
     wb,
     reg_data  = reg_sheets,
     title     = "Table 4",
-    subtitle  = ("Regional Fama-French Five-Factor Alpha by Insider Ownership Quintile "
+    subtitle  = ("Regional Fama French Five Factor Alpha by Insider Ownership Quintile "
                  "(H4 and H5)"),
     note_text = (
         "Notes: This table reports FF5 regression results separately for four regional "
         "subsamples, testing Hypotheses H4 (regional robustness) and H5 (US-Europe contrast). "
-        "Panel A uses Fama-French North American five-factor returns; Panel B uses European "
-        "five-factor returns; Panel C uses Asia Pacific ex-Japan five-factor returns; "
+        "Panel A uses Fama French North American five factor returns; Panel B uses European "
+        "five factor returns; Panel C uses Asia Pacific ex Japan five factor returns; "
         "Panel D uses global Developed Markets factors as a proxy (no EM ex-Asia regional "
         "factor set is published by French). "
         "Panel A (N=141): HML alpha = 1.768% per month (21.2% per year), significant at "
@@ -877,20 +877,20 @@ build_regression_table(
     wb,
     sheet_name  = "Table R3 FF5 VW",
     title       = "Table R3",
-    subtitle    = ("Fama-French Five-Factor Alpha by Insider Ownership Quintile — "
-                   "Value-Weighted Portfolios (Robustness)"),
+    subtitle    = ("Fama French Five Factor Alpha by Insider Ownership Quintile: "
+                   "Value Weighted Portfolios (Robustness)"),
     data        = vw,
     factor_cols = ["β Mkt-RF","β SMB","β HML","β RMW","β CMA"],
     note_text   = (
-        "Notes: This table replicates Table 2 using value-weighted portfolio returns "
+        "Notes: This table replicates Table 2 using value weighted portfolio returns "
         "as a robustness check. Within each ownership quintile, firms are weighted by "
         "their lagged market capitalisation (end of previous month) from FactSet "
         "(FREF_MARKET_VALUE_COMPANY). Value-weighting reduces the influence of smaller "
-        "firms within each portfolio and tests whether the equal-weighted alpha in "
+        "firms within each portfolio and tests whether the equal weighted alpha in "
         "Table 2 is driven by a size effect rather than an ownership effect. "
-        "All other specifications are identical to Table 2: global Fama-French "
-        "Developed Markets five-factor model, Newey-West t-statistics (6 lags), "
-        "January 2015 – December 2025 (132 months). "
+        "All other specifications are identical to Table 2: global Fama French "
+        "Developed Markets five factor model, Newey-West t-statistics (6 lags), "
+        "January 2015 to December 2025 (132 months). "
         "***p<0.01, **p<0.05, *p<0.10."
     )
 )
@@ -1009,7 +1009,7 @@ try:
     fig, ax = plt.subplots(figsize=(9, 4.5))
 
     x    = np.arange(len(DECILES))
-    BAR_COLOR = "#2c2c2c"   # single dark grey — clean, no gradient
+    BAR_COLOR = "#2c2c2c"   # single dark grey: clean, no gradient
 
     bars = ax.bar(x, alphas, width=0.55,
                   color=BAR_COLOR, edgecolor="black", linewidth=0.5, zorder=3)
@@ -1057,7 +1057,7 @@ try:
     # ── Title ─────────────────────────────────────────────────────
     ax.set_title(
         "Figure 6.  FF5 Alpha by Insider Ownership Decile\n"
-        "Equal-Weighted Portfolios, January 2015 – December 2025",
+        "Equal Weighted Portfolios, January 2015 to December 2025",
         fontsize=10, loc="left", pad=8
     )
 
@@ -1077,7 +1077,7 @@ try:
     # ── Note below figure ─────────────────────────────────────────
     fig.text(
         0.01, -0.08,
-        "Note: This figure shows the equal-weighted Fama-French five-factor alpha "
+        "Note: This figure shows the equal weighted Fama French five factor alpha "
         "for ten ownership-sorted decile portfolios. Each decile contains approximately "
         "128 firms. Ownership ranges are shown on the x-axis. "
         "Newey-West (1987) t-statistics with 6 lags in parentheses below each bar. "
@@ -1093,12 +1093,12 @@ try:
     print("  Saved: figure6_decile_alphas.pdf / .png")
 
 except FileNotFoundError:
-    print("  results_alternative_sorts_FF5.xlsx not found — run thesis_analysis.py first")
+    print("  results_alternative_sorts_FF5.xlsx not found: run thesis_analysis.py first")
 
 
 print("\n" + "="*60)
-print("DONE — outputs saved:")
-print("  thesis_tables.xlsx          — all 8 academic tables (1–5, R1, R2, R3)")
-print("  figure6_decile_alphas.pdf   — decile alpha chart (for thesis)")
-print("  figure6_decile_alphas.png   — decile alpha chart (preview)")
+print("DONE: outputs saved:")
+print("  thesis_tables.xlsx         : all 8 academic tables (1–5, R1, R2, R3)")
+print("  figure6_decile_alphas.pdf  : decile alpha chart (for thesis)")
+print("  figure6_decile_alphas.png  : decile alpha chart (preview)")
 print("="*60)
