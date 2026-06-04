@@ -1,0 +1,82 @@
+% ===== Chapter 3: auto-converted from Word =====
+
+\section{Data and Methodology}
+
+The analysis follows the portfolio sorting and factor model approach established by Fahlenbrach (2009) and Lilienfeld-Toal and Ruenzi (2014). Applied to a global universe of firms and sorted on aggregate insider ownership. Section 3.1 describes the construction of the sample. Section 3.2 details the data sources and variable definitions. Section 3.3 explains the construction of the ownership sorted portfolios. Section 3.4 sets out the Fama-French five factor model and the estimation procedure. Section 3.5 describes the regional subsample analysis, and Section 3.6 outlines the robustness tests.
+
+
+\subsection{Sample Construction}
+
+The sample is made up of the universe of firms identified by Wood (2025). Wood (2025) screens the global equity market for companies in which insiders collectively hold more than 20\% of outstanding shares and which have a market capitalization exceeding one billion US dollars. These two criteria define what Wood defines as owner operated firms: companies which are large enough to be economically meaningful and investable, yet in which insiders have a substantial stake that their incentives differ from those of dispersed ownership firms. The 20\% threshold follows the corporate governance literature, in which ownership is generally regarded as sufficient to influence and control over major corporate decisions (Morck, Shleifer, and Vishny, 1988; La Porta, Lopez-de-Silanes, and Shleifer, 1999).
+
+The ownership measure is aggregate insider ownership, defined as the combined equity stake held by all corporate insiders, including executives, directors, founders, and affiliated entities. This definition is broader than the CEO ownership measure used by Lilienfeld-Toal and Ruenzi (2014) or the founder CEO indicator used by Fahlenbrach (2009), and it is the measure most directly aligned with the alignment theory. Operating through the total equity exposure of the controlling group rather than through any single individual.
+
+Two adjustments are made to the raw universe to ensure data integrity. First, Rumble Inc., is excluded because its reported insider ownership of 129.3\% reflects a data error arising from multiple share classes and cannot represent a genuine ownership stake. Second, eleven firms are excluded because no return data are available over the sample period to delisting, illiquidity, or incomplete coverage in the data source. After these exclusions, the final sample comprises 1,285 firms with ownership and return data. The sample period runs from January 2015 to December 2025 with monthly observations.
+
+The geographic distribution of the sample reflects the global character of insider ownership. Asia-Pacific accounts for 962 firms (75\% of the sample), North America for 141 firms (11\%), Europe for 109 firms (9\%), and the remaining emerging markets outside Asia for 73 firms (6\%). This distribution is itself informative: high insider ownership is far more prevalent in Asia-Pacific and emerging markets than in the widely dispersed ownership firm characteristics of North America and Western Europe. A pattern consistent with the cross-country evidence of La Porta et al. (1999) and Claessens, Djankov, and Lang (2000).
+
+
+\subsection{Data Sources and Variable Definitions}
+
+Ownership data are taken from the Wood (2025) dataset, which sources insider ownership figures from Capital IQ as of 2025. The ownership figure for each firm is the aggregate percentage of shares held by insiders. Because ownership is measured at a single point in time, the sorting variable is treated as static throughout the sample period. The implications of this choice are discussed in Section 3.3 and tested formally in Section 3.6.
+
+Monthly total return data are obtained from FactSet using the P\_TOTAL\_RETURN data item, expressed in US dollars and inclusive of dividends. Returns are collected at monthly frequency for the full sample period. Denominating all returns in a common currency removes the confounding influence of exchange rate movements across the globally diverse sample and ensures comparability with the US dollar returns described below. Monthly market capitalization data, used for the value weighted portfolios, are obtained from FactSet using the FREF\_MARKET\_VALUE\_COMPANY data item in US dollars. Market capitalization is collected at the same monthly frequency as returns, allowing portfolio weights to be updated each month.
+
+The asset pricing factors are taken from the data library maintained by Kenneth French. The primary specification uses the Fama French developed markets five factor returns, which provide global factor benchmarks constructed from developed market equities. For the regional subsample analysis the corresponding regional factor sets are used: the North American, European, and Asia Pacific ex Japan five factor returns. As no dedicated factor set exists for emerging markets outside Asia, the global developed markets factors are used as a proxy for that subsample. The momentum factor used in the six factor robustness test is the corresponding developed markets momentum factor from the same source. All factor returns are monthly and expressed in US dollars, matching the frequency and currency of the firm-level return data.
+
+
+\subsection{Ownership Portfolio Construction}
+
+Firms are sorted into five portfolios based on their aggregate insider ownership. The sort produces quintiles of approximately equal size, ranging from P1, containing the firms with the lowest ownership, to P5, containing those with the highest. Because the universe is restricted to firms above the 20\% threshold, even the lowest quintile represents substantial insider ownership. The resulting ownership ranges are 20.0\% to 26.5\% for P1, 26.5\% to 34.0\% for P2, 34.0\% to 43.7\% for P3, 43.7\% to 56.8\% for P4 and 56.8\% to 99.8\% for P5. In addition to the five quintile portfolios, a high minus low spread portfolio is constructed as a long position in P5 and a short position in P1. This spread portfolio isolates the return differential attributable to ownership concentration within the universe and is an important result for testing the monotonicity hypothesis.
+
+Portfolios are sorted once using the 2025 ownership snapshot, and are fixed throughout the sample period. This static approach is on one side an intentional methodological choice and on the other side an data limitation. Ownership data is not reported monthly. A possibility was to use quarterly or yearly ownership data, but the author of this paper chose to work with the ownership snapshot. The reason for this is because ownership is among the most persistent of firm characteristics: Holderness, Kroszner, and Sheehan (1999) document year on year autocorrelations in managerial ownership exceeding 0.90. Large insider stakes tend to remain stable over long horizons and are often held for control or strategic reasons. A firm with majority insider ownership in 2025 is in this paper assumed to be a high ownership firm throughout the preceding decade. Static sorting therefore introduces minimal measurement error while dampening the look ahead concerns, nevertheless this paper acknowledges a potential look ahead concern. The robustness of the assumption of persistent ownership is tested directly through the split sample analysis described in Section 3.6.
+
+The primary specification uses equal weighted portfolio returns, in which each firm receives identical weight within its portfolio in each month. Equal weighting is the standard approach in the ownership sorted portfolio literature (Fahlenbrach, 2009; Lilienfeld-Toal and Ruenzi, 2014) and is chosen for this paper. Equal weight portfolios ensure that the test reflects the ownership characteristic across all firms rather than being dominated by a small number of very large firms. Apart from that the sample is heavily concentrated in Asia-Pacific, , which narrows a global study to a few dozen names. To prevent the influence of extreme observations, monthly portfolio returns are capped at the first and ninety-ninth percentiles.
+
+As a robustness check, value weighted portfolios are also constructed, in which each firm is weighted by its market capitalisation at the end of the previous month. Lagging the weights by one month avoids any look ahead bias that would arise from measuring market capitalisation at the same time. The value weighted results are reported alongside the equal weighted results and discussed in the following chapter.
+
+3.4 The Fama-French Five-Factor Model
+
+The central empirical method is the estimation of risk adjusted returns using the Fama and French (2015) five factor model. For each portfolio, the following time series regression is estimated:
+
+\textit{Rₚ,ₜ − RFₜ = }\textit{α}\textit{ₚ + }\textit{β}\textit{₁(MKTₜ − RFₜ) + }\textit{β}\textit{₂SMBₜ + }\textit{β}\textit{₃HMLₜ + }\textit{β}\textit{₄RMWₜ + }\textit{β}\textit{₅CMAₜ + }\textit{ε}\textit{ₚ,ₜ}
+
+where Rₚ,ₜ is the return on portfolio p in month t, RFₜ is the risk free rate, and the right hand side variables are the five Fama French factors. The market factor (MKT − RF) is the excess return on the market portfolio. SMB (small minus big) captures the size premium, the pattern of small capitalisation firms to outperform large ones. HML (high minus low) captures the value premium associated with high book to market firms. RMW (robust minus weak) captures the profitability premium, and CMA (conservative minus aggressive) captures the investment premium, meaning firms that invest conservatively tend to outperform those that invest aggressively. The coefficient of primary interest is the intercept, αₚ, which measures the average monthly return on the portfolio that is not explained by its exposure to the five systematic factors. A positive and statistically significant alpha indicates that the portfolio earns a risk adjusted return premium relative to the factor benchmark.
+
+The five factor model is preferred over the original three factor model because the profitability and investment factors are directly relevant to the ownership question. The theoretical literature predicts that firms with aligned insider ownership invest more efficiently and operate more profitably (Jensen and Meckling, 1976). When controlling for the profitability and investment dimensions ensures that any documented alpha reflects a genuine return premium rather than exposure to these characteristics. This is particularly important given the evidence in Wood (2025) that owner operated firms differ systematically from the broad market in their investment and profitability behaviour.
+
+Statistical inference is based on Newey and West (1987) heteroskedasticity and autocorrelation consistent standard errors, using six lags. This correction is standard in the asset pricing literature and is necessary because portfolio return residuals frequently exhibit serial correlation and heteroskedasticity. That would otherwise bias the ordinary least squares standard errors and overstate the significance of the estimated alphas. All reported t-statistics are computed using these corrected standard errors.
+
+
+\subsection{Regional Subsample Analysis}
+
+To test whether the ownership return relationship holds across the globe and different environments (Hypotheses H4 and H5), the analysis is repeated separately for four regional subsamples: North America, Europe, Asia-Pacific, and emerging markets outside Asia. Within each region firms are sorted into the same five ownership quintiles, and the five factor regression is estimated on the regional portfolios. Each regional subsample is evaluated against its own regional factor benchmark rather than the global factors. North American portfolios are regressed on the North American five factor returns, European portfolios on the European factors, and Asia-Pacific portfolios on the Asia Pacific ex Japan factors. This ensures that the regional alphas are measured relative to the local market and are not affected by differences in factor behaviour across regions. For the emerging markets outside Asia subsample, the global developed markets factors are used as a proxy. Interpreting the resulting alphas with care.
+
+The regional analysis is central to testing the boundary conditions of the ownership premium. Hypothesis H5 in particular predicts that the premium is larger in North America, where high insider ownership is rare and therefore more informative, than in Europe. In Europe concentrated ownership is common and less differentiated from the market. Comparing the regional HML alphas provides a direct test of this prediction.
+
+
+\subsection{Robustness Tests}
+
+Four sets of robustness tests are conducted to assess the stability of the main results and to address potential concerns regarding model specification. The static ownership measure, and the choice of portfolio cut offs.
+
+
+\subsubsection{Six Factor Model}
+
+The first robustness test addresses the possibility that the alpha reflects exposure to momentum rather than ownership. Following Carhart (1997), the momentum factor (denoted UMD or WML) is added to the five factor model. If the ownership alpha survives the inclusion of momentum, it cannot be attributed to high ownership firms to be past winners. This test directly addresses Hypothesis H3.
+
+
+\subsubsection{Split Sample Stability}
+
+The second robustness test addresses the concern that the static 2025 ownership snapshot may introduce look ahead bias. The sample is divided into two sub periods, January 2015 to December 2019 and January 2020 to December 2025. The five factor regression is estimated separately for each. The split also aligns with the COVID-19 pandemic, providing an economically meaningful division between distinct market regimes. If the ownership premium was a result of end of sample ownership, it would be expected to weaken or disappear in the earlier sub period. A stable premium across both halves could imply evidence that the static sort is an acceptable proxy for persistent ownership.
+
+
+\subsubsection{Alternative Portfolio Sorts}
+
+The third robustness test addresses the sensitivity of the results to the choice of quintile cut offs. The portfolio sort is repeated using two alternative specifications. First, firms are sorted into terciles that provide a test whether the pattern survives under broader groupings. Second, firms are sorted into deciles to provide a partition of approximately 128 firms each that reveal the pattern of the ownership and returns relationship. The decile sort is particularly informative because it shows whether the relationship is continuous and smooth or concentrated in specific ownership ranges.
+
+
+\subsubsection{Value Weighted Portfolios}
+
+The fourth robustness test estimates the main specification using value weighted rather than equal weighted portfolios, as described in Section 3.3. This test determines whether the equal weighted alpha is driven by smaller firms within the ownership universe or whether it persists when larger firms receive greater weight. Comparing the equal weighted and value weighted results show whether the premium is a broad based ownership effect or a finding concentrated among firms of a particular size.
+
+These four tests provide results whether the documented ownership-return relationship is robust to alternative model specifications, sample periods, sorting choices, and weighting schemes. The results of the main analysis and the robustness tests are presented in the following chapter.
