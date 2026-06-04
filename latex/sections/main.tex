@@ -1,0 +1,87 @@
+% ============================================================
+% main.tex  —  Master Thesis: Insider Ownership and Stock Returns
+% Jelle Vermeulen
+%
+% COMPILE:  pdflatex → bibtex → pdflatex → pdflatex
+%
+% Tables pulled from: ../tables/table_XX.tex
+% Figures pulled from: ../figures/figure_XX.pdf
+% ============================================================
+
+\documentclass[12pt, a4paper]{article}
+
+% ── Packages ──────────────────────────────────────────────
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{mathptmx}
+\usepackage{microtype}
+
+% Layout
+\usepackage[top=2.5cm, bottom=2.5cm, left=3.0cm, right=2.5cm]{geometry}
+\usepackage{setspace}
+\usepackage{parskip}
+\usepackage{titlesec}
+
+% Tables
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{adjustbox}
+\usepackage{multirow}
+\usepackage{array}
+
+% Math
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{pifont}            % \ding{51} checkmark
+
+% Figures
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{subcaption}
+\graphicspath{{../figures/}}   % figures/ folder relative to latex/
+
+% Bibliography
+\usepackage{natbib}
+\bibliographystyle{apalike}
+
+% Hyperlinks — load last
+\usepackage[colorlinks=true, linkcolor=black,
+            citecolor=black, urlcolor=blue]{hyperref}
+
+% ── Custom command: \inputtable ───────────────────────────
+% Tables live in tables/ one level above latex/
+% Usage: \inputtable{table_02_ff5_global}
+\newcommand{\inputtable}[1]{\input{../tables/#1}}
+
+% ── Global settings ───────────────────────────────────────
+\setstretch{1.5}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
+
+% ── Title ─────────────────────────────────────────────────
+\title{%
+  \vspace{-1cm}
+  \Large\textbf{Insider Ownership and Stock Returns:}\\[4pt]
+  \large\textbf{A Global Fama-French Five-Factor Portfolio Analysis}\\[12pt]
+  \normalsize Master Thesis in Financial Economics
+}
+\author{Jelle Vermeulen}
+
+
+
+% ════════════════════════════════════════════════
+\maketitle
+\newpage
+
+\input{sections/01_introduction}
+\input{sections/02_literature_review}
+\input{sections/03_data_methodology}
+\input{sections/04_results}
+\input{sections/05_discussion}
+\input{sections/06_conclusion}
+
+\newpage
+\bibliography{references}
+
+\end{document}
