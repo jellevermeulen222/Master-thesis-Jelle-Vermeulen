@@ -1043,9 +1043,9 @@ try:
 
     # ── Axes and labels ───────────────────────────────────────────
     ax.set_xticks(x)
-    ax.set_xticklabels(xlabels, fontsize=8)
-    ax.set_ylabel("FF5 Alpha (% per month)", fontsize=10, labelpad=8)
-    ax.set_xlabel("Insider Ownership Decile", fontsize=10, labelpad=28)
+    ax.set_xticklabels(xlabels, fontsize=9)
+    ax.set_ylabel("FF5 Alpha (% per month)", fontsize=11, labelpad=8)
+    ax.set_xlabel("Insider Ownership Decile", fontsize=11, labelpad=28)
     ax.set_ylim(-0.15, max(alphas) + 0.22)
 
     # Spine cleanup — top and right off (Wood style)
@@ -1053,13 +1053,6 @@ try:
     ax.spines["right"].set_visible(False)
     ax.yaxis.grid(True, color="#dddddd", linewidth=0.5, zorder=0)
     ax.set_axisbelow(True)
-
-    # ── Title ─────────────────────────────────────────────────────
-    ax.set_title(
-        "Figure 6.  FF5 Alpha by Insider Ownership Decile\n"
-        "Equal Weighted Portfolios, January 2015 to December 2025",
-        fontsize=10, loc="left", pad=8
-    )
 
     # ── Legend ────────────────────────────────────────────────────
     ax.legend(fontsize=8, frameon=False, loc="upper left")
@@ -1074,18 +1067,7 @@ try:
                 bbox=dict(boxstyle="square,pad=0.3", facecolor="white",
                           edgecolor="#aaaaaa", linewidth=0.6))
 
-    # ── Note below figure ─────────────────────────────────────────
-    fig.text(
-        0.01, -0.08,
-        "Note: This figure shows the equal weighted Fama French five factor alpha "
-        "for ten ownership-sorted decile portfolios. Each decile contains approximately "
-        "128 firms. Ownership ranges are shown on the x-axis. "
-        "Newey-West (1987) t-statistics with 6 lags in parentheses below each bar. "
-        "The dashed line shows the linear trend. "
-        "***p < 0.01,  **p < 0.05,  *p < 0.10.",
-        fontsize=8, style="italic", ha="left", va="top",
-        wrap=True
-    )
+    # ── Note is handled in LaTeX (appendix.tex), not baked into the image ──
 
     plt.tight_layout()
     save_fig(fig, "figure6_decile_alphas")
