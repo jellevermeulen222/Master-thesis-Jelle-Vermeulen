@@ -357,23 +357,23 @@ rows = [
     ("H1","Alpha hypothesis",
      "Positive significant FF5 alpha across all quintiles",
      r"All $\alpha>0$, $t>2.73^{***}$. P5: $1.45\%$ pm ($t=4.93$). HML: $0.53\%$ pm ($t=2.73$).",
-     r"\textbf{\ding{51}} Supported"),
+     r"Supported"),
     ("H2","Monotonicity",
      r"$\alpha$ increases monotonically with ownership",
      r"P1=0.924\%, P2=1.135\%, P3=1.378\%, P4=1.090\%, P5=1.454\%. P4 dips below P3.",
-     r"$\sim$ Partial"),
+     r"Partial"),
     ("H3","Robustness",
      "Alpha survives FF6 and value-weighting",
      r"FF6 HML: $0.528\%$ ($t=2.79^{***}$) vs FF5: $0.530\%$. UMD does not absorb alpha.",
-     r"\textbf{\ding{51}} Supported"),
+     r"Supported"),
     ("H4","Regional robustness",
      "Positive alpha in all regional subsamples",
      r"P5$>0$ everywhere. NA HML significant ($t=1.68^{*}$). APAC $t=1.63$. EM $t=0.94$.",
-     r"$\sim$ Partial"),
+     r"Partial"),
     ("H5","US vs.\\ Europe",
      "NA alpha exceeds EU alpha",
      r"NA HML $+1.768\%$ pm ($t=1.68^{*}$). EU HML $-0.133\%$ pm ($t=-0.47$).",
-     r"\textbf{\ding{51}} Supported"),
+     r"Supported"),
 ]
 for h, hyp, pred, ev, res in rows:
     L.append(f"  {h} & {hyp} & {pred} & {ev} & {res} \\\\[4pt]")
@@ -382,8 +382,7 @@ L.append(r"\bottomrule")
 L.append(r"\end{tabularx}")
 L.append(r"\vspace{4pt}")
 L.append(r"\begin{minipage}{\textwidth}")
-L.append(r"\footnotesize\textit{Notes:} \ding{51} = supported; $\sim$ = partially supported."
-         r" $^{***}p{<}0.01$, $^{**}p{<}0.05$, $^{*}p{<}0.10$. Newey-West (6 lags)."
+L.append(r"\footnotesize\textit{Notes:} $^{***}p{<}0.01$, $^{**}p{<}0.05$, $^{*}p{<}0.10$. Newey-West (6 lags)."
          r" 1,285 firms, January 2015 to December 2025 (132 months).")
 L.append(r"\end{minipage}")
 L.append(r"\end{table}")
