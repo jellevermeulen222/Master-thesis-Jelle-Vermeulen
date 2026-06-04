@@ -18,7 +18,7 @@ Panel B of Table 1 reports the summary statistics for the equal weighted portfol
 
 Table 2 reports the central result of the thesis. Five factor alphas are estimated for each of the five ownership sorted equal weighted portfolios and for the HML spread over the period January 2015 to December 2025. All five quintile portfolios earn positive and statistically significant five factor alphas at the 1\% level. The monthly alphas are 0.924\% for P1 (t = 3.224), 1.135\% for P2 (t = 3.323), 1.378\% for P3 (t = 4.239), 1.090\% for P4 (t = 3.026), and 1.454\% for P5 (t = 4.934). On an annualized basis, these alphas range from 11.09\% for P1 to 17.45\% for P5. The HML spread earns a monthly alpha of 0.530\%, statistically significant at the 1\% level with a Newey-West t-statistic of 2.734. This corresponds to an annualized risk adjusted spread of 6.36\% per year between the highest- and lowest ownership quintiles within the universe.
 
-Table 2
+\input{table_02_ff5_global}
 
 Two features of these results need attention. The alpha is positive and significant across all five quintile portfolios, including the lowest ownership quintile (P1). The universe of Wood (2025) therefore earns risk adjusted returns relative to the developed markets factor benchmark, not only the high ownership tail. Next to that, the progression from P1 to P5 is increasing but not exactly monotonic: P4 (1.090\%) falls below P3 (1.378\%). The breakdown in monotonicity is confined to a single ownership range and does not undermine the overall pattern, as confirmed by the significant HML spread and the cleaner monotonicity found in the decile sort below.
 
@@ -29,7 +29,7 @@ The factor loadings need further context. Market betas range from 0.530 to 0.754
 
 Table 3 reports the six factor regression results, in which the Carhart (1997) momentum factor is added to the five factor specification. If the documented ownership alpha reflected exposure to past return momentum, it would move toward zero once the momentum factor is included. The results show this is not the case. The six factor HML alpha is 0.528\% per month with a t-statistic of 2.792, identical to the five factor estimate of 0.530\%. The individual quintile alphas also remain positive and significant at the 1\% level, with monthly values of 0.926\%, 1.123\%, 1.395\%, 1.090\%, and 1.454\% from P1 to P5 respectively. Momentum loadings on the HML spread are small and statistically insignificant, indicating that the ownership sorted portfolios are not systematically exposed to momentum. The ownership alpha is therefore robust to the inclusion of momentum, providing support for hypothesis H3.
 
-Table 3
+\input{table_03_ff6_robustness}
 
 
 \subsection{Regional Analysis}
@@ -42,7 +42,7 @@ In Europe (Panel B, 109 firms), the HML alpha is -0.133\% per month, statistical
 
 In Asia-Pacific (Panel C, 962 firms), the HML alpha is 0.422\% per month with a t-statistic of 1.633. This is positive but not significant. All five quintile portfolios earn significant alphas between 1.361\% and 1.789\% per month, again indicating a strong Wood universe level effect but a weak ownership concentration effect. In emerging markets outside Asia (Panel D, 73 firms), the HML alpha is 0.320\% per month with a t-statistic of 0.944, also not significant. The small sample size in this region limits the power of the test, and the use of global factors as a proxy gives additional uncertainty.
 
-Table 4
+\input{table_04_regional}
 
 Taken together, the regional analysis provides partial support for hypothesis H4 and supports hypothesis H5. Positive alpha is documented in every region for every quintile portfolio. The HML spread, however, is statistically significant only in North America, where high insider ownership is most rare. The fifth hypothesis, that the North American ownership alpha exceeds the European ownership alpha, is confirmed by a solid margin: 1.768\% versus -0.133\% per month at the HML level.
 
@@ -54,7 +54,7 @@ Taken together, the regional analysis provides partial support for hypothesis H4
 
 Table 6 reports the five factor results for the two periods, January 2015 to December 2019 (60 months) and January 2020 to December 2025 (72 months). The HML spread is positive and statistically significant in both halves. In the pre-COVID period the HML alpha is 0.764\% per month (t = 2.393, significant at the 5\% level), corresponding to 9.16\% per year. In the post-COVID period the HML alpha is 0.434\% per month (t = 2.272, also significant at the 5\% level), corresponding to 5.21\% per year. The pre-COVID alpha is larger than the post-COVID alpha. This is the opposite of what would be expected if the 2025 ownership snapshot were artificially driving results through look ahead bias. The stability of the HML alpha across the two sub periods supports the use of static ownership sorting. It provides further evidence that the documented premium is not an effect of end of sample measurement.
 
-Table 6
+\input{table_R1_splitsample}
 
 
 \subsubsection{Alternative Portfolio Sorts}
@@ -63,11 +63,11 @@ Moving on to the results of the two alternative sort specifications. Panel A of 
 
 Panel B of Table 7 reports the decile sort, in which the universe is divided into ten approximately equal size portfolios of around 128 firms each. The decile sort provides a detailed view of the ownership-return relationship across the full ownership distribution. Ownership ranges at the low end (D1: 20.0\% to 23.4\%, D2: 23.4\% to 26.4\%) and at the top end (D10: 68.4\% to 99.8\%). All ten decile portfolios earn positive and statistically significant five factor alphas at the 1\% level, with monthly values ranging from 0.99\% in D1 to 1.63\% in D10. The HML spread between the highest and lowest deciles is 0.630\% per month, significant at the 5\% level (t = 2.190), corresponding to an annualized spread of 7.57\%. Figure 1 in the appendix illustrates the decile alpha pattern visually, showing the upward trend across the ten deciles with the linear trend line showing the monotonic pattern. The decile HML spread is approximately 19\% larger than the quintile HML spread of 0.530\%, reflecting the wider ownership differential between D1 (20\% to 23\%) and D10 (68\% to 100\%) compared with P1 (20\% to 27\%) and P5 (57\% to 100\%).
 
-Table 7
+\input{table_R2_alt_sorts}
 
 
 \subsubsection{Value Weighted Portfolios}
 
 Table 8 presents the five factor regression results using value weighted portfolio returns. The value weighted HML spread alpha is 1.977\% per month (t = 2.204), significant at the 5\% level and corresponding to 23.72\% per year. This estimate is substantially larger than the equal weighted HML alpha of 0.530\% per month. The value weighted P5 portfolio earns a monthly alpha of 2.571\%, significant at the 1\% level (t = 3.091). The other value weighted quintile alphas are smaller in and less significant than their equal weighted counterparts: 0.594\% in P1 (significant at the 10\% level), 0.362\% in P2 (insignificant), 1.441\% in P3 (significant at the 10\% level), and 0.201\% in P4 (insignificant). The value weighted regressions also display lower adjusted R-squared values, indicating that the global factors explain a smaller share of return variation when weights are concentrated in a small number of large firms. The reduced significance of individual quintile alphas under value weighting reflects the higher portfolio return volatility that results from this concentration rather than a weaker underlying premium. The value weighted results therefore confirm that the ownership premium is not a result of equal weighting smaller firms within each portfolio. 
 
-Table 8
+\input{table_R3_vw}
